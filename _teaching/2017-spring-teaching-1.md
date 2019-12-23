@@ -8,8 +8,6 @@ date: 2017-03-01
 location: "Makeni, Sierra Leone"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Course objectives: 
 ==================
 * To understand and describe syntax and semantics of programming languages
