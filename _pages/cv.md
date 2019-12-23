@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Makeni, 2017
+* M.S. in Computer Science and Engineering, University of Dhaka, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2018 : Research Teaching Assistant
+  * University of Makeni
+  * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages, Introducion to Computing, Web Programming, Relational Database Systems theory and practice
+  * Supervisor: Lakshamana Namamula Rao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Research Assistant
+  *  Limkokwing University of Creative Technology
+  * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages and Introducion to Computing
+  * Supervisor: Aiah James
+  
+* 2017-2018 : College Registrar
+  * African Accents International Institute of Computer Technology
+  * Duties included: Oversight of Enrollment, coodination of outreach activities 
+  * Supervisor: Mustapha Jalloh
   
 Skills
 ======
