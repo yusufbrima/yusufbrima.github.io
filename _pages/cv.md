@@ -30,15 +30,21 @@ Work experience
   * African Accents International Institute of Computer Technology
   * Duties included: Oversight of Enrollment, coodination of outreach activities 
   * Supervisor: Mustapha Jalloh
-  
+
+Seminars
+======
+* 2018 : Seminar on ICT in Higher Education Innovation for African Countries 
+  * UNESCO-ICHEI
+  * Location : China
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing
+  * Knowledge of algorithm discovery and representation
+  * Agile and defensive programming
+  * Mathematical Modelling and Optimization
+  * Software Engineering processes
+* Leadership Skills
 
 Publications
 ======
