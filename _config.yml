@@ -87,7 +87,7 @@ author:
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "yusufbrima@cse.du.ac.bd"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Yusuf_Brima"
+  researchgate     :  "https://www.researchgate.net/profile/Yusuf_Brima"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,14 +101,13 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yusufbrima/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "yusufbrima"
   vine             :
   weibo            :
   xing             :
