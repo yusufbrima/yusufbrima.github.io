@@ -18,6 +18,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #  url: /year-archive/
      

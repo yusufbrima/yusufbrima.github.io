@@ -8,15 +8,6 @@ date: 2017-03-01
 location: "Makeni, Sierra Leone"
 ---
 
-Course objectives: 
-==================
-
-
-Course Outcomes: 
-================
-Upon Completion of the course, the students will be able to 
-
-
 Unit I
 =======
 Data mining – Introduction – Information and production factor – Data mining vs query tools– Data mining in marketing – Self learning computer systems – concept learning – Data mining and the data warehouse.
