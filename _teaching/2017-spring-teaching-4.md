@@ -8,14 +8,6 @@ date: 2017-03-01
 location: "Makeni, Sierra Leone"
 ---
 
-Course objectives: 
-==================
-
-
-Course Outcomes: 
-================
-Upon Completion of the course, the students will be able to 
-
 
 Unit-1: Introduction To Database Systems
 ========================================
