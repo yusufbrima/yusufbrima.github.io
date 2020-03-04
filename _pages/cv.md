@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Makeni, 2017
-* M.S. in Computer Science and Engineering, University of Dhaka, 2020 (expected)
+* BSc. in Computer Science, University of Makeni, 2017
+* MSc. in Computer Science and Engineering, University of Dhaka, 2020 (expected)
 
 Work experience
 ======
@@ -64,6 +64,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
