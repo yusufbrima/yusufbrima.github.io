@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &yusufbrima
+  username               : &_yusufbrima
 facebook:
   username               : &yusufbrima
   app_id                 :
@@ -89,11 +89,11 @@ author:
   email            :  "yusufbrima@cse.du.ac.bd"
   researchgate     :  "https://www.researchgate.net/profile/Yusuf_Brima"
   uri              :
-  bitbucket        :
+  bitbucket        :  "yusufbrima"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :  "yusufbrima"
   foursquare       :
   github           : "yusufbrima"
   google_plus      :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yusufbrima"
+  twitter          : "_yusufbrima"
   vine             :
   weibo            :
   xing             :
