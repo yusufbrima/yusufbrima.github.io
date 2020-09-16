@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yusuf Brima"
 title_separator          : "-"
 name                     : &name "Yusuf Brima"
-description              : &description "MSc. student, Computer Science Department, University of Dhaka"
+description              : &description "MSc. student, African Institute of Mathematecal Science, AIMS"
 url                      : https://yusufbrima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yusufbrima/yusufbrima.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yusuf Brima"
   avatar           : "profile.jpg"
-  bio              : "MSc student, Computer Science and Engineering, University of Dhaka"
-  location         : "Dhaka, Bangladesh"
+  bio              : "MSc student, African Institute of Mathematecal Science, AIMS"
+  location         : "Kigali, Rwanda"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "yusufbrima@cse.du.ac.bd"
+  email            :  "yusufbrima@aims.ac.rw"
   researchgate     :  "https://www.researchgate.net/profile/Yusuf_Brima"
   uri              :
   bitbucket        :  "yusufbrima"
