@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * BSc. in Computer Science, University of Makeni, 2017
-* MSc. in Computer Science and Engineering, University of Dhaka, 2020 (expected)
+* MSc. in Computer Science and Engineering, University of Dhaka, 2020
+* MSc. in Mathematical Sciences, African Institute of Mathematical Sciences, 2021
 
 Work experience
 ======
@@ -25,15 +26,15 @@ Work experience
   *  Limkokwing University of Creative Technology
   * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages and Introducion to Computing
   * Supervisor: Aiah James
-  
+
 * 2017-2018 : College Registrar
   * African Accents International Institute of Computer Technology
-  * Duties included: Oversight of Enrollment, coodination of outreach activities 
+  * Duties included: Oversight of Enrollment, coodination of outreach activities
   * Supervisor: Mustapha Jalloh
 
 Seminars
 ======
-* 2018 : Seminar on ICT in Higher Education Innovation for African Countries 
+* 2018 : Seminar on ICT in Higher Education Innovation for African Countries
   * UNESCO-ICHEI
   * Location : China
 
@@ -51,16 +52,15 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
