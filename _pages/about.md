@@ -16,4 +16,4 @@ redirect_from:
 
 
 # Recent News
-* November 30, 2019. A paper titled "Deep Transfer Learning for Multi-class Brain MRI Classification" was submitted to [IEEE/ACM-TCBB-CS](https://www.computer.org/csdl/journal/tb/).
+* November 30, 2020. A paper titled "Deep Transfer Learning for Multi-class Brain MRI Classification" was submitted to [IEEE/ACM-TCBB-CS](https://www.computer.org/csdl/journal/tb/).
