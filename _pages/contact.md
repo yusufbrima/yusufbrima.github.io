@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-African Institute of Mathematical Sciences (AIMS) Rwanda<br>
-AIMS Campus, KN 3 Kigali<br>
-Email: brima.yusuf@aims.ac.rw
+PhD Student at the Research Training Group in Computational Cognition, Osnabrück University<br>
+Osnabrück, Germany<br>
+Email: brima[dot]yusuf[at]aims[dot]ac[dot]rw
