@@ -16,6 +16,6 @@ redirect_from:
 
 
 # Recent News
-* June 30, 2021; "Transfer Learning for the Detection and Diagnosis of Types of Pneumonia Including Pneumonia Induced by the COVID-19 from Chest X-Ray Images" in submission to [MDPI/Diagnostics](https://www.preprints.org/manuscript/202107.0548/v1).
+* August 16, 2021; "Transfer Learning for the Detection and Diagnosis of Types of Pneumonia Including Pneumonia Induced by the COVID-19 from Chest X-Ray Images" published in [MDPI Special Issue on  Machine Learning Applications for COVID-19 and Its Complications: Screening, Diagnosis, Treatment, and Prognosis](https://doi.org/10.3390/diagnostics11081480).
 * June 15, 2021; Published a dataset that was curated in collaboration between the Computer Science and Engineering Department, University of Dhaka and the National Institute of Neuroscience, Bangladesh. It comprise 5,285 T1-weighted contrast- enhanced brain MRI images belonging to 38 categories. Available here [Brain MRI Dataset](https://doi.org/10.6084/m9.figshare.14778750.v2).
-* November 30, 2020. A paper titled "Deep Transfer Learning for Multi-class Brain MRI Classification" was submitted to [IEEE/ACM-TCBB-CS](https://arxiv.org/abs/2106.07333).
+* November 30, 2020. A paper titled "Deep Transfer Learning for Brain Magnetic Resonance Image Multi-class Classification" was submitted to [IEEE/ACM-TCBB-CS](https://arxiv.org/abs/2106.07333).
