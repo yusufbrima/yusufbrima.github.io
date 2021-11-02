@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yusuf Brima"
 title_separator          : "-"
 name                     : &name "Yusuf Brima"
-description              : &description "Research Associate"
+description              : &description "Research Associate,Universität Osnabrück"
 url                      : https://yusufbrima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yusufbrima/yusufbrima.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yusuf Brima"
   avatar           : "yusuf.png"
-  bio              : "Research Associate"
-  location         : "Makeni, Sierra Leone"
+  bio              : "Research Associate, Universität Osnabrück"
+  location         : "Osnabrück, Germany"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "brima[dot]yusuf[at]aims[dot]ac[dot]rw"
+  email            :  "yusuf[dot]brima[at]uni-osnabrueck[dot]de"
   researchgate     :  "https://www.researchgate.net/profile/Yusuf_Brima"
   uri              :
   bitbucket        :  "yusufbrima"
