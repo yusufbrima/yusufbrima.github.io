@@ -10,14 +10,13 @@ main:
   #   url: /awards/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/   
+    url: /teaching/
 
-  - title: "Contact"
-    url: /contact/ 
-        
   - title: "Blog Posts"
     url: /year-archive/
-     
+
+  - title: "Contact"
+    url: /contact/
