@@ -17,9 +17,6 @@ Objectives
       </p>
   </div>
 </div>
-<figure id="flyer">
-  <img src="http://yusufbrima.github.io/images/scholarship_flyer.jpg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
-</figure>
 
 Event Structure
 ======
@@ -31,19 +28,40 @@ Event Structure
 - Closing remarks by Osas
 - Sharing of rating form on the program by Abubakarr
 
+<figure id="flyer">
+  <img src="http://yusufbrima.github.io/images/scholarship_flyer.jpg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+</figure>
+
 Useful Materials
 ======
 [Slides](http://yusufbrima.github.io/files/slide_deck.pdf)
 
+
 Links
 ======
+<h3>Targeted Programmes</h3>
+[Commonwealth Scolarship](https://cscuk.fcdo.gov.uk/) <br />
+[Gates Cambridge](https://www.gatescambridge.org/) <br />
+[Chevening](https://www.chevening.org/) <br />
+[Queen Elizabeth Commonwealth Scholarship](https://www.acu.edu.au/study-at-acu/fees-and-scholarships/scholarships) <br />
+[Mastercard foundation Scholars Program](https://mastercardfdn.org/all/scholars/) <br />
+[Fulbright Scholar Program](https://cies.org/us-scholar-awards) <br />
+[Government of Ireland – International Education Scholarships 2022](https://hea.ie/2021/12/02/government-of-ireland-international-education-scholarships-2022/) <br />
+[DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/) <br />
+[Chinese Government Scholarships](https://www.chinesescholarshipcouncil.com/) <br />
+[Global Korea Scholarship](https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do) <br />
+[Japanese Government (MEXT)](https://www.studyinjapan.go.jp/en/planning/scholarship/) <br />
 
-Targeted Programmes
-===============
-[Slides](https://www.slideshare.net/YusufBrima/introduction-to-internet-226928415)
 
-Online Portals
-===============
-[Slides](http://yusufbrima.github.io/files/slide_deck.pdf)
+<h3>Online Portals</h3>
+[ScholarshipDb](https://scholarshipdb.net/) <br />
+[Euraxess](https://euraxess.ec.europa.eu/jobs/search) <br />
+[OpportunityDesk](https://opportunitydesk.org/) <br />
+[Oyaop](https://oyaop.com/) <br />
+[OpportunitiesForAfricans](https://www.opportunitiesforafricans.com/category/scholarships/) <br />
+[Scholarshipset](https://www.scholarshipset.com/) <br />
+[Scholars4Dev](https://www.scholars4dev.com/category/target-group/africans-scholarships/)<br />
+[AfterschoolAfrica](https://www.afterschoolafrica.com/scholarship/by-country/africa/)
+
 
 
