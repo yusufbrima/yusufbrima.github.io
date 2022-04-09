@@ -38,21 +38,17 @@ Registration Responses
 Having got flyers out in getting the minds of the people prepared for the occasion, we decided to start a pre-assessment survey to know how eager people might be in getting involved in the program. As per our statistics due to first time organized event.
 </p>
 <figure id="participation">
-  <img src="http://yusufbrima.github.io/images/participation.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+  <img src="http://yusufbrima.github.io/images/participation.svg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
   <figcaption> </figcaption>
 </figure>
 
 <figure id="screenshot">
-  <img src="http://yusufbrima.github.io/images/screenshot.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+  <img src="http://yusufbrima.github.io/images/screenshot.svg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
   <figcaption> </figcaption>
 </figure>
 
 <figure id="institution">
-  <!-- <img src="http://yusufbrima.github.io/images/screenshot.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link."> -->
-  <object type="image/svg+xml" data="http://yusufbrima.github.io/images/institution.svg">
-      <!-- Your fall back here -->
-    <img src="http://yusufbrima.github.io/images/institution.svg" />
-  </object>
+ <img src="http://yusufbrima.github.io/images/institution.svg" />
 <figcaption> </figcaption>
 </figure>
 
