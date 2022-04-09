@@ -39,18 +39,22 @@ Having got flyers out in getting the minds of the people prepared for the occasi
 </p>
 <figure id="participation">
   <img src="http://yusufbrima.github.io/images/participation.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+  <figcaption> </figcaption>
 </figure>
 
 <figure id="screenshot">
   <img src="http://yusufbrima.github.io/images/screenshot.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+  <figcaption> </figcaption>
 </figure>
 
 <figure id="institution">
   <!-- <img src="http://yusufbrima.github.io/images/screenshot.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link."> -->
-  <object type="image/svg+xml" data="http://yusufbrima.github.io/images/institution.svg"></object>
+  <object type="image/svg+xml" data="http://yusufbrima.github.io/images/institution.svg">
+      <!-- Your fall back here -->
+    <img src="http://yusufbrima.github.io/images/institution.svg" />
+  </object>
+<figcaption> </figcaption>
 </figure>
-
-
 
 
 Useful Materials
