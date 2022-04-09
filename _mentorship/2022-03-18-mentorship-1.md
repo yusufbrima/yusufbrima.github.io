@@ -32,6 +32,19 @@ Event Structure
   <img src="http://yusufbrima.github.io/images/scholarship_flyer.jpg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
 </figure>
 
+Registration Responses
+======
+<p style='text-align:justify;'>
+Having got flyers out in getting the minds of the people prepared for the occasion, we decided to start a pre-assessment survey to know how eager people might be in getting involved in the program. As per our statistics due to first time organized event.
+</p>
+<figure id="flyer">
+  <img src="http://yusufbrima.github.io/images/participation.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+</figure>
+
+<figure id="flyer">
+  <img src="http://yusufbrima.github.io/images/screenshot.png" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+</figure>
+
 Useful Materials
 ======
 [Slides](http://yusufbrima.github.io/files/slide_deck.pdf)
