@@ -14,8 +14,8 @@ redirect_from:
 * Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
 
 <figure id="Test_set_densenet121">
-  <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis">
-  <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:45%;"  alt="Explainable AI in Medical Image Analysis">
+  <!-- <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis"> -->
+  <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
   <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ redirect_from:
 </figure>
 
 # Recent News
-* August 6-7, 2022; Co-organized with [Viktoria Zemliak] (https://www.comco.uni-osnabrueck.de/projekte/viktoria_zemliak.html) the "Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition) [https://www.comco.uni-osnabrueck.de/workshop_2022.html]
+* August 6-7, 2022; Co-organized with <a href="https://www.comco.uni-osnabrueck.de/projekte/viktoria_zemliak.html">Viktoria Zemliak</a> the <a href="https://www.comco.uni-osnabrueck.de/workshop_2022.html">"Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition)</a>
 * August 1, 2022; "What do Deep Neural Networks Learn in Medical Images?" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
 
 * August 16, 2021; "Transfer Learning for the Detection and Diagnosis of Types of Pneumonia Including Pneumonia Induced by the COVID-19 from Chest X-Ray Images" published in [MDPI Special Issue on  Machine Learning Applications for COVID-19 and Its Complications: Screening, Diagnosis, Treatment, and Prognosis](https://doi.org/10.3390/diagnostics11081480).
