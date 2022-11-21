@@ -33,7 +33,7 @@ redirect_from:
 </figure>
 
 # Recent News
-* August 6-7, 2022; Co-organized with <a href="https://www.comco.uni-osnabrueck.de/projekte/viktoria_zemliak.html">Viktoria Zemliak</a> the <a href="https://www.comco.uni-osnabrueck.de/workshop_2022.html">"Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition)</a>
+* August 6-7, 2022; Co-organized with <a href="https://www.comco.uni-osnabrueck.de/projekte/viktoria_zemliak.html">Viktoria Zemliak</a> the <a href="https://www.comco.uni-osnabrueck.de/workshop_2022.html" target="_blank">"Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition)</a>
 * August 1, 2022; "What do Deep Neural Networks Learn in Medical Images?" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
 
 * August 16, 2021; "Transfer Learning for the Detection and Diagnosis of Types of Pneumonia Including Pneumonia Induced by the COVID-19 from Chest X-Ray Images" published in [MDPI Special Issue on  Machine Learning Applications for COVID-19 and Its Complications: Screening, Diagnosis, Treatment, and Prognosis](https://doi.org/10.3390/diagnostics11081480).
