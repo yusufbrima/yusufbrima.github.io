@@ -13,6 +13,10 @@ redirect_from:
 * MSc. student in the [Computer Science and Engineering Department](https://cs.du.ac.bd/) at [University of Dhaka](https://www.du.ac.bd/), advised by [Prof. Mosaddek Hossain Kamal](http://www.cse.du.ac.bd/profile/?faculty=MHK).
 * Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
 
+<figure id="animation_binary_t_SNE_Chimp">
+  <img src="http://yusufbrima.github.io/images/animation_binary_t_SNE_Chimp.gif" alt="Workshop Poster Presentation">
+  <!-- <figcaption>Workshop Poster Presentation</figcaption> -->
+</figure>
 
 
 # Recent News
