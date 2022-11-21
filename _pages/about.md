@@ -13,11 +13,19 @@ redirect_from:
 * MSc. student in the [Computer Science and Engineering Department](https://cs.du.ac.bd/) at [University of Dhaka](https://www.du.ac.bd/), advised by [Prof. Mosaddek Hossain Kamal](http://www.cse.du.ac.bd/profile/?faculty=MHK).
 * Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
 
+<figure id="Test_set_densenet121">
+  <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis">
+  <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:45%;"  alt="Explainable AI in Medical Image Analysis">
+  <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps.</figcaption>
+</figure>
+
+
 <figure id="0">
   <img src="http://yusufbrima.github.io/images/0.png" style="width:45%;" alt="Workshop Poster Presentation">
-  <img src="http://yusufbrima.github.io/images/1.gif" style="width:45%;"  alt="Workshop Poster Presentation">
+  <img src="http://yusufbrima.github.io/images/1.gif" style="width:45%;" alt="Workshop Poster Presentation">
   <figcaption>Learnt 2D and 3D principal component latent representations of both human and non-human primates.</figcaption>
 </figure>
+
 
 <figure id="2">
   <img src="http://yusufbrima.github.io/images/2.png" style="width:45%;" alt="Workshop Poster Presentation">
