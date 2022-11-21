@@ -7,17 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-* My research interests include Representation Learning, Causality, Explainability, Computational Entrepreneurship, particularly in building end-to-end systems with high socio-technical impacts.
-* MSc. in [Mathematical Sciences](https://cs.du.ac.bd/) at [The African Institute of Mathematical Sciences (AIMS) ](https://www.aims.ac.rw/), advised by [Dr. Marcellin Atemkeng](https://www.ru.ac.za/mathematics/people/staff/marcelatemkeng/#d.en.232420). [Curriculum Vitae](https://github.com/yusufbrima/yusufbrima.github.io/blob/master/files/academic_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
-* MSc. student in the [Computer Science and Engineering Department](https://cs.du.ac.bd/) at [University of Dhaka](https://www.du.ac.bd/), advised by [Prof. Mosaddek Hossain Kamal](http://www.cse.du.ac.bd/profile/?faculty=MHK).
-* Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
-
 <figure id="Test_set_densenet121">
   <!-- <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis"> -->
   <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
   <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps. Feature attribution was done with a trained DenseNet-121 model.</figcaption>
 </figure>
+
+* My research interests include Representation Learning, Causality, Explainability, Computational Entrepreneurship, particularly in building end-to-end systems with high socio-technical impacts.
+* MSc. in [Mathematical Sciences](https://cs.du.ac.bd/) at [The African Institute of Mathematical Sciences (AIMS) ](https://www.aims.ac.rw/), advised by [Dr. Marcellin Atemkeng](https://www.ru.ac.za/mathematics/people/staff/marcelatemkeng/#d.en.232420). [Curriculum Vitae](https://github.com/yusufbrima/yusufbrima.github.io/blob/master/files/academic_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
+* MSc. student in the [Computer Science and Engineering Department](https://cs.du.ac.bd/) at [University of Dhaka](https://www.du.ac.bd/), advised by [Prof. Mosaddek Hossain Kamal](http://www.cse.du.ac.bd/profile/?faculty=MHK).
+* Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
 
 
 <figure id="0">
