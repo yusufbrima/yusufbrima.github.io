@@ -14,15 +14,15 @@ redirect_from:
 * Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
 
 <figure id="0">
-  <img src="http://yusufbrima.github.io/images/0.png" alt="Workshop Poster Presentation">
-  <img src="http://yusufbrima.github.io/images/1.gif" alt="Workshop Poster Presentation">
-  <!-- <figcaption>Workshop Poster Presentation</figcaption> -->
+  <img src="http://yusufbrima.github.io/images/0.png" style="width:45%;" alt="Workshop Poster Presentation">
+  <img src="http://yusufbrima.github.io/images/1.gif"style="width:45%;"  alt="Workshop Poster Presentation">
+  <figcaption>Learnt 2D and 3D principal component latent representations of both human and non-human primates.</figcaption>
 </figure>
 
 <figure id="2">
-  <img src="http://yusufbrima.github.io/images/2.png" alt="Workshop Poster Presentation">
-  <img src="http://yusufbrima.github.io/images/3.gif" alt="Workshop Poster Presentation">
-  <!-- <figcaption>Workshop Poster Presentation</figcaption> -->
+  <img src="http://yusufbrima.github.io/images/2.png" style="width:45%;" alt="Workshop Poster Presentation">
+  <img src="http://yusufbrima.github.io/images/3.gif" style="width:45%;" alt="Workshop Poster Presentation">
+  <figcaption>Learnt 2D and 3D principal component latent representations of speeches at the United States Congress by five world leaders.</figcaption>
 </figure>
 
 # Recent News
