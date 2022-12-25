@@ -45,4 +45,4 @@ redirect_from:
 * November 30, 2020. A paper titled "Deep Transfer Learning for Brain Magnetic Resonance Image Multi-class Classification" was submitted to [IEEE/ACM-TCBB-CS](https://arxiv.org/abs/2106.07333).
 
 # Uselful Tools
-<iframe src="https://chatgpt.com" width="600" height="400"></iframe>
+<iframe src="https://chat.openai.com/chat" width="600" height="400"></iframe>
