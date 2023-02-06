@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-PhD Student at the Research Training Group in Computational Cognition, Osnabrück University<br>
+Research Associate at the Research Training Group in Computational Cognition, Osnabrück University<br>
 Osnabrück, Germany<br>
 Email: ybrima[at]uos[dot].de
