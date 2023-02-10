@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD. in Cognitive Science, Universität Osnabrück, 2024
+* Ph.D. in Cognitive Science, Universität Osnabrück, 2024
 * MSc. in Mathematical Sciences, African Institute of Mathematical Sciences, 2021
 * MSc. in Computer Science and Engineering, University of Dhaka, 2020
 * BSc. in Computer Science, University of Makeni, 2017
