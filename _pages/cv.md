@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* BSc. in Computer Science, University of Makeni, 2017
-* MSc. in Computer Science and Engineering, University of Dhaka, 2020
+* PhD. in Cognitive Science, Universität Osnabrück, 2024
 * MSc. in Mathematical Sciences, African Institute of Mathematical Sciences, 2021
+* MSc. in Computer Science and Engineering, University of Dhaka, 2020
+* BSc. in Computer Science, University of Makeni, 2017
 
 Work experience
 ======
+* 2021-Present Research Associate
+  * Research Training Group (RTG) in Computational Cognition, Universität Osnabrück
+  * Duties included: Conduct basic research at the interface of Cognitive Science and Deep Learning with particular emphasis on building computational models of Individual Recognition -- a ubiquitous phenomenon in social species like humans.
 * 2017-2018 : Research Teaching Assistant
   * University of Makeni
   * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages, Introducion to Computing, Web Programming, Relational Database Systems theory and practice
