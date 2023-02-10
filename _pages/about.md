@@ -34,6 +34,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* September 16, 2022; <a href="https://www.eventbrite.de/e/welcome-to-the-graduate-assistance-initiative-network-gain-launching-tickets-409856942147">Launched</a> the <a href="https://gain.uos.de/">Graduate Assistance Initiative Network (GAIN) </a> globally with 130+ attendees.
 * September 11-16, 2022; Attended <a href="https://www.m2lschool.org/past-editions/m2l-2022">Mediterranean Machine Learning school</a>,Università Milano Bicocca, Milan, Italy.
 * August 6-7, 2022; Co-organized with <a href="https://www.comco.uni-osnabrueck.de/projekte/viktoria_zemliak.html">Viktoria Zemliak</a> the <a href="https://www.comco.uni-osnabrueck.de/workshop_2022.html" target="_blank">"Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition)</a>
 * August 1, 2022; "What do Deep Neural Networks Learn in Medical Images?" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
