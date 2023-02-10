@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * 2021-Present Research Associate
-  * Research Training Group (RTG) in Computational Cognition, Universität Osnabrück
+  * <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">Research Training Group (RTG) in Computational Cognition</a>, Universität Osnabrück
   * Duties included: Conduct basic research at the interface of Cognitive Science and Deep Learning with particular emphasis on building computational models of Individual Recognition -- a ubiquitous phenomenon in social species like humans.
 * 2017-2018 : Research Teaching Assistant
   * University of Makeni
