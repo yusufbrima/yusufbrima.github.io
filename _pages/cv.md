@@ -59,7 +59,7 @@ Summer Schools
 * 07/2020 – 08/2020 - Machine Learning Summer School-INDO, Indonesia
   * Machine Learning Fundamentals, TensorFlow, Convolutional Neural Network, Advanced Topics in Equivariance and Inductive Biases, Bayesian Machine Learning, Information Theoretic Objectives, and Robust Generalization, Computational Morphology, Reinforcement Learning, Probabilistic Generative Models, VAEs and Flows, Deep Learning for NLP, Graph Neural Nets, Transfer Learning for NLP, Multilingual NLP, Super-resolution and its Application to Computer Vision Tasks. Link <a href="http://mlss.cc/" target="_blank"> here </a>
 
-Additional Education
+Additional Certifications
 ======
 * 02/2023 - 03/2023 - University of Michigan, Virtual
   *  Programming for Everybody (Getting Started with Python). Link <a href="https://coursera.org/share/777e39d615e4b1216c95ae3196e1cc35"> here <a>
