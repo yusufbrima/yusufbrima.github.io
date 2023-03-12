@@ -59,6 +59,19 @@ Summer Schools
 * 07/2020 – 08/2020 - Machine Learning Summer School-INDO, Indonesia
   * Machine Learning Fundamentals, TensorFlow, Convolutional Neural Network, Advanced Topics in Equivariance and Inductive Biases, Bayesian Machine Learning, Information Theoretic Objectives, and Robust Generalization, Computational Morphology, Reinforcement Learning, Probabilistic Generative Models, VAEs and Flows, Deep Learning for NLP, Graph Neural Nets, Transfer Learning for NLP, Multilingual NLP, Super-resolution and its Application to Computer Vision Tasks. Link <a href="http://mlss.cc/" target="_blank"> here </a>
 
+Additional Education
+======
+* 02/2023 - 03/2023 - University of Michigan, Virtual
+  *  Programming for Everybody (Getting Started with Python). Link <a href="https://coursera.org/share/777e39d615e4b1216c95ae3196e1cc35"> here <a>
+* 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
+  *  Tools for Data Science. Link <a href="https://coursera.org/share/bc22fd323b73a2c9b584846857e0680a"> here <a>
+* 02/2023 - 02/2023 - IBM Data Science Professional Certificate, Virtual
+  *  What is Data Science? Link <a href="https://coursera.org/share/6d9cd636fcc5b07661bb1b7298005315"> here <a>
+* 08/2020 – 09/2020 - MathWorks Training Service, MOOC
+  * Deep Learning for Image Recognition. Using Pre-trained Networks, Managing Collections of Data, and Performing Transfer Learning.
+* 08/2019 – 06/2020 - Imperial College London, Virtual
+  * Mathematics for Machine Learning Specialization: Linear Algebra, Multivariate Calculus, and Principal Component Analysis. Link <a href="https://coursera.org/share/230cfce0bcd85d3f3f72df41fb82d757"> here </a>
+
 Skills
 ======
 * Computing
