@@ -71,6 +71,8 @@ Additional Education
   * Deep Learning for Image Recognition. Using Pre-trained Networks, Managing Collections of Data, and Performing Transfer Learning.
 * 08/2019 – 06/2020 - Imperial College London, Virtual
   * Mathematics for Machine Learning Specialization: Linear Algebra, Multivariate Calculus, and Principal Component Analysis. Link <a href="https://coursera.org/share/230cfce0bcd85d3f3f72df41fb82d757"> here </a>
+* 09/2016 – 10/2016 - On-Campus Internship Programme (OCIP), University of Makeni, Sierra Leone
+  * Installation and configuration of software, computer networking, troubleshooting, and maintenance.
 
 Skills
 ======
