@@ -36,11 +36,18 @@ Work experience
   * Duties included: Oversight of Enrollment, coodination of outreach activities
   * Supervisor: Mustapha Jalloh
 
-Seminars
+Conferences, Workshops & Seminars
 ======
-* 2018 : Seminar on ICT in Higher Education Innovation for African Countries
-  * UNESCO-ICHEI
-  * Location : China
+* 05/2018 – 07/2018 – UNESCO-ICHEI, China
+  * **Seminar on ICT in Higher Education Innovation for African Countries**. Attained knowledge in the role of informatization of higher education to improve learning outcomes. The seminar entailed hands-on training in Big Data management with Apache Spark and predictive analytics with Machine Learning techniques to improve learning outcomes.
+* 31/07/2022 – 06/08/2022 – German Primate Center in Göttingen, Germany
+  * **Bridging the technological gap – spreading technological innovations in the study of the human and non-human mind**. A workshop that brought early-stage researchers to share ideas on cutting-edge technologies to facilitate animal behavior and cognition research. Link: <a href="https://www.primate-cognition.eu/de/veranstaltungen/bridging-the-technological-gap-workshop.html%20" target="_blank"> here </a>
+
+
+
+Summer Schools
+======
+
 
 Skills
 ======

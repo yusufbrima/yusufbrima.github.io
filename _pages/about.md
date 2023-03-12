@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<figure id="divergence_measures">
+  <img src="http://yusufbrima.github.io/images/KL_Divergence.gif" style="width:45%;" alt="Kullback–Leibler divergence between two probability distributions.">
+  <img src="http://yusufbrima.github.io/images/JSD_Divergence.gif" style="width:45%;"  alt="Jensen–Shannon divergence between two probability distributions.">
+  <figcaption>A visual illustration of two divergence measure: the Kullback–Leibler (KL) and Jensen–Shannon (JS) divergences between two probability distributions $P_x $ and $Q_x$.</figcaption>
+</figure>
+
 <figure id="Test_set_densenet121">
   <!-- <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis"> -->
   <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
