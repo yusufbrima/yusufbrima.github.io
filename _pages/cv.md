@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Cognitive Science, Universität Osnabrück, 2024
-* MSc. in Mathematical Sciences, African Institute of Mathematical Sciences, 2021
-* MSc. in Computer Science and Engineering, University of Dhaka, 2020
-* BSc. in Computer Science, University of Makeni, 2017
+* Ph.D. in Cognitive Science, <a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, 2024
+* MSc. in Mathematical Sciences, <a href="https://aims.ac.rw/" target="_blank">African Institute of Mathematical Sciences</a>, 2021
+* MSc. in Computer Science and Engineering, <a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, 2020
+* BSc. in Computer Science, <a href="http://unimak.edu.sl/" target="_blank">University of Makeni</a>, 2017
 
 Work experience
 ======
