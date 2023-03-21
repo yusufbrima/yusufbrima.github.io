@@ -61,6 +61,8 @@ Summer Schools
 
 Additional Certifications
 ======
+* 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
+  *  Data Science Methodology. Link <a href="https://coursera.org/share/935b1a96073828b1029b7cf2cc0396e1"> here <a>
 * 02/2023 - 03/2023 - University of Michigan, Virtual
   *  Programming for Everybody (Getting Started with Python). Link <a href="https://coursera.org/share/777e39d615e4b1216c95ae3196e1cc35"> here <a>
 * 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
