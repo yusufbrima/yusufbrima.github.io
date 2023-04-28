@@ -61,6 +61,8 @@ Summer Schools
 
 Additional Certifications
 ======
+* 04/2023 - 04/2023 - IBM Data Science Professional Certificate, Virtual
+  *  Python for Data Science, AI & Development. Link <a href="https://coursera.org/share/26516f4f03b1bc417bd1b3d9e39daec5"> here <a>
 * 03/2023 - 04/2023 - University of Michigan, Virtual
   *  Python Data Structures. Link <a href="https://coursera.org/share/1fb1c026749e59f2469711f389cdd49b"> here <a>
 * 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
