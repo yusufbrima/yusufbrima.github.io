@@ -59,8 +59,13 @@ Summer Schools
 * 07/2020 – 08/2020 - Machine Learning Summer School-INDO, Indonesia
   * Machine Learning Fundamentals, TensorFlow, Convolutional Neural Network, Advanced Topics in Equivariance and Inductive Biases, Bayesian Machine Learning, Information Theoretic Objectives, and Robust Generalization, Computational Morphology, Reinforcement Learning, Probabilistic Generative Models, VAEs and Flows, Deep Learning for NLP, Graph Neural Nets, Transfer Learning for NLP, Multilingual NLP, Super-resolution and its Application to Computer Vision Tasks. Link <a href="http://mlss.cc/" target="_blank"> here </a>
 
+
+
+
 Additional Certifications
 ======
+* 06/2023 - 07/2023 - IBM Data Science Professional Certificate, Virtual
+  *  Data Analysis with Python. Link <a href="https://coursera.org/share/0783c7d296c44123607e848b63b6b40d"> here <a>
 * 05/2023 - 06/2023 - IBM Data Science Professional Certificate, Virtual
   *  Databases and SQL for Data Science with Python. Link <a href="https://coursera.org/share/2aaf19baaae5314e8ee69a16df70dc11"> here <a>
 * 04/2023 - 05/2023 - IBM Data Science Professional Certificate, Virtual
