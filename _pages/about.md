@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <figure id="decorrelated_audio_representations">
-  <img src="http://yusufbrima.github.io/images/bt_train_modified_bt_BN.gif" style="width:45%;" alt="128-dimensional latent representation of modified Barlow Twins.">
+  <img src="http://yusufbrima.github.io/images/bt_small_train_modified_BN.gif.gif" style="width:45%;" alt="128-dimensional latent representation of modified Barlow Twins.">
   <img src="http://yusufbrima.github.io/images/bt_small_train_original.gif" style="width:45%;"  alt="128-dimensional latent representation of modified Barlow Twins.">
   <figcaption>Visualizing the convergence of latent representations over training iterations for modified Barlow Twins model: decorrelated audio representations (left) and original small training data (right). The 128-dimensional latent space reveals the progression of learned features and their alignment throughout the training process.</figcaption>
 </figure>
