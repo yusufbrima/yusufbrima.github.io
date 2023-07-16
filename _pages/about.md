@@ -7,23 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<figure id="decorrelated_audio_representations">
-  <img src="http://yusufbrima.github.io/images/bt_small_train_modified_BN.gif" style="width:45%;" alt="128-dimensional latent representation of modified Barlow Twins.">
-  <img src="http://yusufbrima.github.io/images/bt_small_train_original.gif" style="width:45%;"  alt="128-dimensional latent representation of modified Barlow Twins.">
-  <figcaption>Visualizing the convergence of latent representations over training iterations for modified Barlow Twins model: decorrelated audio representations (left) and original small training data (right). The 128-dimensional latent space reveals the progression of learned features and their alignment throughout the training process.</figcaption>
-</figure>
-
-<figure id="divergence_measures">
-  <img src="http://yusufbrima.github.io/images/KL_Divergence.gif" style="width:45%;" alt="Kullback–Leibler divergence between two probability distributions.">
-  <img src="http://yusufbrima.github.io/images/JSD_Divergence.gif" style="width:45%;"  alt="Jensen–Shannon divergence between two probability distributions.">
-  <figcaption>A visual illustration of two divergence measure: the Kullback–Leibler (KL) and Jensen–Shannon (JS) divergences between two probability distributions $P_x $ and $Q_x$.</figcaption>
-</figure>
-
-<figure id="Test_set_densenet121">
-  <!-- <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis"> -->
-  <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
-  <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps. Feature attribution was done with a trained DenseNet-121 model.</figcaption>
-</figure>
 
 * My research interests include Representation Learning, Causality, Explainability, Computational Entrepreneurship, particularly in building end-to-end systems with high socio-technical impacts. [Curriculum Vitae](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/yusuf-brima/a7e3242a-fd13-43c8-b651-9514d1252f6c?view=html)]  [[Google Scholar](https://scholar.google.com/citations?user=fT2b7UwAAAAJ&hl=en)]
 * Ph.D. in [Cognitive Science](https://www.comco.uni-osnabrueck.de/projekte/yusuf_brima.html) at [Osnabrück University](https://www.comco.uni-osnabrueck.de/), advived by [Prof. Gunther Heidemann](https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/heidemann_gunther.html) and [Prof. Simone Pika](http://www.ikw.uni-osnabrueck.de/en/research_groups/comparative_biocognition.html).
@@ -31,6 +14,31 @@ redirect_from:
 * MSc. student in the [Computer Science and Engineering Department](https://cs.du.ac.bd/) at [University of Dhaka](https://www.du.ac.bd/), advised by [Prof. Mosaddek Hossain Kamal](http://www.cse.du.ac.bd/profile/?faculty=MHK).
 * Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
 
+<hr />
+
+<figure id="decorrelated_audio_representations">
+  <img src="http://yusufbrima.github.io/images/bt_small_train_modified_BN.gif" style="width:45%;" alt="128-dimensional latent representation of modified Barlow Twins.">
+  <img src="http://yusufbrima.github.io/images/bt_small_train_original.gif" style="width:45%;"  alt="128-dimensional latent representation of modified Barlow Twins.">
+  <figcaption>Visualizing the convergence of latent representations over training iterations for modified Barlow Twins model: decorrelated audio representations (left) and original small training data (right). The 128-dimensional latent space reveals the progression of learned features and their alignment throughout the training process.</figcaption>
+</figure>
+
+<hr />
+
+<figure id="divergence_measures">
+  <img src="http://yusufbrima.github.io/images/KL_Divergence.gif" style="width:45%;" alt="Kullback–Leibler divergence between two probability distributions.">
+  <img src="http://yusufbrima.github.io/images/JSD_Divergence.gif" style="width:45%;"  alt="Jensen–Shannon divergence between two probability distributions.">
+  <figcaption>A visual illustration of two divergence measure: the Kullback–Leibler (KL) and Jensen–Shannon (JS) divergences between two probability distributions $P_x $ and $Q_x$.</figcaption>
+</figure>
+
+<hr />
+
+<figure id="Test_set_densenet121">
+  <!-- <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis"> -->
+  <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
+  <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps. Feature attribution was done with a trained DenseNet-121 model.</figcaption>
+</figure>
+
+<hr />
 
 <figure id="0">
   <img src="http://yusufbrima.github.io/images/0.png" style="width:45%;" alt="Workshop Poster Presentation">
