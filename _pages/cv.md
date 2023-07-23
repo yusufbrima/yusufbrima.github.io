@@ -61,26 +61,28 @@ Summer Schools
 
 Additional Certifications
 ======
+* 06/2023 - 07/2023 - IBM Data Science Professional Certificate, Virtual
+  *  Machine Learning with Python. Link <a href="https://coursera.org/share/0f0ff8d08252a81f10cd0c245cc6d4d6" target="_blank"> here <a>
 * 05/2023 - 06/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Databases and SQL for Data Science with Python. Link <a href="https://coursera.org/share/2aaf19baaae5314e8ee69a16df70dc11"> here <a>
+  *  Databases and SQL for Data Science with Python. Link <a href="https://coursera.org/share/2aaf19baaae5314e8ee69a16df70dc11" target="_blank"> here <a>
 * 04/2023 - 05/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Python Project for Data Science. Link <a href="https://coursera.org/share/99edcd2a6aefe782c5c222e92fbb2931"> here <a>
+  *  Python Project for Data Science. Link <a href="https://coursera.org/share/99edcd2a6aefe782c5c222e92fbb2931" target="_blank"> here <a>
 * 04/2023 - 04/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Python for Data Science, AI & Development. Link <a href="https://coursera.org/share/26516f4f03b1bc417bd1b3d9e39daec5"> here <a>
+  *  Python for Data Science, AI & Development. Link <a href="https://coursera.org/share/26516f4f03b1bc417bd1b3d9e39daec5" target="_blank"> here <a>
 * 03/2023 - 04/2023 - University of Michigan, Virtual
-  *  Python Data Structures. Link <a href="https://coursera.org/share/1fb1c026749e59f2469711f389cdd49b"> here <a>
+  *  Python Data Structures. Link <a href="https://coursera.org/share/1fb1c026749e59f2469711f389cdd49b" target="_blank"> here <a>
 * 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Data Science Methodology. Link <a href="https://coursera.org/share/935b1a96073828b1029b7cf2cc0396e1"> here <a>
+  *  Data Science Methodology. Link <a href="https://coursera.org/share/935b1a96073828b1029b7cf2cc0396e1" target="_blank"> here <a>
 * 02/2023 - 03/2023 - University of Michigan, Virtual
-  *  Programming for Everybody (Getting Started with Python). Link <a href="https://coursera.org/share/777e39d615e4b1216c95ae3196e1cc35"> here <a>
+  *  Programming for Everybody (Getting Started with Python). Link <a href="https://coursera.org/share/777e39d615e4b1216c95ae3196e1cc35" target="_blank"> here <a>
 * 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Tools for Data Science. Link <a href="https://coursera.org/share/bc22fd323b73a2c9b584846857e0680a"> here <a>
+  *  Tools for Data Science. Link <a href="https://coursera.org/share/bc22fd323b73a2c9b584846857e0680a" target="_blank"> here <a>
 * 02/2023 - 02/2023 - IBM Data Science Professional Certificate, Virtual
-  *  What is Data Science? Link <a href="https://coursera.org/share/6d9cd636fcc5b07661bb1b7298005315"> here <a>
+  *  What is Data Science? Link <a href="https://coursera.org/share/6d9cd636fcc5b07661bb1b7298005315" target="_blank"> here <a>
 * 08/2020 – 09/2020 - MathWorks Training Service, MOOC
   * Deep Learning for Image Recognition. Using Pre-trained Networks, Managing Collections of Data, and Performing Transfer Learning.
 * 08/2019 – 06/2020 - Imperial College London, Virtual
-  * Mathematics for Machine Learning Specialization: Linear Algebra, Multivariate Calculus, and Principal Component Analysis. Link <a href="https://coursera.org/share/230cfce0bcd85d3f3f72df41fb82d757"> here </a>
+  * Mathematics for Machine Learning Specialization: Linear Algebra, Multivariate Calculus, and Principal Component Analysis. Link <a href="https://coursera.org/share/230cfce0bcd85d3f3f72df41fb82d757" target="_blank"> here </a>
 * 09/2016 – 10/2016 - On-Campus Internship Programme (OCIP), University of Makeni, Sierra Leone
   * Installation and configuration of software, computer networking, troubleshooting, and maintenance.
 
