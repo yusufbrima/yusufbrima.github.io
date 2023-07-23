@@ -62,7 +62,7 @@ Summer Schools
 Additional Certifications
 ======
 * 06/2023 - 07/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Machine Learning with Python. Link <a href="https://coursera.org/share/0f0ff8d08252a81f10cd0c245cc6d4d6" target="_blank"> here <a>
+  *  Data Visualization with Python. Link <a href="https://coursera.org/share/0f0ff8d08252a81f10cd0c245cc6d4d6" target="_blank"> here <a>
 * 05/2023 - 06/2023 - IBM Data Science Professional Certificate, Virtual
   *  Databases and SQL for Data Science with Python. Link <a href="https://coursera.org/share/2aaf19baaae5314e8ee69a16df70dc11" target="_blank"> here <a>
 * 04/2023 - 05/2023 - IBM Data Science Professional Certificate, Virtual
