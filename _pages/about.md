@@ -54,11 +54,12 @@ redirect_from:
 </figure>
 
 # Recent News
+* August 1, 2023; "Visual Interpretable and Explainable Deep Learning Models for Brain Tumor MRI and COVID-19 Chest X-ray Images" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
+* July 26, 2023; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" accepted for oral presentation at <a href="https://ki2023.gi.de/" target="_blank">KI 2023 – 46th German Conference on Artificial Intelligence, Berlin, Germany</a>.
 * June 13, 2023; submitted a manuscript to PLOS One <a href=" https://doi.org/10.1101/2023.06.08.544240" target="_blank">A Mathematical Framework for Understanding Recognition Systems</a>
 * September 16, 2022; <a href="https://www.eventbrite.de/e/welcome-to-the-graduate-assistance-initiative-network-gain-launching-tickets-409856942147" target="_blank">Launched</a> the <a href="https://gain.uos.de/">Graduate Assistance Initiative Network (GAIN) </a> globally with 130+ attendees.
 * September 11-16, 2022; Attended <a href="https://www.m2lschool.org/past-editions/m2l-2022" target="_blank">Mediterranean Machine Learning school</a>, Università Milano Bicocca, Milan, Italy.
 * August 6-7, 2022; Co-organized with <a href="https://www.comco.uni-osnabrueck.de/projekte/viktoria_zemliak.html" target="_blank">Viktoria Zemliak</a> the <a href="https://www.comco.uni-osnabrueck.de/workshop_2022.html" target="_blank">"Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition)</a>
-* August 1, 2023; "Visual Interpretable and Explainable Deep Learning Models for Brain Tumor MRI and COVID-19 Chest X-ray Images" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
 * July 29-August 6, 2022; Attended and presented a poster at the <a href="https://www.primate-cognition.eu/de/veranstaltungen/bridging-the-technological-gap-workshop.html" target="_blank">Bridging the technological gap – spreading technological innovations in the study of the human and non-human mind</a>German Primate Center in Göttingen, Germany.
 * July 11-29, 2022; Particiated in the <a href="https://academy.neuromatch.io/" target="_blank">Neuromatch Academy: Deep Learning</a> intensive hands-on training. 
 * August 16, 2021; "Transfer Learning for the Detection and Diagnosis of Types of Pneumonia Including Pneumonia Induced by the COVID-19 from Chest X-Ray Images" published in [MDPI Special Issue on  Machine Learning Applications for COVID-19 and Its Complications: Screening, Diagnosis, Treatment, and Prognosis](https://doi.org/10.3390/diagnostics11081480).
