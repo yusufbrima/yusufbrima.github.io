@@ -64,28 +64,8 @@ Additional Certifications
 ======
 * 02/2023 - 08/2023 - IBM Data Science Professional Certificate, Virtual
   *  Specialization Certificate. Link <a href="https://coursera.org/share/9d1ab8aba13da1ee33571fa9596a1002" target="_blank"> here <a>
-<!-- * 07/2023 - 08/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Applied Data Science Capstone. Link <a href="https://coursera.org/share/db073a78ccf7b7c635201e0c84abc4f6" target="_blank"> here <a>
-* 07/2023 - 08/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Machine Learning with Python. Link <a href="https://coursera.org/share/41f70ca3ed4a40b19e1c99d241562942" target="_blank"> here <a>
-* 06/2023 - 07/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Data Visualization with Python. Link <a href="https://coursera.org/share/0f0ff8d08252a81f10cd0c245cc6d4d6" target="_blank"> here <a>
-* 05/2023 - 06/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Databases and SQL for Data Science with Python. Link <a href="https://coursera.org/share/2aaf19baaae5314e8ee69a16df70dc11" target="_blank"> here <a>
-* 04/2023 - 05/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Python Project for Data Science. Link <a href="https://coursera.org/share/99edcd2a6aefe782c5c222e92fbb2931" target="_blank"> here <a>
-* 04/2023 - 04/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Python for Data Science, AI & Development. Link <a href="https://coursera.org/share/26516f4f03b1bc417bd1b3d9e39daec5" target="_blank"> here <a> -->
 * 03/2023 - 04/2023 - University of Michigan, Virtual
   *  Python Data Structures. Link <a href="https://coursera.org/share/1fb1c026749e59f2469711f389cdd49b" target="_blank"> here <a>
-<!-- * 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Data Science Methodology. Link <a href="https://coursera.org/share/935b1a96073828b1029b7cf2cc0396e1" target="_blank"> here <a>
-* 02/2023 - 03/2023 - University of Michigan, Virtual
-  *  Programming for Everybody (Getting Started with Python). Link <a href="https://coursera.org/share/777e39d615e4b1216c95ae3196e1cc35" target="_blank"> here <a>
-* 02/2023 - 03/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Tools for Data Science. Link <a href="https://coursera.org/share/bc22fd323b73a2c9b584846857e0680a" target="_blank"> here <a>
-* 02/2023 - 02/2023 - IBM Data Science Professional Certificate, Virtual
-  *  What is Data Science? Link <a href="https://coursera.org/share/6d9cd636fcc5b07661bb1b7298005315" target="_blank"> here <a> -->
 * 08/2020 – 09/2020 - MathWorks Training Service, MOOC
   * Deep Learning for Image Recognition. Using Pre-trained Networks, Managing Collections of Data, and Performing Transfer Learning.
 * 08/2019 – 06/2020 - Imperial College London, Virtual
