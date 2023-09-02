@@ -60,8 +60,12 @@ Summer Schools
   * Machine Learning Fundamentals, TensorFlow, Convolutional Neural Network, Advanced Topics in Equivariance and Inductive Biases, Bayesian Machine Learning, Information Theoretic Objectives, and Robust Generalization, Computational Morphology, Reinforcement Learning, Probabilistic Generative Models, VAEs and Flows, Deep Learning for NLP, Graph Neural Nets, Transfer Learning for NLP, Multilingual NLP, Super-resolution and its Application to Computer Vision Tasks. Link <a href="http://mlss.cc/" target="_blank"> here </a>
 
 
+
+
 Additional Certifications
 ======
+* 08/2023 - 09/2023 - IBM AI Engineering Professional Certificate, Virtual
+  *  Introduction to Deep Learning & Neural Networks with Keras. Link <a href="https://coursera.org/share/5d24e126c75804a8ef516eaa7ec2b8be" target="_blank"> here <a>
 * 02/2023 - 08/2023 - IBM Data Science Professional Certificate, Virtual
   *  Specialization Certificate. Link <a href="https://coursera.org/share/9d1ab8aba13da1ee33571fa9596a1002" target="_blank"> here <a>
 * 03/2023 - 04/2023 - University of Michigan, Virtual
