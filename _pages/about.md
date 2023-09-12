@@ -54,6 +54,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* September 7, 2023; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction" submitted to [ICASSP 2024](https://doi.org/10.48550/arXiv.2309.03619).
 * August 1, 2023; "Visual Interpretable and Explainable Deep Learning Models for Brain Tumor MRI and COVID-19 Chest X-ray Images" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
 * July 26, 2023; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" accepted for oral presentation at <a href="https://ki2023.gi.de/" target="_blank">KI 2023 – 46th German Conference on Artificial Intelligence, Berlin, Germany</a>.
 * June 13, 2023; submitted a manuscript to PLOS One <a href=" https://doi.org/10.1101/2023.06.08.544240" target="_blank">A Mathematical Framework for Understanding Recognition Systems</a>
