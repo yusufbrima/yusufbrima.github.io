@@ -77,4 +77,4 @@ redirect_from:
  <center>
  <iframe src="https://widgets.figshare.com/articles/14778750/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
  </center>
-* November 30, 2020. A paper titled "Deep Transfer Learning for Brain Magnetic Resonance Image Multi-class Classification" was submitted to [IEEE/ACM-TCBB-CS](https://arxiv.org/abs/2106.07333).
+<!-- * November 30, 2020. A paper titled "Deep Transfer Learning for Brain Magnetic Resonance Image Multi-class Classification" was submitted to [IEEE/ACM-TCBB-CS](https://arxiv.org/abs/2106.07333). -->
