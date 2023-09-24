@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* My research interests include Disentangled Representation Learning, Causality, Explainability, Computational Entrepreneurship, particularly in building end-to-end systems with high socio-technical impacts. [[Curriculum Vitae](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/yusuf-brima/0b6d4743-9536-4fb8-8a2b-2c0e4692bfa4?view=html)]  [[Google Scholar](https://scholar.google.com/citations?user=fT2b7UwAAAAJ&hl=en)]
-<!-- * Ph.D. in [Cognitive Science](https://www.comco.uni-osnabrueck.de/projekte/yusuf_brima.html) at [Osnabrück University](https://www.comco.uni-osnabrueck.de/), advised by [Prof. Gunther Heidemann](https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/heidemann_gunther.html) and [Prof. Simone Pika](http://www.ikw.uni-osnabrueck.de/en/research_groups/comparative_biocognition.html). -->
+* My research interests include Disentangled Representation Learning, Causality, Explainability, Computational Entrepreneurship, Mathematical Modelling particularly in building end-to-end systems with high socio-technical impacts. [[Curriculum Vitae](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/yusuf-brima/0b6d4743-9536-4fb8-8a2b-2c0e4692bfa4?view=html)]  [[Google Scholar](https://scholar.google.com/citations?user=fT2b7UwAAAAJ&hl=en)]
+* Ph.D. in [Cognitive Science](https://www.comco.uni-osnabrueck.de/projekte/yusuf_brima.html) at [Osnabrück University](https://www.comco.uni-osnabrueck.de/), advised by [Prof. Gunther Heidemann](https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/heidemann_gunther.html) and [Prof. Simone Pika](http://www.ikw.uni-osnabrueck.de/en/research_groups/comparative_biocognition.html).
 * MSc. in [Mathematical Sciences](https://cs.du.ac.bd/) at [The African Institute of Mathematical Sciences (AIMS) ](https://www.aims.ac.rw/), advised by [Dr. Marcellin Atemkeng](https://www.ru.ac.za/mathematics/people/staff/marcelatemkeng/#d.en.232420).
 * MSc. student in the [Computer Science and Engineering Department](https://cs.du.ac.bd/) at [University of Dhaka](https://www.du.ac.bd/), advised by [Prof. Mosaddek Hossain Kamal](http://www.cse.du.ac.bd/profile/?faculty=MHK).
 * Bachelor’s Degree in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
@@ -54,6 +54,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* September 23, 2023; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" extended abstract published at [Gesellschaft für Informatik e.V.](https://doi.org/10.18420/ki2023-dc-02).
 * September 7, 2023; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction" submitted to [ICASSP 2024](https://doi.org/10.48550/arXiv.2309.03619).
 * August 1, 2023; "Visual Interpretable and Explainable Deep Learning Models for Brain Tumor MRI and COVID-19 Chest X-ray Images" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
 * July 26, 2023; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" accepted for oral presentation at <a href="https://ki2023.gi.de/" target="_blank">KI 2023 – 46th German Conference on Artificial Intelligence, Berlin, Germany</a>.
