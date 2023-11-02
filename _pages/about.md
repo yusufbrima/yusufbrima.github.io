@@ -69,6 +69,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* November 1, 2023; "Learning Disentangled Speech Representations" accepted for poster presentation at [New in ML, NeurIPS 2023](https://newinml.github.io/).
 * October 17, 2023; Co-organizing with <a href="https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/krumnack_ulf.html" target="_blank">Ulf Krumnack</a> and Lukas Niehaus a Seminar: Deep Representation Learning (Winter 2023/24) at [Osnabrück University](https://www.comco.uni-osnabrueck.de/).
 * September 23, 2023; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" extended abstract published at [Gesellschaft für Informatik e.V.](https://doi.org/10.18420/ki2023-dc-02).
 * September 7, 2023; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction" submitted to [ICASSP 2024](https://doi.org/10.48550/arXiv.2309.03619).
