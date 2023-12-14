@@ -69,10 +69,12 @@ redirect_from:
 </figure>
 
 # Recent News
+* December 10, 2023; Attended [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, USA where Presented research poster on disentangled speech representation learning via self-supervision. Sharing novel techniques for learning interpretable and robust speech representations.
+* December 08, 2023; "Learning Disentangled Audio Representations through Controlled Synthesis" submitted to [ICLR Tiny Papers 2024](https://iclr.cc/Conferences/2024/CallForTinyPapers/).
 * November 1, 2023; "Learning Disentangled Speech Representations" accepted for poster presentation at [New in ML, NeurIPS 2023](https://newinml.github.io/).
 * October 17, 2023; Co-organizing with <a href="https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/krumnack_ulf.html" target="_blank">Ulf Krumnack</a> and Lukas Niehaus a Seminar: Deep Representation Learning (Winter 2023/24) at [Osnabrück University](https://www.comco.uni-osnabrueck.de/).
 * September 23, 2023; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" extended abstract published at [Gesellschaft für Informatik e.V.](https://doi.org/10.18420/ki2023-dc-02).
-* September 7, 2023; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction" submitted to [ICASSP 2024](https://doi.org/10.48550/arXiv.2309.03619).
+<!-- * September 7, 2023; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction" submitted to [ICASSP 2024](https://doi.org/10.48550/arXiv.2309.03619). -->
 * August 1, 2023; "Visual Interpretable and Explainable Deep Learning Models for Brain Tumor MRI and COVID-19 Chest X-ray Images" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
 * July 26, 2023; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" accepted for oral presentation at <a href="https://ki2023.gi.de/" target="_blank">KI 2023 – 46th German Conference on Artificial Intelligence, Berlin, Germany</a>.
 * June 13, 2023; submitted a manuscript to PLOS One <a href=" https://doi.org/10.1101/2023.06.08.544240" target="_blank">A Mathematical Framework for Understanding Recognition Systems</a>
