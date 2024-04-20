@@ -17,6 +17,13 @@ redirect_from:
 <hr />
 
 <figure id="sawtooth">
+  <img src="http://yusufbrima.github.io/images/Original_vs_Reconstructed.gif" style="width:90%;" alt="Time-domain, frequency-domain and time-frequency representations of a sine waveform across different frequencies sampled at 16KHz for 1 seconds.">
+  <figcaption>Time-domain, frequency-domain and time-frequency representations of a sine waveform across different frequencies sampled at 16KHz for 1 seconds. The top row is the original signal and the bottom row is the reconstructed version for the disentangled Variational Auto Encoder.</figcaption>
+</figure>
+
+<hr />
+
+<figure id="sawtooth">
   <img src="http://yusufbrima.github.io/images/sawtooth.gif" style="width:90%;" alt="Time-domain, time-frequency and frequency-domain representations of a sawtooth waveform across different frequencies sampled at 16KHz for 2 seconds.">
   <figcaption>Time-domain, time-frequency and frequency-domain representations of a sawtooth waveform across different frequencies sampled at 16KHz for 2 seconds each.</figcaption>
 </figure>
