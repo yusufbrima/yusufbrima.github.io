@@ -31,9 +31,9 @@ redirect_from:
 <hr />
 
 <figure id="contrastive_representation_learning">
-  <img src="http://yusufbrima.github.io/images/mnist_tripplet_animation_advanced.gif" style="width:45%;" alt="Triplet-based contrastive representation learning of MNIST validation set.">
-  <img src="http://yusufbrima.github.io/images/mnist_scl_animation.gif" style="width:45%;"  alt="Supervised Contrastive Learned-based evaluation of MNIST validation set.">
-  <figcaption>Visualizing the convergce of clusters of classes in the MNIST validation set using both Triplet (Left) and Supervised Contrastive Representation Learning (Right) objectives. In this current implementation, Triplet loss learns more robust representations which leads to better clustering in this 2D T-SNE visualizations.</figcaption>
+  <img src="http://yusufbrima.github.io/images/mnist_tripplet_animation_advanced.gif" style="width:90%;" alt="Triplet-based contrastive representation learning of MNIST validation set.">
+  <!-- <img src="http://yusufbrima.github.io/images/mnist_scl_animation.gif" style="width:45%;"  alt="Supervised Contrastive Learned-based evaluation of MNIST validation set."> -->
+  <figcaption>Visualizing the convergce of clusters of classes in the MNIST validation set using both Triplet (Left) and Supervised Contrastive Representation Learning</figcaption>
 </figure>
 
 <hr />
