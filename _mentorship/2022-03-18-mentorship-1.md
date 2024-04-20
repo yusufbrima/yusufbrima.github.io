@@ -78,7 +78,7 @@ To help bootstrap the search for scholarships, we have created a non-exhaustive 
 [Government of Ireland – International Education Scholarships 2022](https://hea.ie/2021/12/02/government-of-ireland-international-education-scholarships-2022/) <br />
 [DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/) <br />
 [Chinese Government Scholarships](https://www.chinesescholarshipcouncil.com/) <br />
-[Global Korea Scholarship](https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do) <br />
+[Global Korea Scholarship](https://www.studyinkorea.go.kr/ko/scholarshipmain.do) <br />
 [Japanese Government (MEXT)](https://www.studyinjapan.go.jp/en/planning/scholarship/) <br />
 
 

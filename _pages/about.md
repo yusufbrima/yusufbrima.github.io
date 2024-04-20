@@ -69,6 +69,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* March 21, 2024; "Got accepted to attend in-person the Deep Learning + Reinforcement Learning (DLRL) Summer School 2024 by by CIFAR and the Vector Institute in Toronto, Canada.".
 * February 16, 2024; "Learning Disentangled Audio Representations through Controlled Synthesis" accepted for oral presentation at [ICLR Tiny Papers 2024](https://iclr.cc/Conferences/2024/CallForTinyPapers/).
 * February 15, 2024; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction
 " accepted for oral presentation at [MDPI Information 2024, 15(2), 114](https://doi.org/10.3390/info15020114).
