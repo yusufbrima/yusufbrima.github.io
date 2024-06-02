@@ -56,8 +56,8 @@ redirect_from:
 
 <figure id="Test_set_densenet121">
   <!-- <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis"> -->
-  <img src="http://yusufbrima.github.io/images/Saliency_Maps_2_densenet121.svg" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
-  <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps. Feature attribution was done with a trained DenseNet-121 model.</figcaption>
+  <img src="http://yusufbrima.github.io/images/BrainTumor_Saliency_Maps_inception_resnet_v2.png" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
+  <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps. Feature attribution was done with a trained InceptionResNetv2 model.</figcaption>
 </figure>
 
 <hr />
