@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* My research interests include Representation Learning, Causality, Explainability, Interpretability, Computational Entrepreneurship, Mathematical Modelling particularly in building end-to-end systems with high socio-technical impacts in healthcare. [[Curriculum Vitae](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/yusuf-brima/0b6d4743-9536-4fb8-8a2b-2c0e4692bfa4?view=html)]  [[Google Scholar](https://scholar.google.com/citations?user=fT2b7UwAAAAJ&hl=en)]
+* My research interests include Representation Learning, Causality, Explainability, Interpretability, Computational Entrepreneurship, Mathematical Modelling particularly in building end-to-end systems with high socio-technical impacts in healthcare. [[Curriculum Vitae](http://yusufbrima.github.io/files/Academic_CV_Yusuf_Brima.pdf)]
 * Ph.D. in [Cognitive Science](https://www.comco.uni-osnabrueck.de/projekte/yusuf_brima.html) at [Osnabrück University](https://www.comco.uni-osnabrueck.de/), advised by [Prof. Gunther Heidemann](https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/heidemann_gunther.html) and [Prof. Simone Pika](http://www.ikw.uni-osnabrueck.de/en/research_groups/comparative_biocognition.html).
 * MSc. in [Mathematical Sciences](https://cs.du.ac.bd/) at [The African Institute of Mathematical Sciences (AIMS) ](https://www.aims.ac.rw/), advised by [Dr. Marcellin Atemkeng](https://www.ru.ac.za/mathematics/people/staff/marcelatemkeng/#d.en.232420).
 * MSc. student in the [Computer Science and Engineering Department](https://cs.du.ac.bd/) at [University of Dhaka](https://www.du.ac.bd/), advised by [Prof. Mosaddek Hossain Kamal](http://www.cse.du.ac.bd/profile/?faculty=MHK).
@@ -79,6 +79,7 @@ redirect_from:
 * January 31, 2025; Completed the MUST Deep Learning Bootcamp, North-West University, South Africa [MUST Deep Learning Bootcamp 2025](https://mailchi.mp/nithecs/must-bootcamp).
 * January 28, 2025; "A Systematic Review of Low-Rank and Local Low-Rank Matrix Approximation in Big Data Medical Imaging" accepted for publication in [Neural Computing and Applications](https://arxiv.org/abs/2402.14045).
 * January 22, 2025; PhD Dissertation Submitted and approved for examination and graduation: "Disentangled Representation Learning in Speech and Vocalization".
+* January 11, 2025; "Learning Disentangled Speech Representations" preprint published in [arXiv:2311.03389v4](https://arxiv.org/html/2311.03389v4).
 * November 11, 2024; Launched SyncSpeech Datasets: A large-scale collection of synthetic speech datasets for speech representation learning. Available at [SyncSpeech Datasets](https://synspeech.github.io/)
 * March 21, 2024; "Got accepted to attend in-person the <a href="https://dlrl.ca/" target="_blank">Deep Learning + Reinforcement Learning (DLRL) Summer School</a> 2024 by by CIFAR and the Vector Institute in Toronto, Canada.".
 * June 22, 2024; "Saliency-driven explainable deep learning in medical imaging: bridging visual explainability and statistical quantitative analysis" published in [BioData Mining 17, 18](https://doi.org/10.1186/s13040-024-00370-4).
