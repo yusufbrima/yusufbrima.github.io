@@ -81,9 +81,10 @@ redirect_from:
 * **January 22, 2025**; PhD Dissertation Submitted and approved for examination and graduation: "Disentangled Representation Learning in Speech and Vocalization".
 * **January 20, 2025**; The Association of Commonwealth Universities Case Study on "Advancing artificial intelligence for healthcare and developing human capital in low-resource settings" published in [ACU Research](https://www.acu.ac.uk/publications/case-studies/scholars-fellows-and-grantees-case-studies/advancing-artificial-intelligence-for-healthcare-and-developing-human-capital-in-low-resource-settings/).
 * **January 11, 2025**; "Learning Disentangled Speech Representations" preprint published in [arXiv:2311.03389v4](https://arxiv.org/html/2311.03389v4).
-* **December 16, 2024**; Talk on "Trustworthy Healthcare AI for Mental Health Risk Prediction" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www
+* **December 16, 2024**; Talk on "Trustworthy Healthcare AI for Mental Health Risk Prediction" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.slideshare.net/slideshow/assessing-explainability-in-deep-learning-for-medical-image-analysis/275311589)
 * **December 10, 2024**; Talk on "Assessing Explainability in Deep Learning for Medical Image Analysis" at the [Neurobiology Research Unit,Copenhagen University Hospital](https://www.slideshare.net/slideshow/trustworthy-healthcare-ai-for-mental-health-risk-prediction/275311658).
 * **November 11, 2024**; Launched SyncSpeech Datasets: A large-scale collection of synthetic speech datasets for speech representation learning. Available at [SyncSpeech Datasets](https://synspeech.github.io/).
+* **July 10, 2024**; Talk on "Assessing fusarium oxysporum disease severity in cotton using unmanned aerial system images and a hybrid domain adaptation deep learning time series model" at the [Leibniz Institute for Agricultural Engineering and Bioeconomy](https://www.slideshare.net/slideshow/assessing-fusarium-oxysporum-disease-severity-in-cotton-using-unmanned-aerial-system-images-and-a-hybrid-domain-adaptation-deep-learning-time-series-model/275313608)
 * **June 22, 2024**; "Saliency-driven explainable deep learning in medical imaging: bridging visual explainability and statistical quantitative analysis" published in [BioData Mining 17, 18](https://doi.org/10.1186/s13040-024-00370-4).
 * **March 21, 2024**; "Got accepted to attend in-person the [Deep Learning + Reinforcement Learning (DLRL) Summer School](https://dlrl.ca/) 2024 by CIFAR and the Vector Institute in Toronto, Canada.".
 * **March 27, 2024**; "Bridging the Gap: Exploring Interpretability in Deep Learning Models for Brain Tumor Detection and Diagnosis from MRI Images" published in [MDPI Information 2024, 15(4), 182](https://doi.org/10.3390/info15040182).  
@@ -108,4 +109,3 @@ redirect_from:
  <center>
  <iframe src="https://widgets.figshare.com/articles/14778750/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
  </center>
-<!-- * November 30, 2020. A paper titled "Deep Transfer Learning for Brain Magnetic Resonance Image Multi-class Classification" was submitted to [IEEE/ACM-TCBB-CS](https://arxiv.org/abs/2106.07333). -->
