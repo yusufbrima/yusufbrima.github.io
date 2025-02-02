@@ -80,7 +80,8 @@ redirect_from:
 * **January 28, 2025**; "A Systematic Review of Low-Rank and Local Low-Rank Matrix Approximation in Big Data Medical Imaging" accepted for publication in [Neural Computing and Applications](https://arxiv.org/abs/2402.14045).
 * **January 22, 2025**; PhD Dissertation Submitted and approved for examination and graduation: "Disentangled Representation Learning in Speech and Vocalization".
 * **January 11, 2025**; "Learning Disentangled Speech Representations" preprint published in [arXiv:2311.03389v4](https://arxiv.org/html/2311.03389v4).
-* **December 10, 2024**; Talk on "Assessing Explainability in Deep Learning for Medical Image Analysis" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.slideshare.net/slideshow/assessing-explainability-in-deep-learning-for-medical-image-analysis/275311589).
+* **December 16, 2024**; Talk on "Trustworthy Healthcare AI for Mental Health Risk Prediction" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www
+* **December 10, 2024**; Talk on "Assessing Explainability in Deep Learning for Medical Image Analysis" at the [Neurobiology Research Unit,Copenhagen University Hospital](https://www.slideshare.net/slideshow/trustworthy-healthcare-ai-for-mental-health-risk-prediction/275311658).
 * **November 11, 2024**; Launched SyncSpeech Datasets: A large-scale collection of synthetic speech datasets for speech representation learning. Available at [SyncSpeech Datasets](https://synspeech.github.io/).
 * **June 22, 2024**; "Saliency-driven explainable deep learning in medical imaging: bridging visual explainability and statistical quantitative analysis" published in [BioData Mining 17, 18](https://doi.org/10.1186/s13040-024-00370-4).
 * **March 21, 2024**; "Got accepted to attend in-person the [Deep Learning + Reinforcement Learning (DLRL) Summer School](https://dlrl.ca/) 2024 by CIFAR and the Vector Institute in Toronto, Canada.".
