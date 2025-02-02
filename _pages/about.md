@@ -76,8 +76,13 @@ redirect_from:
 </figure>
 
 # Recent News
+* January 31, 2025; Completed the MUST Deep Learning Bootcamp, North-West University, South Africa [MUST Deep Learning Bootcamp 2025](https://mailchi.mp/nithecs/must-bootcamp).
 * January 28, 2025; "A Systematic Review of Low-Rank and Local Low-Rank Matrix Approximation in Big Data Medical Imaging" accepted for publication in [Neural Computing and Applications](https://arxiv.org/abs/2402.14045).
+* January 22, 2025; PhD Dissertation Submitted and approved for examination and graduation: "Disentangled Representation Learning in Speech and Vocalization".
+* November 11, 2024; Launched SyncSpeech Datasets: A large-scale collection of synthetic speech datasets for speech representation learning. Available at [SyncSpeech Datasets](https://synspeech.github.io/)
 * March 21, 2024; "Got accepted to attend in-person the <a href="https://dlrl.ca/" target="_blank">Deep Learning + Reinforcement Learning (DLRL) Summer School</a> 2024 by by CIFAR and the Vector Institute in Toronto, Canada.".
+* June 22, 2024; "Saliency-driven explainable deep learning in medical imaging: bridging visual explainability and statistical quantitative analysis" published in [BioData Mining 17, 18](https://doi.org/10.1186/s13040-024-00370-4).
+* March 27, 2024; "Bridging the Gap: Exploring Interpretability in Deep Learning Models for Brain Tumor Detection and Diagnosis from MRI Images" published in [MDPI Information 2024, 15(4), 182](https://doi.org/10.3390/info15040182).  
 * February 16, 2024; "Learning Disentangled Audio Representations through Controlled Synthesis" accepted for oral presentation at [ICLR Tiny Papers 2024](https://iclr.cc/Conferences/2024/CallForTinyPapers/).
 * February 15, 2024; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction
 " accepted for oral presentation at [MDPI Information 2024, 15(2), 114](https://doi.org/10.3390/info15020114).
