@@ -76,6 +76,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* January 28, 2025; "A Systematic Review of Low-Rank and Local Low-Rank Matrix Approximation in Big Data Medical Imaging" accepted for publication in [Neural Computing and Applications](https://arxiv.org/abs/2402.14045).
 * March 21, 2024; "Got accepted to attend in-person the <a href="https://dlrl.ca/" target="_blank">Deep Learning + Reinforcement Learning (DLRL) Summer School</a> 2024 by by CIFAR and the Vector Institute in Toronto, Canada.".
 * February 16, 2024; "Learning Disentangled Audio Representations through Controlled Synthesis" accepted for oral presentation at [ICLR Tiny Papers 2024](https://iclr.cc/Conferences/2024/CallForTinyPapers/).
 * February 15, 2024; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction
