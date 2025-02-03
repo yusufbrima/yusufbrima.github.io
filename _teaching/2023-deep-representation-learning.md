@@ -8,8 +8,8 @@ date: 2023-10-17
 location: "Osnabrück, Germany"
 ---
 
-### Course Overview
-
+Course Overview
+==================
 This seminar focuses on **Deep Representation Learning**, exploring how deep neural networks acquire hierarchical and versatile representations during training. The course combines theoretical insights with practical applications, guiding students through the process of analyzing, evaluating, and improving representations in deep learning models. Participants will reproduce and adapt research papers, write scientific reports, and present their findings.
 
 ### Key Topics
