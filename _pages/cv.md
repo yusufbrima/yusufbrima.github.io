@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Cognitive Science (expected May 2025), <a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, 2024
+* Ph.D. in Cognitive Science (expected May 2025), <a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, 2025
 * MSc. in Mathematical Sciences, <a href="https://aims.ac.rw/" target="_blank">African Institute of Mathematical Sciences</a>, 2021
 * MSc. in Computer Science and Engineering, <a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, 2020
 * BSc. in Computer Science, <a href="http://unimak.edu.sl/" target="_blank">University of Makeni</a>, 2017
@@ -48,6 +48,8 @@ Conferences, Workshops & Seminars
 
 Summer Schools
 ======
+* 27/12/2024 - 31/12/2024 - The MUST Deep Learning Bootcamp, North-West University, South Africa
+  * This bootcamp covered the breadth and depth of deep learning from basic principles like backpropagation, to attention mechanisms and reinforcement learning. Link <a href="https://mailchi.mp/nithecs/must-bootcamp" target="_blank"> here </a>
 * 11/09/2022 – 16/09/2022 - Mediterranean Machine Learning school,Università Milano Bicocca, Milan, Italy
   * The Mediterranean Machine Learning (M2L) summer school comprised 5 days of keynotes, lectures, and practical sessions covering the breadth and depth of deep learning from cutting-edge research to practice. Link <a href="https://www.m2lschool.org/past-editions/m2l-2022" target="_blank"> here </a>
 * 11/07/2022 – 29/07/2022 - Neuromatch Academy: Deep Learning, Virtual
