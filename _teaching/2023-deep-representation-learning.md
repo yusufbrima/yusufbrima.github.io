@@ -30,25 +30,75 @@ The seminar is project-oriented, with students working in groups to reproduce an
 - Experience with a deep learning framework (TensorFlow or PyTorch)
 
 ### Resources
-- [Course Materials on Stud.IP](https://studip.uni-osnabrueck.de/dispatch.php/course/details?sem_id=fc0b31d4ea24744a9e0bacb16c1f9987&again=yes)
-- [Session Slides on ShareLaTeX](https://sharelatex.gwdg.de/project/65158d54258b2b655f273725)
+- [Course Materials on Stud.IP](https://studip.uni-osnabrueck.de/dispatch.php/course/details?sem_id=fc0b31d4ea24744a9e0bacb16c1f9987)
+
 
 ### Session Timeline
-| Session | Date & Time       | Presenter          | Style          | Description                                                                 |
-|---------|-------------------|--------------------|----------------|-----------------------------------------------------------------------------|
-| 1       | 17.10.2023 10:00-12:00 | Lukas, Ulf, Yusuf  | Lecture        | Introduction and Organization                                               |
-| 2       | 24.10.2023 10:00-12:00 | Lukas, Ulf, Yusuf  | Lecture        | Scientific Work                                                             |
-| 3       | 07.11.2023 10:00-12:00 | Students           | Presentations  | Exposé/Proposal Presentations                                               |
-| 4       | 14.11.2023 10:00-12:00 | Lukas, Ulf, Yusuf  | Lecture        | Literature Research and LaTeX Introduction                                  |
-| 5       | 21.11.2023 10:00-12:00 | Students           | Presentations  | Project Idea Presentations 1                                                |
-| 6       | 28.11.2023 10:00-12:00 | Students           | Presentations  | Project Idea Presentations 2                                                |
-| 7       | 05.12.2023 10:00-12:00 | Lukas, Ulf, Yusuf  | Lecture/Support| Experiments 1: How to Calculate                                             |
-| 8       | 12.12.2023 10:00-12:00 | Lukas, Ulf, Yusuf  | Support        | Experiments 2: How to Calculate                                             |
-| 9       | 19.12.2023 10:00-12:00 | Lukas, Ulf, Yusuf  | Lecture        | Scientific Writing 1: How to Write                                          |
-| 10      | 09.01.2024 10:00-12:00 | Lukas, Ulf, Yusuf  | Support        | Scientific Writing 2: How to Write                                          |
-| 11      | 16.01.2024 10:00-12:00 | Lukas, Ulf, Yusuf  | Work           | The Review Process: How to QA                                               |
-| 12      | 23.01.2024 10:00-12:00 | Students           | Presentations  | Final Presentations 1                                                       |
-| 13      | 30.01.2024 10:00-12:00 | Students           | Presentations  | Final Presentations 2                                                       |
+
+#### Session 1: 17.10.2023, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Lecture  
+- **Description**: Introduction and Organization  
+
+#### Session 2: 24.10.2023, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Lecture  
+- **Description**: Scientific Work  
+
+#### Session 3: 07.11.2023, 10:00-12:00
+- **Presenter**: Students  
+- **Style**: Presentations  
+- **Description**: Exposé/Proposal Presentations  
+
+#### Session 4: 14.11.2023, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Lecture  
+- **Description**: Literature Research and LaTeX Introduction  
+
+#### Session 5: 21.11.2023, 10:00-12:00
+- **Presenter**: Students  
+- **Style**: Presentations  
+- **Description**: Project Idea Presentations 1  
+
+#### Session 6: 28.11.2023, 10:00-12:00
+- **Presenter**: Students  
+- **Style**: Presentations  
+- **Description**: Project Idea Presentations 2  
+
+#### Session 7: 05.12.2023, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Lecture/Support  
+- **Description**: Experiments 1: How to Calculate  
+
+#### Session 8: 12.12.2023, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Support  
+- **Description**: Experiments 2: How to Calculate  
+
+#### Session 9: 19.12.2023, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Lecture  
+- **Description**: Scientific Writing 1: How to Write  
+
+#### Session 10: 09.01.2024, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Support  
+- **Description**: Scientific Writing 2: How to Write  
+
+#### Session 11: 16.01.2024, 10:00-12:00
+- **Presenter**: Lukas, Ulf, Yusuf  
+- **Style**: Work  
+- **Description**: The Review Process: How to QA  
+
+#### Session 12: 23.01.2024, 10:00-12:00
+- **Presenter**: Students  
+- **Style**: Presentations  
+- **Description**: Final Presentations 1  
+
+#### Session 13: 30.01.2024, 10:00-12:00
+- **Presenter**: Students  
+- **Style**: Presentations  
+- **Description**: Final Presentations 2  
 
 ---
 
