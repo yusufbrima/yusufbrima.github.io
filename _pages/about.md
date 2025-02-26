@@ -76,6 +76,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* **February 19, 2025**; Talk on "Multimodal Federated Learning for Robust Lung Cancer Prognosis" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.slideshare.net/slideshow/multimodal-federated-learning-for-robust-lung-cancer-prognosis/276050973).
 * **January 31, 2025**; Completed the MUST Deep Learning Bootcamp, North-West University, South Africa [MUST Deep Learning Bootcamp 2025](https://mailchi.mp/nithecs/must-bootcamp).
 * **January 28, 2025**; "A Systematic Review of Low-Rank and Local Low-Rank Matrix Approximation in Big Data Medical Imaging" accepted for publication in [Neural Computing and Applications](https://arxiv.org/abs/2402.14045).
 * **January 22, 2025**; PhD Dissertation Submitted and approved for examination and graduation: "Disentangled Representation Learning in Speech and Vocalization".
