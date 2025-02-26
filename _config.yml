@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Yusuf Brima"
-description              : &description "Ph.D. Student,Universität Osnabrück"
+description              : &description "Ph.D. Candidate,Universität Osnabrück"
 url                      : https://yusufbrima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yusufbrima/yusufbrima.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yusuf Brima"
+  name             : "Welcome"
   avatar           : "africa.jpg"
   bio              : "Ph.D. Candidate, Universität Osnabrück"
   location         : "Osnabrück, Germany"
