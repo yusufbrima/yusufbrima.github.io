@@ -17,11 +17,11 @@ redirect_from:
 <hr />
 
 <figure id="DICOM_Viewer">
-  <img src="http://yusufbrima.github.io/images/output.gif" style="width:90%;" alt="Web-based DICOM viewer for medical image visualization and basic manipulation.">
-  <figcaption>A web-based DICOM viewer enabling medical image visualization and basic manipulations, such as contrast adjustment, export to png and video (for multiple uploaded files).</figcaption>
+  <img src="http://yusufbrima.github.io/images/output.gif" style="width:60%;" alt="Web-based DICOM viewer for medical image visualization and basic manipulation.">
+  <figcaption>A web-based DICOM viewer enabling medical image visualization and basic manipulations, such as contrast adjustment, export to png and video (for multiple uploaded files).For more details, visit the project repository: <a href="https://github.com/yusufbrima/DICOMViewer" target="_blank">DICOMViewer</a> </figcaption>
 </figure>
 
-For more details, visit the project repository: [DICOMViewer](https://github.com/yusufbrima/DICOMViewer)
+
 
 
 <hr />
