@@ -15,14 +15,11 @@ redirect_from:
 * BSc. in Computer Science from the [University of Makeni](http://www.unimak.edu.sl/).
 
 <hr />
-
 <figure id="DICOM_Viewer">
-  <img src="http://yusufbrima.github.io/images/output.gif" style="width:60%;" alt="Web-based DICOM viewer for medical image visualization and basic manipulation.">
-  <figcaption>A web-based DICOM viewer enabling medical image visualization and basic manipulations, such as contrast adjustment, export to png and video (for multiple uploaded files).For more details, visit the project repository: <a href="https://github.com/yusufbrima/DICOMViewer" target="_blank">DICOMViewer</a> </figcaption>
+  <img src="http://yusufbrima.github.io/images/app_preview.png" style="width:45%;" alt="Kullback–Leibler divergence between two probability distributions.">
+  <img src="http://yusufbrima.github.io/images/output.gif" style="width:45%;"  alt="Jensen–Shannon divergence between two probability distributions.">
+  <figcaption>A web-based DICOM viewer enabling medical image visualization and basic manipulations, such as contrast adjustment, export to png and video (for multiple uploaded files).For more details, visit the project repository: <a href="https://github.com/yusufbrima/DICOMViewer" target="_blank">DICOMViewer</a></figcaption>
 </figure>
-
-
-
 
 <hr />
 
