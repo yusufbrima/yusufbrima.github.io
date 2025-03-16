@@ -83,9 +83,9 @@ redirect_from:
 </figure>
 
 # Recent News
+* **March 04, 2025**; "A systematic review of low-rank and local low-rank matrix approximation in big data medical imaging" published for publication in [Springer Nature Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-025-11055-2).
 * **February 19, 2025**; Talk on "Multimodal Federated Learning for Robust Lung Cancer Prognosis" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.slideshare.net/slideshow/multimodal-federated-learning-for-robust-lung-cancer-prognosis/276050973).
 * **January 31, 2025**; Completed the MUST Deep Learning Bootcamp, North-West University, South Africa [MUST Deep Learning Bootcamp 2025](https://mailchi.mp/nithecs/must-bootcamp).
-* **January 28, 2025**; "A Systematic Review of Low-Rank and Local Low-Rank Matrix Approximation in Big Data Medical Imaging" accepted for publication in [Neural Computing and Applications](https://arxiv.org/abs/2402.14045).
 * **January 22, 2025**; PhD Dissertation Submitted and approved for examination and graduation: "Disentangled Representation Learning in Speech and Vocalization".
 * **January 20, 2025**; The Association of Commonwealth Universities Case Study on "Advancing artificial intelligence for healthcare and developing human capital in low-resource settings" published in [ACU Research](https://www.acu.ac.uk/publications/case-studies/scholars-fellows-and-grantees-case-studies/advancing-artificial-intelligence-for-healthcare-and-developing-human-capital-in-low-resource-settings/).
 * **January 11, 2025**; "Learning Disentangled Speech Representations" preprint published in [arXiv:2311.03389v4](https://arxiv.org/html/2311.03389v4).
