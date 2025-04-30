@@ -83,6 +83,8 @@ redirect_from:
 </figure>
 
 # Recent News
+* **May 01, 2025**; Started a Biomedical Research Fellow at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html) in St. Augustin, Germany, focusing on "Federated Learning for Lung Cancer Prognosis" under the supervision of [Prof. Dr. rer. nat. Holger Fröhlich](https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html).
+* **March 30, 2025**; Made a first commit to a [Pytorch-based XAI for Dementia using 3D CNN and NIFTI Data](https://github.com/yusufbrima/xai_mri_dementia)
 * **March 04, 2025**; "A systematic review of low-rank and local low-rank matrix approximation in big data medical imaging" published for publication in [Springer Nature Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-025-11055-2).
 * **February 19, 2025**; Talk on "Multimodal Federated Learning for Robust Lung Cancer Prognosis" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.slideshare.net/slideshow/multimodal-federated-learning-for-robust-lung-cancer-prognosis/276050973).
 * **January 31, 2025**; Completed the MUST Deep Learning Bootcamp, North-West University, South Africa [MUST Deep Learning Bootcamp 2025](https://mailchi.mp/nithecs/must-bootcamp).
