@@ -18,10 +18,17 @@ Education
 
 Work experience
 ======
-* 2021-2024 Research Associate
+* May 2025-till Postdoctoral Researcher in Biomedical Data Science
+  * <a href="https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html" target="_blank">Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), Germany</a>
+  * Duties include:
+    * Conduct extensive research in biomedical AI for early diagnosis of cancer and Alzheimer's disease in a privacy-presented and trustworthy setting using uni-modal and multimodal deep learning techniques. 
+    * Supervise bachelor and masters thesis students.
+    * Published papers in top healthcare-focused and general machine learning conferences and journals including NeurIPS, ICLR, MICCAI, Springer Nature BioData Mining, MDPI Medical Data Mining, etc.
+    * Work with medical industry partners to translate research into practice.
+* November 2021-December 2024 Research Associate
   * <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">Research Training Group (RTG) in Computational Cognition</a>, Universität Osnabrück
   * Duties included: Conduct basic research at the interface of Cognitive Science and Deep Learning with particular emphasis on building computational models of Individual Recognition -- a ubiquitous phenomenon in social species like humans.
-* 2017-2018 : Research Teaching Assistant
+* February 2017-July 2018 : Research Teaching Assistant
   * University of Makeni
   * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages, Introducion to Computing, Web Programming, Relational Database Systems theory and practice
   * Supervisor: Lakshamana Namamula Rao
@@ -31,7 +38,7 @@ Work experience
   * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages and Introducion to Computing
   * Supervisor: Aiah James
 
-* 2017-2018 : College Registrar
+* February2017-July 2018 : College Registrar
   * African Accents International Institute of Computer Technology
   * Duties included: Oversight of Enrollment, coodination of outreach activities
   * Supervisor: Mustapha Jalloh
