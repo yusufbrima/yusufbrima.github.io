@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Cognitive Science (expected May 2025), <a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, 2025
+* Ph.D. in Cognitive Science, <a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, 2025
 * MSc. in Mathematical Sciences, <a href="https://aims.ac.rw/" target="_blank">African Institute of Mathematical Sciences</a>, 2021
 * MSc. in Computer Science and Engineering, <a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, 2020
 * BSc. in Computer Science, <a href="http://unimak.edu.sl/" target="_blank">University of Makeni</a>, 2017
 
 Work experience
 ======
-* 2021-Present Research Associate
+* 2021-2024 Research Associate
   * <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">Research Training Group (RTG) in Computational Cognition</a>, Universität Osnabrück
   * Duties included: Conduct basic research at the interface of Cognitive Science and Deep Learning with particular emphasis on building computational models of Individual Recognition -- a ubiquitous phenomenon in social species like humans.
 * 2017-2018 : Research Teaching Assistant
