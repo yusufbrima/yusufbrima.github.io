@@ -84,6 +84,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* **August 28, 2025**; Gave a talk on <href="https://www.slideshare.net/slideshow/artificial-intelligence-and-its-role-in-shaping-our-future/283646571" target="_blank">Artificial Intelligence and Its Role in Shaping Our Future</a> at the University of Makeni Computer Science Alumni Forum.
 * **June 27, 2025**; Successfully <a href="https://www.slideshare.net/slideshow/disentangled-representation-learning-in-speech-and-vocalization/281070120" target="_blank">defended my PhD thesis</a> at the Institute of Cognitive Science, Osnabrück University.
 * **May 01, 2025**; Started a Biomedical Research Fellow at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html) in St. Augustin, Germany, focusing on "Federated Learning for Lung Cancer Prognosis" under the supervision of [Prof. Dr. rer. nat. Holger Fröhlich](https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html).
 * **March 30, 2025**; Made a first commit to a [Pytorch-based XAI for Dementia using 3D CNN and NIFTI Data](https://github.com/yusufbrima/xai_mri_dementia)
