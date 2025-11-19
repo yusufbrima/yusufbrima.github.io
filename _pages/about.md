@@ -84,6 +84,8 @@ redirect_from:
 </figure>
 
 # Recent News
+* **November 19, 2025**; PhD Thesis Published in the collection: FB08 - E-Dissertations: "Disentangled Representation Learning in Speech and Vocalization
+" available at [Osnabrück University Repositorium osnaDocs](https://doi.org/10.48693/798).
 * **August 28, 2025**; Gave a talk on <a href="https://www.slideshare.net/slideshow/artificial-intelligence-and-its-role-in-shaping-our-future/283646571" target="_blank">Artificial Intelligence and Its Role in Shaping Our Future</a> at the University of Makeni Computer Science Alumni Forum.
 * **June 27, 2025**; Successfully <a href="https://www.slideshare.net/slideshow/disentangled-representation-learning-in-speech-and-vocalization/281070120" target="_blank">defended my PhD thesis</a> at the Institute of Cognitive Science, Osnabrück University.
 * **May 01, 2025**; Started a Biomedical Research Fellow at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html) in St. Augustin, Germany, focusing on "Federated Learning for Lung Cancer Prognosis" under the supervision of [Prof. Dr. rer. nat. Holger Fröhlich](https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html).
