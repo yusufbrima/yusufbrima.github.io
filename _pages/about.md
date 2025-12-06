@@ -84,7 +84,7 @@ redirect_from:
 </figure>
 
 # Recent News
-* **December 06, 2025**; Completed "Introduction to Healthcare by Stanford Online" with a focus on healthcare systems, quality improvement, and patient safety. Certificate available at <a href="https://coursera.org/share/96f83ee9c0a846ac735aa69bb6792ef8" target="_blank">Introduction to Healthcare Certificate</a>.
+* **December 06, 2025**; Completed "Introduction to Healthcare by Stanford Online" with a focus on healthcare systems, quality improvement, and patient safety. Certificate available at <a href="https://coursera.org/share/96f83ee9c0a846ac735aa69bb6792ef8" target="_blank">here</a>.
 * **November 19, 2025**; PhD Thesis Published in the collection: FB08 - E-Dissertations: "Disentangled Representation Learning in Speech and Vocalization
 " available at [Osnabrück University Repositorium osnaDocs](https://doi.org/10.48693/798).
 * **August 28, 2025**; Gave a talk on <a href="https://www.slideshare.net/slideshow/artificial-intelligence-and-its-role-in-shaping-our-future/283646571" target="_blank">Artificial Intelligence and Its Role in Shaping Our Future</a> at the University of Makeni Computer Science Alumni Forum.
