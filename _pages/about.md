@@ -84,6 +84,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* **December 17, 2025**; Completed "Introduction to Clinical Data by Stanford Online" with a focus on clinical data types, sources, and applications in healthcare. Certificate available at <a href="https://coursera.org/share/46b08e64671194b512eedcc4d84835ea" target="_blank">here</a>.
 * **December 06, 2025**; Completed "Introduction to Healthcare by Stanford Online" with a focus on healthcare systems, quality improvement, and patient safety. Certificate available at <a href="https://coursera.org/share/96f83ee9c0a846ac735aa69bb6792ef8" target="_blank">here</a>.
 * **November 19, 2025**; PhD Thesis Published in the collection: FB08 - E-Dissertations: "Disentangled Representation Learning in Speech and Vocalization
 " available at [Osnabrück University Repositorium osnaDocs](https://doi.org/10.48693/798).
