@@ -84,6 +84,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* **December 24, 2025**; Completed " AI Applications in Healthcare Specialization by Stanford Online" with a focus on AI techniques and their applications in biomedicine. Certificate available at <a href="https://coursera.org/share/8e92d2103797053a11f2967dd6857edf" target="_blank">here</a>.
 * **December 24, 2025**; Completed " Evaluations of AI Applications in Healthcare by Stanford Online" with a focus on AI techniques and their applications in medical diagnosis. Certificate available at <a href="https://coursera.org/share/905eaf677332a622a10ac50222038393" target="_blank">here</a>.
 * **December 18, 2025**; Completed "Fundamentals of Machine Learning for Healthcare by Stanford Online" with a focus on machine learning techniques and their applications in healthcare. Certificate available at <a href="https://coursera.org/share/d80621b479d393d7cd961fa7991fd0c2" target="_blank">here</a>.
 * **December 17, 2025**; Completed "Introduction to Clinical Data by Stanford Online" with a focus on clinical data types, sources, and applications in healthcare. Certificate available at <a href="https://coursera.org/share/46b08e64671194b512eedcc4d84835ea" target="_blank">here</a>.
