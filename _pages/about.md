@@ -17,7 +17,7 @@ redirect_from:
 
 <hr />
 <figure id="sankey_funding_disease_affiliations_compressed">
-  <img src="http://yusufbrima.github.io/images/sankey_funding_disease_affiliations_compressed.png" style="width:90%;" alt="Sankey diagram of research funding sources, disease areas, and institutional affiliations for AI in Neglected Tropical Diseases (NTDs).">
+  <img src="http://yusufbrima.github.io/images/sankey_funding_disease_affiliations_compressed.png" style="width:95%;" alt="Sankey diagram of research funding sources, disease areas, and institutional affiliations for AI in Neglected Tropical Diseases (NTDs).">
   <figcaption>Sankey diagram of research funding sources, disease areas, and institutional affiliations AI in Neglected Tropical Diseases (NTDs) between 2015 to 2025.</figcaption>
 </figure>
 
