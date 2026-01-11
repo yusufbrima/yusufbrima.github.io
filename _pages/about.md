@@ -90,6 +90,7 @@ redirect_from:
 </figure>
 
 # Recent News
+* **January 11, 2026**; Completed "AI for Medicine by DeepLearning.AI" specialization on Coursera, covering medical diagnosis, prognosis, and treatment using AI. Certificate available at <a href="https://coursera.org/share/0d9edab1bbc8f98b4f2ecf9b21e7d3d9" target="_blank">here</a>.  
 * **December 24, 2025**; Completed " AI Applications in Healthcare Specialization by Stanford Online" with a focus on AI techniques and their applications in biomedicine. Certificate available at <a href="https://coursera.org/share/8e92d2103797053a11f2967dd6857edf" target="_blank">here</a>.
 * **December 24, 2025**; Completed " Evaluations of AI Applications in Healthcare by Stanford Online" with a focus on AI techniques and their applications in medical diagnosis. Certificate available at <a href="https://coursera.org/share/905eaf677332a622a10ac50222038393" target="_blank">here</a>.
 * **December 18, 2025**; Completed "Fundamentals of Machine Learning for Healthcare by Stanford Online" with a focus on machine learning techniques and their applications in healthcare. Certificate available at <a href="https://coursera.org/share/d80621b479d393d7cd961fa7991fd0c2" target="_blank">here</a>.
