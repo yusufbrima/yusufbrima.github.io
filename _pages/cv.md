@@ -18,13 +18,13 @@ Education
 
 Work experience
 ======
-<!-- * May 2025-October 2025 Postdoctoral Researcher in Biomedical Data Science
+* May 2025-October 2025 Postdoctoral Researcher in Biomedical Data Science
   * <a href="https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html" target="_blank">Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), Germany</a>
   * Duties include:
     * Conduct extensive research in biomedical AI for early diagnosis of cancer and Alzheimer's disease in a privacy-presented and trustworthy setting using uni-modal and multimodal deep learning techniques. 
     * Supervise bachelor and masters thesis students.
     * Published papers in top healthcare-focused and general machine learning conferences and journals including NeurIPS, ICLR, MICCAI, Springer Nature BioData Mining, MDPI Medical Data Mining, etc.
-    * Work with medical industry partners to translate research into practice. -->
+    * Work with medical industry partners to translate research into practice.
 * November 2021-December 2024 Research Associate
   * <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">Research Training Group (RTG) in Computational Cognition</a>, Universität Osnabrück
   * Duties included: Conduct basic research at the interface of Cognitive Science and Deep Learning with particular emphasis on building computational models of Individual Recognition -- a ubiquitous phenomenon in social species like humans.
