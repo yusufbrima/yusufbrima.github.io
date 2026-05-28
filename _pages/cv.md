@@ -89,10 +89,10 @@ International Research Collaboration with Rhodes University and Global Academic 
 
 ### Teaching Experience
 
-**University of Makeni, Sierra Leone (2017–2018)**  
+**University of Makeni, Makeni, Sierra Leone (2017–2018)**  
 * Taught 4 undergraduate courses with ~40 students per course.
 
-**Limkokwing University, Sierra Leone (2018)**  
+**Limkokwing University, Freetown, Sierra Leone (2018)**  
 * Taught Principles of Programming Logic and Design to **120+ students per semester**.
 
 Technical Skills
