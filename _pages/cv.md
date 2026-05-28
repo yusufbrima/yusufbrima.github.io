@@ -75,7 +75,7 @@ International Research Collaboration with Rhodes University and Global Academic 
 ---
 
 ### Research Associate (PhD Researcher)
-<a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">RTG Computational Cognition</a>, Universität Osnabrück  
+<a href="https://cognition.uni-osnabrueck.de/2018-05-07" target="_blank">RTG Computational Cognition</a>, Universität Osnabrück  
 **Nov 2021 – Dec 2024**
 
 * Conducted research in self-supervised representation learning.
