@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-About
+Research Profile
 ======
 
 I am a Biomedical AI Researcher working on trustworthy and clinically meaningful machine learning systems for healthcare. My research spans medical image analysis, multimodal clinical AI, explainable AI, representation learning, foundation models, and robust learning under distribution shift.
