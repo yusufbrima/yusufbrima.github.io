@@ -9,95 +9,170 @@ redirect_from:
 
 {% include base_path %}
 
+About
+======
+
+I am a Biomedical AI Researcher working on trustworthy and clinically meaningful machine learning systems for healthcare. My research spans medical image analysis, multimodal clinical AI, explainable AI, representation learning, foundation models, and robust learning under distribution shift.
+
+I currently co-lead an international biomedical AI consortium comprising **33 researchers across 21 institutions** spanning Africa, Europe, Asia, and South America. I coordinate collaborative research projects across **four continents** and co-supervise **3 students (2 PhD and 1 BSc)** in medical imaging and explainable AI.
+
+My work has contributed to peer-reviewed publications in journals including *Information*, *BioData Mining*, *Diagnostics*, and *Scientific Reports*, with ongoing submissions to *Nature Machine Intelligence* and *npj Digital Medicine*.
+
+Professional Profiles
+======
+
+* <a href="https://scholar.google.com/citations?user=fT2b7UwAAAAJ&hl=en" target="_blank">Google Scholar</a>
+* <a href="https://yusufbrima.github.io" target="_blank">Personal Website</a>
+* Email: ybrima@uos.de
+
+Research Interests
+======
+
+* Medical Image Analysis
+* Multimodal Clinical AI
+* Trustworthy & Explainable AI
+* Representation Learning
+* Robustness & Generalization
+* Clinical Decision Support Systems
+* Foundation Models for Healthcare
+* Low-resource Health AI
+
 Education
 ======
-* Ph.D. in Cognitive Science, <a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, 2025
-* MSc. in Mathematical Sciences, <a href="https://aims.ac.rw/" target="_blank">African Institute of Mathematical Sciences</a>, 2021
-* MSc. in Computer Science and Engineering, <a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, 2020
-* BSc. in Computer Science, <a href="http://unimak.edu.sl/" target="_blank">University of Makeni</a>, 2017
 
-Work experience
+### Ph.D. in Cognitive Science
+<a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, Germany (2021–2025)
+
+* Research focus: Deep Neural Representation Learning
+* Advisors: Prof. Günther Heidemann and Prof. Simone Pika
+* Funded by the <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">DFG Research Training Group in Computational Cognition</a>
+
+### M.Sc. in Mathematical Sciences
+<a href="https://aims.ac.rw/" target="_blank">African Institute for Mathematical Sciences (AIMS)</a>, Rwanda (2020–2021)
+
+* Thesis: Deep Transfer Learning for Chest X-ray Image Analysis
+* Award: AIMS / Mastercard Foundation Scholarship
+
+### M.Sc. in Computer Science and Engineering
+<a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, Bangladesh (2018–2020)
+
+* Thesis: Deep Learning for Brain Tumor Detection using MRI Data in collaboration with clinicians
+* Award: Queen Elizabeth Commonwealth Scholarship
+
+### B.Sc. in Computer Science
+<a href="http://unimak.edu.sl/" target="_blank">University of Makeni</a>, Sierra Leone (2012–2017)
+
+* Undergraduate Merit Scholarship
+
+Professional Experience
 ======
-* May-October 2025 Biomedical Data Scientist
-  * <a href="https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html" target="_blank">Fraunhofer Institute for Algorithms and Scientific Computing (SCAI), Germany</a>
-  * Duties include:
-    * Led research in biomedical AI for early diagnosis of cancer and Alzheimer's disease in a privacy-presented and trustworthy setting using uni-modal and multimodal deep learning techniques. 
-    * Work with medical industry partners to translate research into practice.
-* November 2021-December 2024 Research Associate
-  * <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">Research Training Group (RTG) in Computational Cognition</a>, Universität Osnabrück
-  * Duties included: Conduct basic research at the interface of Cognitive Science and Deep Learning with particular emphasis on building computational models of Individual Recognition -- a ubiquitous phenomenon in social species like humans.
-* February 2017-July 2018 : Research Teaching Assistant
-  * University of Makeni
-  * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages, Introducion to Computing, Web Programming, Relational Database Systems theory and practice
-  * Supervisor: Lakshamana Namamula Rao
 
-* 2018: Research Assistant
-  *  Limkokwing University of Creative Technology
-  * Duties included: Teaching undergraduate Computer Science courses in Principles of Programming Languages and Introducion to Computing
-  * Supervisor: Aiah James
+### Co-Founder & Biomedical AI Researcher
+International Research Collaboration with Rhodes University and Global Academic Partners  
+**Dec 2024 – Present**
 
-* February2017-July 2018 : College Registrar
-  * African Accents International Institute of Computer Technology
-  * Duties included: Oversight of Enrollment, coodination of outreach activities
-  * Supervisor: Mustapha Jalloh
+* Co-lead an international biomedical AI consortium of **33 researchers across 21 institutions** spanning Africa, Europe, Asia, and South America.
+* Coordinate research work packages, milestones, and collaborative scientific activities.
+* Conduct research in multimodal clinical AI, medical image analysis, and trustworthy machine learning.
+* Develop AI systems for disease diagnosis and prognosis using multimodal healthcare data.
+* Co-supervise **3 students (2 PhD, 1 BSc)** in medical imaging and explainable AI.
+* Lead cross-institutional collaboration across **four continents**.
 
-Conferences, Workshops & Seminars
+---
+
+### Research Associate (PhD Researcher)
+<a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">RTG Computational Cognition</a>, Universität Osnabrück  
+**Nov 2021 – Dec 2024**
+
+* Conducted research in self-supervised representation learning.
+* Developed contrastive, generative, and joint-embedding models.
+* Methods included Barlow Twins, VAEs, and supervised contrastive learning.
+* Maintained the SynSpeech dataset and open-source pipelines.
+* Presented at NeurIPS, ICLR, and KI Doctoral Consortium.
+* Improved training and processing efficiency by ~20% across tasks.
+
+---
+
+### Teaching Experience
+
+**University of Makeni, Sierra Leone (2017–2018)**  
+* Taught 4 undergraduate courses with ~40 students per course.
+
+**Limkokwing University, Sierra Leone (2018)**  
+* Taught Principles of Programming Logic and Design to **120+ students per semester**.
+
+Technical Skills
 ======
-* 05/2018 – 07/2018 – UNESCO-ICHEI, China
-  * **Seminar on ICT in Higher Education Innovation for African Countries**. Attained knowledge in the role of informatization of higher education to improve learning outcomes. The seminar entailed hands-on training in Big Data management with Apache Spark and predictive analytics with Machine Learning techniques to improve learning outcomes.
-* 31/07/2022 – 06/08/2022 – German Primate Center in Göttingen, Germany
-  * **Bridging the technological gap – spreading technological innovations in the study of the human and non-human mind**. A workshop that brought early-stage researchers to share ideas on cutting-edge technologies to facilitate animal behavior and cognition research. Link: <a href="https://www.primate-cognition.eu/de/veranstaltungen/bridging-the-technological-gap-workshop.html%20" target="_blank"> here </a>
 
-* 6/08/2022 – 07/08/2022 – Insitute of Cognitive Science in Osnabrück University, Germany
-  * **Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition)**. Co-organized the workshop that brings together experts from diverse but intersecting fields pursuing research in understanding the mechanisms that give rise to intelligence in biological and artificial systems. Link <a href="https://www.comco.uni-osnabrueck.de/workshop_2022.html" target="_blank"> here </a>
+### Machine Learning & AI
+PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Multimodal Learning, Foundation Models
 
-Summer Schools
-======
-* 27/12/2024 - 31/12/2024 - The MUST Deep Learning Bootcamp, North-West University, South Africa
-  * This bootcamp covered the breadth and depth of deep learning from basic principles like backpropagation, to attention mechanisms and reinforcement learning. Link <a href="https://mailchi.mp/nithecs/must-bootcamp" target="_blank"> here </a>
-* 11/09/2022 – 16/09/2022 - Mediterranean Machine Learning school,Università Milano Bicocca, Milan, Italy
-  * The Mediterranean Machine Learning (M2L) summer school comprised 5 days of keynotes, lectures, and practical sessions covering the breadth and depth of deep learning from cutting-edge research to practice. Link <a href="https://www.m2lschool.org/past-editions/m2l-2022" target="_blank"> here </a>
-* 11/07/2022 – 29/07/2022 - Neuromatch Academy: Deep Learning, Virtual
-  * The Deep Learning (DL) course covers team-based hands-on training in the theoretical underpinnings and practical approaches of current DL algorithms. The three weeks of intensive training involve the complete DL workflow from data curation to exploratory data analysis to model design, implementation, evaluation, and reporting. These algorithms range from Logitic Regressors to Transformers and everything in between.Link <a href="https://portal.neuromatchacademy.org/certificate/cad1cc47-7b00-4a8f-8420-18494cff6ed4" target="_blank"> here </a>
-* 07/2021 – 07/2021 - Eastern European Machine Learning Summer School, Virtual
-  * Covered the breadth and depth of deep learning from basic principles like backpropagation, to attention mechanisms and reinforcement learning. Link <a href="https://www.eeml.eu/previous-editions/eeml2021" target="_blank"> here </a>
-* 07/2020 – 08/2020 - Oxford Machine Learning Summer School, UK
-  * Bayesian ML, Computer Vision, Natural Language Processing, Reinforcement Learning, Causal ML, Topological ML, and Transfer Learning. Link <a href="https://www.oxfordml.school/oxml2020" target="_blank"> here </a>
-* 07/2020 – 08/2020 - Machine Learning Summer School-INDO, Indonesia
-  * Machine Learning Fundamentals, TensorFlow, Convolutional Neural Network, Advanced Topics in Equivariance and Inductive Biases, Bayesian Machine Learning, Information Theoretic Objectives, and Robust Generalization, Computational Morphology, Reinforcement Learning, Probabilistic Generative Models, VAEs and Flows, Deep Learning for NLP, Graph Neural Nets, Transfer Learning for NLP, Multilingual NLP, Super-resolution and its Application to Computer Vision Tasks. Link <a href="http://mlss.cc/" target="_blank"> here </a>
+### Programming
+Python, R, C/C++
+
+### Medical Imaging
+OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
+
+### Neuroimaging
+BIDS, FSL, FreeSurfer
+
+### Explainable & Trustworthy AI
+SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM
+
+### Research Computing
+Linux, Docker, SLURM, GPU Computing, Google Cloud Platform (GCP)
 
 
-
-
-Additional Certifications
-======
-* 08/2023 - 09/2023 - IBM AI Engineering Professional Certificate, Virtual
-  *  Introduction to Deep Learning & Neural Networks with Keras. Link <a href="https://coursera.org/share/5d24e126c75804a8ef516eaa7ec2b8be" target="_blank"> here <a>
-* 02/2023 - 08/2023 - IBM Data Science Professional Certificate, Virtual
-  *  Specialization Certificate. Link <a href="https://coursera.org/share/9d1ab8aba13da1ee33571fa9596a1002" target="_blank"> here <a>
-* 03/2023 - 04/2023 - University of Michigan, Virtual
-  *  Python Data Structures. Link <a href="https://coursera.org/share/1fb1c026749e59f2469711f389cdd49b" target="_blank"> here <a>
-* 08/2020 – 09/2020 - MathWorks Training Service, MOOC
-  * Deep Learning for Image Recognition. Using Pre-trained Networks, Managing Collections of Data, and Performing Transfer Learning.
-* 08/2019 – 06/2020 - Imperial College London, Virtual
-  * Mathematics for Machine Learning Specialization: Linear Algebra, Multivariate Calculus, and Principal Component Analysis. Link <a href="https://coursera.org/share/230cfce0bcd85d3f3f72df41fb82d757" target="_blank"> here </a>
-* 09/2016 – 10/2016 - On-Campus Internship Programme (OCIP), University of Makeni, Sierra Leone
-  * Installation and configuration of software, computer networking, troubleshooting, and maintenance.
-
-Skills
-======
-* Computing
-  * Knowledge of algorithm discovery and representation
-  * Agile and defensive programming
-  * Mathematical Modelling and Optimization
-  * Software Engineering processes
-* Leadership Skills
-
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Academic Service
+======
+
+* Scholarship Selection Committee Member, AIMS (2026)
+* Award Committee Member, Deep Learning Indaba (2025)
+* Reviewer for:
+  Scientific Reports, npj journals, BMC Medical Informatics, ICLR, ICML Workshops, Deep Learning Indaba
+
+Professional Memberships
+======
+
+* <a href="https://miccai.org" target="_blank">MICCAI Society</a>
+* <a href="https://blackinai.github.io/" target="_blank">Black in AI</a>
+* <a href="https://deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>
+* <a href="https://www.ieee.org/" target="_blank">IEEE</a>
+* <a href="https://aims.ac.rw/" target="_blank">AIMS Alumni Network</a>
+
+
+Awards & Scholarships
+======
+
+* CIFAR Deep Learning Summer School Scholarship (2024)
+* Deep Learning Indaba Scholarship (2023)
+* ELLIS Machine Learning Summer School Scholarship (2022)
+* Queen Elizabeth Commonwealth Scholarship (2018–2020)
+* AIMS / Mastercard Foundation Scholarship (2020–2021)
+
+Training & Certifications
+======
+
+* Stanford AI for Healthcare Specialization (2025)
+* DeepLearning.AI AI for Medicine (2026)
+* MUST Deep Learning Bootcamp (2025)
+* IBM AI Engineering Certificate (2023)
+* IBM Data Science Certificate (2023)
+* Neuromatch Academy Deep Learning Program (2022)
+* Oxford Machine Learning Summer School (2020)
+
+Data Governance
+======
+
+* Approved access: DHS, UK Biobank, PhysioNet, LONI IDA
+* IRB-compliant biomedical research experience
+* Training in ethics, privacy, and responsible AI
 
 Talks
 ======
