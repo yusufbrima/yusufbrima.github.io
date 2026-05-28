@@ -92,6 +92,7 @@ redirect_from:
 # Recent News
 * **May 26, 2026**; Our Tabular Foundation Model manuscript titled "Few-shot Learning with Cross-country Generalization of Tabular Machine Learning and Foundation Models for Child-
 hood Anemia Prediction under Distribution Shift" submitted to _Nature Machine Intelligence_.
+* **April 20, 2026**; Our LLM-Guided XAI for Medical Imagge Diagnostics manuscript titled "Bridging Visual Saliency and Large Language Models for Self-explainable Deep Learning in Medical Imaging" submitted to _BioData Mining_.
 * **April 16, 2026**; Our AI in NTD Consortium manuscript titled "Artificial Intelligence in Neglected Tropical Diseases: Current Applications, Challenges, and Opportunities" submitted to _npj Digital Medicine_.
 * **May 19, 2026**; Our systematic review title "Transformers for 3D Medical Image Analysis: A Systematic Review of Architectural Innovations, Performance, and Clinical Applications," got accepted at Artificial Intelligence Review.  
 * **December 24, 2025**; Completed " AI Applications in Healthcare Specialization by Stanford Online" with a focus on AI techniques and their applications in biomedicine. Certificate available at <a href="https://coursera.org/share/8e92d2103797053a11f2967dd6857edf" target="_blank">here</a>.
