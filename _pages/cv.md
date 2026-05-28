@@ -18,12 +18,6 @@ I currently co-lead an international biomedical AI consortium comprising **33 re
 
 My work has contributed to peer-reviewed publications in journals including *Information*, *BioData Mining*, *Diagnostics*, and *Scientific Reports*, with ongoing submissions to *Nature Machine Intelligence* and *npj Digital Medicine*.
 
-Professional Profiles
-======
-
-* <a href="https://scholar.google.com/citations?user=fT2b7UwAAAAJ&hl=en" target="_blank">Google Scholar</a>
-* <a href="https://yusufbrima.github.io" target="_blank">Personal Website</a>
-* Email: ybrima@uos.de
 
 Research Interests
 ======
