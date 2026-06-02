@@ -66,12 +66,12 @@ English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Nativ
 International Research Collaboration with Rhodes University and Global Academic Partners  
 **Dec 2024 – Present**
 
-* Co-lead an international biomedical AI consortium of **33 researchers across 21 institutions** spanning Africa, Europe, Asia, and South America.
-* Coordinate research work packages, milestones, and collaborative scientific activities.
-* Conduct research in multimodal clinical AI, medical image analysis, and trustworthy machine learning.
-* Develop AI systems for disease diagnosis and prognosis using multimodal healthcare data.
-* Co-supervise **3 students (2 PhD, 1 BSc)** in medical imaging and explainable AI.
-* Lead cross-institutional collaboration across **four continents**.
+* Conduct research in multimodal representation learning for clinical data, focusing on early diagnosis, and prognosis with emphasis on robustness, explainability, fairness, and generalization.
+* Contribute to collaborative research projects in biomedical AI using multi-institutional healthcare datasets spanning Africa, Asia, South America and Europe.
+* Co-supervise 3 students (2 PhDs and 1 BSc) on projects in medical imaging and clinical AI, including transformer-based 3D medical image analysis and explainable/fair AI for low-resource healthcare settings.
+* Contribute to scientific writing and dissemination of research outputs, including peer-reviewed manuscripts and preprints in biomedical AI.
+* Co-created and lead an interdisciplinary research consortium comprising 33 members across 21 institutions focused on AI applications in neglected tropical diseases (NTDs).
+* Coordinate research work packages, project milestones, and collaborative activities across the aforementioned consortium members.
 
 ---
 
@@ -79,12 +79,12 @@ International Research Collaboration with Rhodes University and Global Academic 
 <a href="https://cognition.uni-osnabrueck.de/2018-05-07" target="_blank">RTG Computational Cognition</a>, Universität Osnabrück  
 **Nov 2021 – Dec 2024**
 
-* Conducted research in self-supervised representation learning.
-* Developed contrastive, generative, and joint-embedding models.
-* Methods included Barlow Twins, VAEs, and supervised contrastive learning.
-* Maintained the SynSpeech dataset and open-source pipelines.
-* Presented at NeurIPS, ICLR, and KI Doctoral Consortium.
-* Improved training and processing efficiency by ~20% across tasks.
+* Conducted research in deep representation learning for artificial intelligence, with a focus on self-supervised learning methods including contrastive, generative, and joint-embedding approaches.
+* Developed joint-embedding, contrastive, and generative models for disentangled representation learning, including methods such as Barlow Twins, variational autoencoders (VAEs), and supervised contrastive learning.
+* Improved data processing efficiency by at least 20\% and increased model performance by at least 25\% across target machine learning tasks.
+* Curated and maintained the SynSpeech dataset and managed associated open-source research codebases and accessibility.
+* Presented research at international conferences and doctoral consortia, including NeurIPS (2023), German Conference on Artificial Intelligence (KI) Doctoral Consortium (2023), and ICLR (2024).
+* Supervised and mentored Master’s students in machine learning and deep learning research projects.
 
 ---
 
