@@ -19,6 +19,19 @@ I am a Biomedical AI Early-Career Researcher with experience in medical image an
 
 My research interests include: Medical Image Analysis; Multimodal Clinical AI; Trustworthy and Explainable AI; Robustness and Generalization; Representation Learning; Clinical Decision Support; Low-resource Health AI.
 
+## Technical Skills
+- **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, transformers, multimodal learning
+- **Programming:** Python, R, C/C++
+- **Systems:** Linux, Windows, High Performance Computing with SLURM (HPC), Grid Computing with Oracle Sun Grid Engine, Docker, GCP, GPU Computing
+- **Data and Scientific Computing:** SQL, NumPy, Pandas, Matplotlib, Seaborn
+- **Neuroimaging Data and Tools:** BIDS, FSL, FreeSurfer
+- **Medical Imaging:** OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
+- **Explainable, Fair, and Trustworthy AI:** SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM, iNNvestigate
+
+## Soft Skills
+Organization and project management; Communication; Independent working and self-responsibility; Solution-oriented problem solving; Flexibility and adaptability; Teamwork and collaboration; Leadership and mentorship; Cross-cultural communication; Time management; Critical thinking and creativity; Resilience and perseverance; Ethical awareness and integrity; Continuous learning and growth mindset
+
+
 ##  Education
 
 ### Ph.D. in Cognitive Science
@@ -81,14 +94,6 @@ International Research Collaboration with Rhodes University and Global Academic 
 **Limkokwing University, Freetown, Sierra Leone (2018)**  
 * Taught Principles of Programming Logic and Design to **120+ students per semester**.
 
-## Technical Skills
-- **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, transformers, multimodal learning
-- **Programming:** Python, R, C/C++
-- **Systems:** Linux, Windows, High Performance Computing with SLURM (HPC), Grid Computing with Oracle Sun Grid Engine, Docker, GCP, GPU Computing
-- **Data and Scientific Computing:** SQL, NumPy, Pandas, Matplotlib, Seaborn
-- **Neuroimaging Data and Tools:** BIDS, FSL, FreeSurfer
-- **Medical Imaging:** OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
-- **Explainable, Fair, and Trustworthy AI:** SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM, iNNvestigate
 
 ## Selected Publications
 
