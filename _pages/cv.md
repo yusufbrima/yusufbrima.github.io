@@ -120,24 +120,51 @@ African Accents International Institute of Computer Technology
   {% endfor %}</ul>
 
 
-## Awards & Scholarships
+## Competitive Scholarships and Awards
 
-* CIFAR Deep Learning Summer School Scholarship (2024)
-* Deep Learning Indaba Scholarship (2023)
-* ELLIS Machine Learning Summer School Scholarship (2022)
-* Queen Elizabeth Commonwealth Scholarship (2018–2020)
-* AIMS / Mastercard Foundation Scholarship (2020–2021)
+* CIFAR Deep Learning and Reinforcement Learning (DLRL) Summer School Inclusive AI Scholarship, Canada, 2024
+* Deep Learning Indaba Scholarship, 2023
+* Cambridge Ellis Machine Learning Summer School Fully-funded Scholarship, 2022
 
-## Training & Certifications
+## Further Training and Certifications
+- DeepLearning.AI AI for Medicine Specialization (*Coursera, online*, 2026) — (3 months)  
+  Focus: diagnostic, prognostic, and treatment-effect AI models in healthcare.  
+  <a href="https://coursera.org/share/0d9edab1bbc8f98b4f2ecf9b21e7d3d9" target="_blank">Certificate Link</a>
 
+- Stanford University AI for Healthcare Specialization (*Coursera, online*, 2025) — (8 weeks)  
+  Focus: clinical data, healthcare systems, and evaluation of AI in medicine.  
+  <a href="https://coursera.org/share/8e92d2103797053a11f2967dd6857edf" target="_blank">Certificate Link</a>
 
-* Stanford AI for Healthcare Specialization (2025)
-* DeepLearning.AI AI for Medicine (2026)
-* MUST Deep Learning Bootcamp (2025)
-* IBM AI Engineering Certificate (2023)
-* IBM Data Science Certificate (2023)
-* Neuromatch Academy Deep Learning Program (2022)
-* Oxford Machine Learning Summer School (2020)
+- MUST Deep Learning Bootcamp (*North-West University, South Africa*, 2025) — (2 weeks intensive)  
+  Focus: CNNs, optimization, gradient descent, regularization, supervised learning.
+
+- IBM AI Engineering Professional Certificate (*Coursera, online*, 2023) — (5 months)  
+  Focus: deep learning, TensorFlow, Keras, neural networks, hyperparameter tuning.  
+  <a href="https://coursera.org/share/5d24e126c75804a8ef516eaa7ec2b8be" target="_blank">Certificate Link</a>
+
+- IBM Data Science Professional Certificate (*Coursera, online*, 2023) — (6 months)  
+  Focus: Python, SQL, machine learning, data visualization, cloud computing.  
+  <a href="https://coursera.org/share/9d1ab8aba13da1ee33571fa9596a1002" target="_blank">Certificate Link</a>
+
+- Python Programming and Data Structures (*University of Michigan, Coursera, online*, 2023) — (8 weeks)  
+  Focus: Python, algorithms, recursion, object-oriented programming.  
+  <a href="https://coursera.org/share/777e39d615e4b1216c95ae3196e1cc35" target="_blank">Certificate Link</a>
+
+- Mediterranean Machine Learning School (*Università Milano Bicocca, Italy*, 2022) — (5-day intensive)  
+  Focus: advanced deep learning lectures and hands-on sessions.
+
+- Deep Learning Program (*Neuromatch Academy, online*, 2022) — (3-week intensive program)  
+  Focus: end-to-end deep learning from theory to implementation.
+
+- Machine Learning Summer School (*Bandung, Indonesia*, 2020) — (2-week intensive)  
+  Focus: CNNs, VAEs, NLP, TensorFlow, transfer learning.
+
+- Machine Learning Summer School (*University of Oxford, UK*, 2020) — (2-week intensive)  
+  Focus: Bayesian ML, computer vision, NLP, reinforcement learning, causal inference.
+
+- Mathematics for Machine Learning (*Imperial College London, Coursera, online*, 2020) — (3 months)  
+  Focus: linear algebra, multivariate calculus, optimization, PCA.  
+  <a href="https://coursera.org/share/230cfce0bcd85d3f3f72df41fb82d757" target="_blank">Certificate Link</a>
 
 ## Data Governance
 
