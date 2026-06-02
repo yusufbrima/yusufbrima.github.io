@@ -12,24 +12,13 @@ redirect_from:
 Research Profile
 ======
 
-I am a Biomedical AI Researcher working on trustworthy and clinically meaningful machine learning systems for healthcare. My research spans medical image analysis, multimodal clinical AI, explainable AI, representation learning, foundation models, and robust learning under distribution shift.
+I am a Biomedical AI Early-Career Researcher with experience in medical image analysis, multimodal clinical AI, explainable AI, and robust representation learning especially under limited and noisy label settings. My work focuses on building clinically meaningful machine learning systems for imaging and structured health data, with attention to generalization, interpretability, and clinical translation.
 
-I currently co-lead an international biomedical AI consortium comprising **33 researchers across 21 institutions** spanning Africa, Europe, Asia, and South America. I coordinate collaborative research projects across **four continents** and co-supervise **3 students (2 PhD and 1 BSc)** in medical imaging and explainable AI.
-
-My work has contributed to peer-reviewed publications in journals including *Information*, *BioData Mining*, *Diagnostics*, and *Scientific Reports*, with ongoing submissions to *Nature Machine Intelligence* and *npj Digital Medicine*.
 
 
 Research Interests
 ======
-
-* Medical Image Analysis
-* Multimodal Clinical AI
-* Trustworthy & Explainable AI
-* Representation Learning
-* Robustness & Generalization
-* Clinical Decision Support Systems
-* Foundation Models for Healthcare
-* Low-resource Health AI
+My research interests include: Medical Image Analysis; Multimodal Clinical AI; Trustworthy and Explainable AI; Robustness and Generalization; Representation Learning; Clinical Decision Support; Low-resource Health AI.
 
 Education
 ======
