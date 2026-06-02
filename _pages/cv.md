@@ -37,26 +37,26 @@ English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Nativ
 ##  Education
 
 ### Ph.D. in Cognitive Science
-<a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, Germany (2021–2025)
+<a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, Germany (Nov 2021 -- Nov 2025)
 
 * Research focus: Deep Neural Representation Learning
 * Advisors: Prof. Günther Heidemann and Prof. Simone Pika
 * Funded by the <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">DFG Research Training Group in Computational Cognition</a>
 
 ### M.Sc. in Mathematical Sciences
-<a href="https://aims.ac.rw/" target="_blank">African Institute for Mathematical Sciences (AIMS)</a>, Rwanda (2020–2021)
+<a href="https://aims.ac.rw/" target="_blank">African Institute for Mathematical Sciences (AIMS)</a>, Rwanda (Sept 2020 -- Jul 2021)
 
 * Thesis: Deep Transfer Learning for Chest X-ray Image Analysis
 * Award: AIMS / Mastercard Foundation Scholarship
 
 ### M.Sc. in Computer Science and Engineering
-<a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, Bangladesh (2018–2020)
+<a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, Bangladesh (Jul 2018 -- Aug 2020)
 
 * Thesis: Deep Learning for Brain Tumor Detection using MRI Data in collaboration with clinicians
 * Award: Queen Elizabeth Commonwealth Scholarship
 
 ### B.Sc. in Computer Science
-<a href="http://unimak.edu.sl/" target="_blank">University of Makeni</a>, Sierra Leone (2012–2017)
+<a href="http://unimak.edu.sl/" target="_blank">University of Makeni</a>, Sierra Leone (Sept 2012 -- Feb 2017)
 
 * Undergraduate Merit Scholarship
 
