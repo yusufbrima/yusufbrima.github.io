@@ -119,20 +119,6 @@ African Accents International Institute of Computer Technology
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Academic Service
-
-* Scholarship Selection Committee Member, AIMS (2026)
-* Award Committee Member, Deep Learning Indaba (2025)
-* Reviewer for:
-  Scientific Reports, npj journals, BMC Medical Informatics, ICLR, ICML Workshops, Deep Learning Indaba
-
-## Professional Memberships
-* <a href="https://miccai.org" target="_blank">MICCAI Society</a>
-* <a href="https://blackinai.github.io/" target="_blank">Black in AI</a>
-* <a href="https://deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>
-* <a href="https://www.ieee.org/" target="_blank">IEEE</a>
-* <a href="https://aims.ac.rw/" target="_blank">AIMS Alumni Network</a>
-
 
 ## Awards & Scholarships
 
@@ -159,6 +145,7 @@ African Accents International Institute of Computer Technology
 * IRB-compliant biomedical research experience
 * Training in ethics, privacy, and responsible AI
 
+
 ## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -168,3 +155,18 @@ African Accents International Institute of Computer Technology
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+## Academic Service
+
+* Scholarship Selection Committee Member, AIMS (2026)
+* Award Committee Member, Deep Learning Indaba (2025)
+* Reviewer for:
+  Scientific Reports, npj journals, BMC Medical Informatics, ICLR, ICML Workshops, Deep Learning Indaba
+
+## Professional Memberships
+* <a href="https://miccai.org" target="_blank">MICCAI Society</a>
+* <a href="https://blackinai.github.io/" target="_blank">Black in AI</a>
+* <a href="https://deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>
+* <a href="https://www.ieee.org/" target="_blank">IEEE</a>
+* <a href="https://aims.ac.rw/" target="_blank">AIMS Alumni Network</a>
