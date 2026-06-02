@@ -42,7 +42,7 @@ English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Nativ
 
 * Research focus: Deep Neural Representation Learning
 * Advisors: Prof. Günther Heidemann and Prof. Simone Pika
-* Funded by the <a href="https://www.comco.uni-osnabrueck.de/en/startpage.html" target="_blank">DFG Research Training Group in Computational Cognition</a>
+* Funded by the <a href="https://www.uni-osnabrueck.de/en/research/research-profile-and-institutes/research-training-groups" target="_blank">DFG Research Training Group in Computational Cognition</a>
 
 ### M.Sc. in Mathematical Sciences
 <a href="https://aims.ac.rw/" target="_blank">African Institute for Mathematical Sciences (AIMS)</a>, Rwanda 
