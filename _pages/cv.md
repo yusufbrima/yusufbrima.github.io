@@ -19,8 +19,7 @@ I am a Biomedical AI Early-Career Researcher with experience in medical image an
 
 My research interests include: Medical Image Analysis; Multimodal Clinical AI; Trustworthy and Explainable AI; Robustness and Generalization; Representation Learning; Clinical Decision Support; Low-resource Health AI.
 
-Education
-======
+##  Education
 
 ### Ph.D. in Cognitive Science
 <a href="https://www.uni-osnabrueck.de" target="_blank">Universität Osnabrück</a>, Germany (2021–2025)
@@ -46,8 +45,7 @@ Education
 
 * Undergraduate Merit Scholarship
 
-Professional Experience
-======
+## Professional Experience
 
 ### Co-Founder & Biomedical AI Researcher
 International Research Collaboration with Rhodes University and Global Academic Partners  
@@ -83,8 +81,7 @@ International Research Collaboration with Rhodes University and Global Academic 
 **Limkokwing University, Freetown, Sierra Leone (2018)**  
 * Taught Principles of Programming Logic and Design to **120+ students per semester**.
 
-Technical Skills
-======
+## Technical Skills
 - **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, transformers, multimodal learning
 - **Programming:** Python, R, C/C++
 - **Systems:** Linux, Windows, High Performance Computing with SLURM (HPC), Grid Computing with Oracle Sun Grid Engine, Docker, GCP, GPU Computing
@@ -93,23 +90,20 @@ Technical Skills
 - **Medical Imaging:** OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
 - **Explainable, Fair, and Trustworthy AI:** SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM, iNNvestigate
 
-Selected Publications
-======
+## Selected Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Academic Service
-======
+## Academic Service
 
 * Scholarship Selection Committee Member, AIMS (2026)
 * Award Committee Member, Deep Learning Indaba (2025)
 * Reviewer for:
   Scientific Reports, npj journals, BMC Medical Informatics, ICLR, ICML Workshops, Deep Learning Indaba
 
-Professional Memberships
-======
-
+## Professional Memberships
 * <a href="https://miccai.org" target="_blank">MICCAI Society</a>
 * <a href="https://blackinai.github.io/" target="_blank">Black in AI</a>
 * <a href="https://deeplearningindaba.com/" target="_blank">Deep Learning Indaba</a>
@@ -117,8 +111,7 @@ Professional Memberships
 * <a href="https://aims.ac.rw/" target="_blank">AIMS Alumni Network</a>
 
 
-Awards & Scholarships
-======
+## Awards & Scholarships
 
 * CIFAR Deep Learning Summer School Scholarship (2024)
 * Deep Learning Indaba Scholarship (2023)
@@ -126,8 +119,8 @@ Awards & Scholarships
 * Queen Elizabeth Commonwealth Scholarship (2018–2020)
 * AIMS / Mastercard Foundation Scholarship (2020–2021)
 
-Training & Certifications
-======
+## Training & Certifications
+
 
 * Stanford AI for Healthcare Specialization (2025)
 * DeepLearning.AI AI for Medicine (2026)
@@ -137,21 +130,18 @@ Training & Certifications
 * Neuromatch Academy Deep Learning Program (2022)
 * Oxford Machine Learning Summer School (2020)
 
-Data Governance
-======
+## Data Governance
 
 * Approved access: DHS, UK Biobank, PhysioNet, LONI IDA
 * IRB-compliant biomedical research experience
 * Training in ethics, privacy, and responsible AI
 
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
