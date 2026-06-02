@@ -9,6 +9,3 @@ paperurl: 'https://doi.org/10.3390/diagnostics11081480'
 citation: 'Brima, Y., Atemkeng, M., Tankio Djiokap, S., Ebiele, J., & Tchakounté, F. (2021). Transfer Learning for the Detection and Diagnosis of Types of Pneumonia including Pneumonia Induced by COVID-19 from Chest X-ray Images. Diagnostics, 11(8), 1480. DOI: 10.3390/diagnostics11081480'
 ---
 
-[Download paper here](https://doi.org/10.3390/diagnostics11081480)
-
-Recommended citation: Brima, Y., Atemkeng, M., Tankio Djiokap, S., Ebiele, J., & Tchakounté, F. (2021). Transfer Learning for the Detection and Diagnosis of Types of Pneumonia including Pneumonia Induced by COVID-19 from Chest X-ray Images. *Diagnostics, 11(8)*, 1480. DOI: 10.3390/diagnostics11081480.
