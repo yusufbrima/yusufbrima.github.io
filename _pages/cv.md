@@ -31,6 +31,8 @@ My research interests include: Medical Image Analysis; Multimodal Clinical AI; T
 ## Soft Skills
 Organization and project management; Communication; Independent working and self-responsibility; Solution-oriented problem solving; Flexibility and adaptability; Teamwork and collaboration; Leadership and mentorship; Cross-cultural communication; Time management; Critical thinking and creativity; Resilience and perseverance; Ethical awareness and integrity; Continuous learning and growth mindset
 
+## Languages
+English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Native); Kono (Native)
 
 ##  Education
 
