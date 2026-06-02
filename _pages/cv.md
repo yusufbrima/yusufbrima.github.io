@@ -166,11 +166,11 @@ African Accents International Institute of Computer Technology
   Focus: linear algebra, multivariate calculus, optimization, PCA.  
   <a href="https://coursera.org/share/230cfce0bcd85d3f3f72df41fb82d757" target="_blank">Certificate Link</a>
 
-## Data Governance
+## Data Access, Governance, and Compliance
 
-* Approved access: DHS, UK Biobank, PhysioNet, LONI IDA
-* IRB-compliant biomedical research experience
-* Training in ethics, privacy, and responsible AI
+* Approved access to Demographic and Health Surveys (DHS) data for research on trustworthy disease diagnosis.
+* Credentialed access and training for controlled biomedical datasets and platforms, including UK Biobank/MRC, PhysioNet, LONI IDA, and the German FDPG framework.
+* Training in research ethics, data privacy, and responsible data use (CITI Program); experienced with IRB-compliant workflows and secure handling of sensitive health data.
 
 
 ## Talks
@@ -185,11 +185,15 @@ African Accents International Institute of Computer Technology
 
 
 ## Academic Service
+- **Scholarship Selection Committee Member:** Masters in Mathematical Sciences in Mathematical Epidemiology (MathEpi), Africa Health Collaborative (AHC) | African Institute for Mathematical Sciences (AIMS), 2026.
 
-* Scholarship Selection Committee Member, AIMS (2026)
-* Award Committee Member, Deep Learning Indaba (2025)
-* Reviewer for:
-  Scientific Reports, npj journals, BMC Medical Informatics, ICLR, ICML Workshops, Deep Learning Indaba
+- **Award Committee Member:** Deep Learning Indaba Kambule Doctoral Award Committee, 2025.
+
+- **Conference and seminar organization:** Co-organized the "Bridging Biological and Artificial Neural Networks" workshop (Osnabrück University, 2022) and the Deep Representation Learning Seminar (Winter 2023/24).
+
+- **Peer review since 2023:** Scientific Reports; BMC Medical Informatics and Decision Making; Healthcare Technology Letters; npj journals; ICLR; ICML MusIML Workshop; Deep Learning Indaba.
+
+- **Memberships:** MICCAI Society (2023–present); Black in AI (2022–present); Deep Learning Indaba (2022–present); IEEE (2019–present); AIMS Alumni Network (2021–present).
 
 ## Professional Memberships
 * <a href="https://miccai.org" target="_blank">MICCAI Society</a>
