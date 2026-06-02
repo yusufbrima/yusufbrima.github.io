@@ -86,24 +86,12 @@ International Research Collaboration with Rhodes University and Global Academic 
 
 Technical Skills
 ======
-
-### Machine Learning & AI
-PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Multimodal Learning, Foundation Models
-
-### Programming
-Python, R, C/C++
-
-### Medical Imaging
-OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
-
-### Neuroimaging
-BIDS, FSL, FreeSurfer
-
-### Explainable & Trustworthy AI
-SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM
-
-### Research Computing
-Linux, Docker, SLURM, GPU Computing, Google Cloud Platform (GCP)
+ML/DL: PyTorch, TensorFlow/Keras, scikit-learn, transformers, multimodal learning Programming: Python, R, C/C++
+Systems: Linux; Windows, High Performance Computing with SLURM (HPC), Grid Computing with Oracle Sun Gride Engine, Docker, GCP, GPU Computing
+Data and Scientific Computing: SQL, NumPy, Pandas, Matplotlib, Seaborn
+Neuroimaging Data and Tools: BIDS, FSL, FreeSurfer
+Medical Imaging: OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
+Explainable, Fair, and Trustworthy AI: SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM, iNNvestigate
 
 
 Selected Publications
