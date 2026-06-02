@@ -52,7 +52,7 @@ English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Nativ
 * Award: AIMS / Mastercard Foundation Scholarship
 
 ### M.Sc. in Computer Science and Engineering
-<a href="https://www.cse.du.ac.bd/" target="_blank">University of Dhaka</a>, Bangladesh 
+<a href="https://du.ac.bd/body/CSE" target="_blank">University of Dhaka</a>, Bangladesh 
 **(Jul 2018 -- Aug 2020)**
 
 * Thesis: Deep Learning for Brain Tumor Detection using MRI Data in collaboration with clinicians
