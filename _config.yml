@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yusuf Brima"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yusuf Brima"
 description              : &description "Postdoctoral Fellow in Biomedical AI Fraunhofer SCAI"
