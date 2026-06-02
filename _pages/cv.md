@@ -86,15 +86,26 @@ International Research Collaboration with Rhodes University and Global Academic 
 * Presented research at international conferences and doctoral consortia, including NeurIPS (2023), German Conference on Artificial Intelligence (KI) Doctoral Consortium (2023), and ICLR (2024).
 * Supervised and mentored Master’s students in machine learning and deep learning research projects.
 
----
+### Research and Teaching Assistant
+<a href="https://unimak.edu.sl/" target="_blank">University of Makeni</a>, University of Makeni, Makeni, Sierra Leone  
+**Feb 2017 – Jul 2018 (part-time)**
 
-### Teaching Experience
+* Taught four undergraduate Computer Science courses with approximately 40 students per course.
+* Designed and developed course materials, assignments, and examination assessments.
+* Mentored and supervised student thesis.
 
-**University of Makeni, Makeni, Sierra Leone (2017–2018)**  
-* Taught 4 undergraduate courses with ~40 students per course.
+### Lecturer
+<a href="https://www.limkokwing.net/sierra_leone/" target="_blank">Limkokwing University of Creative Technology</a>, Limkokwing University of Creative Technology, Freetown, Sierra Leone 
+**Jan 2018 -- Jul 2018 (part-time)**
 
-**Limkokwing University, Freetown, Sierra Leone (2018)**  
-* Taught Principles of Programming Logic and Design to **120+ students per semester**.
+* Taught Principles of Programming Logic and Design to more than 120 undergraduate students per semester.
+* Delivered lectures, prepared teaching materials, and supported student assessment and academic evaluation.
+* Facilitated practical programming exercises and supported students in foundational software development concepts.
+
+
+Registrar
+
+African Accents International Institute of Computer Technology
 
 
 ## Selected Publications
