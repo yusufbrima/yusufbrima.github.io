@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yusuf Brima"
-description              : &description "Postdoctoral Fellow in Biomedical AI Fraunhofer SCAI"
+description              : &description "Biomedical AI Researcher"
 url                      : https://yusufbrima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yusufbrima/yusufbrima.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yusuf Brima, Ph.D."
-  avatar           : "africa.jpg"
+  avatar           : "webprofile.png"
   bio              : "Biomedical AI Researcher"
   location         : "Osnabrück, Germany"
   employer         :
