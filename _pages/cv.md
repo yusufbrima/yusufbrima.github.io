@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research Profile
 
-I am a Biomedical AI Early-Career Researcher with experience in medical image analysis, multimodal clinical AI, explainable AI, and robust representation learning especially under limited and noisy label settings. My work focuses on building clinically meaningful machine learning systems for imaging and structured health data, with attention to generalization, interpretability, and clinical translation.
+I am a Biomedical AI Researcher with experience in medical image analysis, multimodal clinical AI, explainable AI, and robust representation learning especially under limited and noisy label settings. My work focuses on building clinically meaningful machine learning systems for imaging and structured health data, with attention to generalization, interpretability, and clinical translation.
 
 
 
