@@ -121,7 +121,7 @@ African Accents International Institute of Computer Technology
 
 
 ## Competitive Scholarships and Awards
-
+* Google Cloud Academic Research Grant (2026)
 * CIFAR Deep Learning and Reinforcement Learning (DLRL) Summer School Inclusive AI Scholarship, Canada, 2024
 * Deep Learning Indaba Scholarship, 2023
 * Cambridge Ellis Machine Learning Summer School Fully-funded Scholarship, 2022
