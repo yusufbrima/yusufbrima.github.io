@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research Profile
 
-I am a Biomedical AI Researcher with experience in medical image analysis, multimodal clinical AI, explainable AI, and robust representation learning especially under limited and noisy label settings. My work focuses on building clinically meaningful machine learning systems for imaging and structured health data, with attention to generalization, interpretability, and clinical translation.
+Highly motivated AI/ML Researcher with over 6 years of experience in digital signal processing, machine learning, and deep learning with a strong track record ofimpactful research contributions in top-tier conferences and journals. Passionate about interdisciplinary research.
 
 
 
@@ -28,8 +28,8 @@ My research interests include: Medical Image Analysis; Multimodal Clinical AI; T
 - **Medical Imaging:** OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
 - **Explainable, Fair, and Trustworthy AI:** SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM, iNNvestigate
 
-## Soft Skills
-Organization and project management; Communication; Independent working and self-responsibility; Solution-oriented problem solving; Flexibility and adaptability; Teamwork and collaboration; Leadership and mentorship; Cross-cultural communication; Time management; Critical thinking and creativity; Resilience and perseverance; Ethical awareness and integrity; Continuous learning and growth mindset
+<!-- ## Soft Skills
+Organization and project management; Communication; Independent working and self-responsibility; Solution-oriented problem solving; Flexibility and adaptability; Teamwork and collaboration; Leadership and mentorship; Cross-cultural communication; Time management; Critical thinking and creativity; Resilience and perseverance; Ethical awareness and integrity; Continuous learning and growth mindset -->
 
 ## Languages
 English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Native); Kono (Native)
