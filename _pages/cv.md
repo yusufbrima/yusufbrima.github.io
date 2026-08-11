@@ -22,7 +22,7 @@ My research interests include: Medical Image Analysis; Multimodal Clinical AI; T
 ## Technical Skills
 - **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, transformers, multimodal learning
 - **Programming:** Python, R, C/C++
-- **Systems:** Linux, Windows, High Performance Computing with SLURM (HPC), Grid Computing with Oracle Sun Grid Engine, Docker, GCP, GPU Computing
+- **Systems:** Unix, Linux, Windows, High Performance Computing with SLURM (HPC), Grid Computing with Oracle Sun Grid Engine, Docker, GCP, GPU Computing
 - **Data and Scientific Computing:** SQL, NumPy, Pandas, Matplotlib, Seaborn
 - **Neuroimaging Data and Tools:** BIDS, FSL, FreeSurfer
 - **Medical Imaging:** OpenCV, SimpleITK, NiBabel, Pydicom, ANTsPy, scikit-image
