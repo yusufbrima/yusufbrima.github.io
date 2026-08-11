@@ -154,7 +154,7 @@ African Accents International Institute of Computer Technology
   Focus: advanced deep learning lectures and hands-on sessions.
 
 - Deep Learning Program (*Neuromatch Academy, online*, 2022) — (3-week intensive program)  
-  Focus: end-to-end deep learning from theory to implementation.
+  Focus: end-to-end deep learning from theory to implementation. <a href="https://portal.neuromatchacademy.org/certificate/cad1cc47-7b00-4a8f-8420-18494cff6ed4" target="_blank">Certificate Link</a>
 
 - Machine Learning Summer School (*Bandung, Indonesia*, 2020) — (2-week intensive)  
   Focus: CNNs, VAEs, NLP, TensorFlow, transfer learning.
