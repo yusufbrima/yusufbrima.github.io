@@ -67,16 +67,20 @@ English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Nativ
 
 ## Professional Experience
 
-### Co-Founder & Biomedical AI Researcher
+### Biomedical AI Researcher
 International Research Collaboration with Rhodes University and Global Academic Partners  
-**Dec 2024 – Present**
+**Jan 2025 – Present**
 
-* Conduct research in multimodal representation learning for clinical data, focusing on early diagnosis, and prognosis with emphasis on robustness, explainability, fairness, and generalization.
+* Conduct research in multimodal representation learning for biomedical data, focusing on early disease diagnosis and prognosis, with emphasis on robustness, explainability, fairness, and generalization. 
+* Co-supervise students on projects in medical imaging and clinical AI, including transformer-based 3D medical image analysis and explainable/fair AI for low-resource healthcare settings. 
+* Participate in conferences, workshops, and seminars; publish research output in top-tier conferences and journals including MICCAI, npj Digital Medical, IEEE, etc.
+
+<!-- * Conduct research in multimodal representation learning for clinical data, focusing on early diagnosis, and prognosis with emphasis on robustness, explainability, fairness, and generalization.
 * Contribute to collaborative research projects in biomedical AI using multi-institutional healthcare datasets spanning Africa, Asia, South America and Europe.
-* Co-supervise 3 students (2 PhDs and 1 BSc) on projects in medical imaging and clinical AI, including transformer-based 3D medical image analysis and explainable/fair AI for low-resource healthcare settings.
-* Contribute to scientific writing and dissemination of research outputs, including peer-reviewed manuscripts and preprints in biomedical AI.
-* Co-created and lead an interdisciplinary research consortium comprising 33 members across 21 institutions focused on AI applications in neglected tropical diseases (NTDs).
-* Coordinate research work packages, project milestones, and collaborative activities across the aforementioned consortium members.
+* Co-supervise 3 students (2 PhDs and 1 BSc) on projects in medical imaging and clinical AI, including transformer-based 3D medical image analysis and explainable/fair AI for low-resource healthcare settings. -->
+<!-- * Contribute to scientific writing and dissemination of research outputs, including peer-reviewed manuscripts and preprints in biomedical AI. -->
+<!-- * Co-created and lead an interdisciplinary research consortium comprising 33 members across 21 institutions focused on AI applications in neglected tropical diseases (NTDs). -->
+<!-- * Coordinate research work packages, project milestones, and collaborative activities across the aforementioned consortium members. -->
 
 ---
 
