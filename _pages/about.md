@@ -20,6 +20,15 @@ MSc. student in the <a href="https://www.du.ac.bd/body/CSE" target="_blank">Comp
 BSc. in Computer Science from the <a href="http://www.unimak.edu.sl/" target="_blank">University of Makeni</a>.
 
 <hr />
+<figure id="DICOM_Viewer">
+  <img src="http://yusufbrima.github.io/images/gradcampp_grid_multimodal_cross_attn.jpg" style="width:45%;" alt="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction.">
+  <img src="http://yusufbrima.github.io/images/tabular_shap_per_class_cross_attn.png" style="width:45%;"  alt="SHAP feature importance visualization for a trained multimodal deep learning model for Alzheimer's prediction.">
+  <figcaption>Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction. Where the vision encoder attends to different regions of the input image and the tabular encoder attends to different features of the input table.</figcaption>
+</figure>
+
+
+
+<hr />
 <figure id="sankey_funding_disease_affiliations_compressed">
   <img src="http://yusufbrima.github.io/images/sankey_funding_disease_affiliations_compressed.png" style="width:95%;" alt="Sankey diagram of research funding sources, disease areas, and institutional affiliations for AI in Neglected Tropical Diseases (NTDs).">
   <figcaption>Sankey diagram of research funding sources, disease areas, and institutional affiliations AI in Neglected Tropical Diseases (NTDs) between 2015 to 2025.</figcaption>
@@ -94,9 +103,10 @@ BSc. in Computer Science from the <a href="http://www.unimak.edu.sl/" target="_b
 </figure>
 
 # Recent News
+* **August 07, 2026**; I am excited to be serving at the program chair at  the <a href="https://paaiss.com/" target="_blank">Pan-African Artificial Intelligence and Smart Systems Conference ( PA-AISS 2026)</a> taking place atUniversity of Technology, Kingston, Jamaica October 13-16, 2026.
 * **July 21, 2026**; My research project was awarded a  <a href="https://edu.google.com/programs/credits/research/" target="_blank">Google Cloud Research Grant</a> to fully fund our high-performance academic computing, storage, and data analytics infrastructure for the next year.
 * **May 26, 2026**; Our Tabular Foundation Model manuscript titled "Few-shot Learning with Cross-country Generalization of Tabular Machine Learning and Foundation Models for Child-
-hood Anemia Prediction under Distribution Shift" submitted to _Nature Machine Intelligence_.
+hood Anemia Prediction under Distribution Shift" submitted to _BioData Mining_.
 * **April 20, 2026**; Our LLM-Guided XAI for Medical Imagge Diagnostics manuscript titled "Bridging Visual Saliency and Large Language Models for Self-explainable Deep Learning in Medical Imaging" submitted to _BioData Mining_.
 * **May 19, 2026**; Our systematic review title "Transformers for 3D Medical Image Analysis: A Systematic Review of Architectural Innovations, Performance, and Clinical Applications," got accepted at _Artificial Intelligence Review_.  
 * **April 16, 2026**; Our AI in NTD Consortium manuscript titled "Artificial Intelligence in Neglected Tropical Diseases: Current Applications, Challenges, and Opportunities" submitted to _npj Digital Medicine_.
