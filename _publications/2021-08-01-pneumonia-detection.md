@@ -1,6 +1,7 @@
 ---
 title: "Transfer Learning for the Detection and Diagnosis of Types of Pneumonia including Pneumonia Induced by COVID-19 from Chest X-ray Images"
 collection: publications
+category: journal  # Or "conference", "preprint"
 permalink: /publication/2021-08-01-pneumonia-detection
 date: 2021-08-01
 excerpt: 'This study explores the use of transfer learning for detecting and diagnosing different types of pneumonia, including COVID-19-induced pneumonia, from chest X-ray images. The work evaluates the performance of various deep learning models in assisting medical professionals with automated diagnostics.'

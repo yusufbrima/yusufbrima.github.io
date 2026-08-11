@@ -1,6 +1,7 @@
 ---
 title: "Bridging the Gap: Exploring Interpretability in Deep Learning Models for Brain Tumor Detection and Diagnosis from MRI Images"
 collection: publications
+category: journal  # Or "conference", "preprint" "journal"
 permalink: /publication/2024-01-01-interpretability-brain-tumor
 date: 2024-01-01
 excerpt: 'This paper investigates the interpretability of deep learning models in detecting and diagnosing brain tumors from MRI images. It evaluates various explainability techniques and their effectiveness in clinical applications.'

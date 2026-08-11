@@ -1,6 +1,7 @@
 ---
 title: "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction"
 collection: publications
+category: journal  # Or "conference", "preprint" "journal"
 permalink: /publication/2024-01-01-ssl-speech
 date: 2024-01-01
 excerpt: 'This paper explores self-supervised learning for speech representation, leveraging redundancy reduction techniques to learn robust representations. It adapts the Barlow Twins framework to speech processing and evaluates its effectiveness in various downstream tasks.'

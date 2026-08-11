@@ -1,6 +1,7 @@
 ---
 title: "Learning Disentangled Speech Representations"
 collection: publications
+category: conference  # Or "conference", "preprint" "journal"
 permalink: /publication/2023-11-01-disentangled-speech
 date: 2023-11-01
 excerpt: 'This study investigates methods for learning disentangled representations of speech signals, focusing on separating different speech-related factors such as speaker identity, linguistic content, and emotional state. The work applies novel deep learning approaches to improve representation learning in speech processing.'

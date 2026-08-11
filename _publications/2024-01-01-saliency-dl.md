@@ -1,6 +1,7 @@
 ---
 title: "Saliency-driven Explainable Deep Learning in Medical Imaging: Bridging Visual Explainability and Statistical Quantitative Analysis"
 collection: publications
+category: journal  # Or "conference", "preprint" "journal"
 permalink: /publication/2024-01-01-saliency-dl
 date: 2024-01-01
 excerpt: 'This work explores explainable deep learning techniques in medical imaging, bridging visual explainability with statistical quantitative analysis. It proposes a novel approach that enhances the interpretability of AI models applied to medical diagnostics.'

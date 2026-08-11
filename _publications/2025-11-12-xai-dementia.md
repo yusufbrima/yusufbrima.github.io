@@ -1,6 +1,7 @@
 ---
 title: "An unsupervised XAI framework for dementia detection with context enrichment"
 collection: publications
+category: journal  # Or "conference", "preprint" "journal"
 permalink: /publication/2025-11-12-dementia
 date: 2025-11-12
 excerpt: 'This work introduces a framework that evaluates XAI methods by integrating neuroanatomical morphological features with CNN-generated relevance maps for disease classification. We trained a CNN using brain MRI scans from six cohorts: ADNI, AIBL, DELCODE, DESCRIBE, EDSD, and NIFD (N = 3253), including participants that were cognitively normal, with amnestic mild cognitive impairment, dementia due to Alzheimer’s disease and frontotemporal dementia'

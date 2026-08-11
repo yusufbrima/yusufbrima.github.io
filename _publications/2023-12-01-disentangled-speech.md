@@ -1,6 +1,7 @@
 ---
 title: "Learning Disentangled Audio Representations through Controlled Synthesis"
 collection: publications
+category: conference  # Or "conference", "preprint" "journal"
 permalink: /publication/2023-12-01-disentangled-speech
 date: 2023-12-01
 excerpt: 'This paper introduces a novel approach to learning disentangled speech representations through controlled synthesis, enabling better interpretability and generalization in speech processing tasks.'

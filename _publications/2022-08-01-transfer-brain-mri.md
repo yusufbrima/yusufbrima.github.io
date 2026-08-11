@@ -1,6 +1,7 @@
 ---
 title: "Deep Transfer Learning for Brain Magnetic Resonance Image Multi-class Classification"
 collection: publications
+category: journal  # Or "conference", "preprint"
 permalink: /publication/2022-08-01-transfer-brain-mri
 date: 2022-08-01
 excerpt: 'This paper presents a deep transfer learning approach for multi-class classification of brain MRI images, evaluating its effectiveness in differentiating various neurological conditions.'
