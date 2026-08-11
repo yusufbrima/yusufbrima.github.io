@@ -112,9 +112,9 @@ Research Collaboration with Rhodes University and Global Academic Partners
 * Facilitated practical programming exercises and supported students in foundational software development concepts.
 
 
-Registrar
+<!-- Registrar -->
 
-African Accents International Institute of Computer Technology
+<!-- African Accents International Institute of Computer Technology -->
 
 
 ## Selected Publications
