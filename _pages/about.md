@@ -20,9 +20,9 @@ MSc. student in the <a href="https://www.du.ac.bd/body/CSE" target="_blank">Comp
 BSc. in Computer Science from the <a href="http://www.unimak.edu.sl/" target="_blank">University of Makeni</a>.
 
 <hr />
-<figure id="DICOM_Viewer">
-  <img src="http://yusufbrima.github.io/images/gradcampp_grid_multimodal_cross_attn.jpg" style="width:45%;" alt="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction.">
-  <img src="http://yusufbrima.github.io/images/tabular_shap_per_class_cross_attn.png" style="width:45%;"  alt="SHAP feature importance visualization for a trained multimodal deep learning model for Alzheimer's prediction.">
+<figure id="MXAI_AD">
+  <img src="http://yusufbrima.github.io/images/gradcampp_grid_multimodal_cross_attn.jpg" style="width:95%;" alt="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction.">
+  <img src="http://yusufbrima.github.io/images/tabular_shap_per_class_cross_attn.png" style="width:95%;"  alt="SHAP feature importance visualization for a trained multimodal deep learning model for Alzheimer's prediction.">
   <figcaption>Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction. Where the vision encoder attends to different regions of the input image and the tabular encoder attends to different features of the input table.</figcaption>
 </figure>
 
