@@ -67,7 +67,7 @@ English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Nativ
 
 ## Professional Experience
 
-### Biomedical AI Researcher
+### Biomedical AI Researcher Fellow
 International Research Collaboration with Rhodes University and Global Academic Partners  
 **Jan 2025 – Present**
 
