@@ -68,7 +68,7 @@ English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Nativ
 ## Professional Experience
 
 ### Biomedical AI Researcher Fellow
-International Research Collaboration with Rhodes University and Global Academic Partners  
+Research Collaboration with Rhodes University and Global Academic Partners  
 **Jan 2025 – Present**
 
 * Conduct research in multimodal representation learning for biomedical data, focusing on early disease diagnosis and prognosis, with emphasis on robustness, explainability, fairness, and generalization. 
