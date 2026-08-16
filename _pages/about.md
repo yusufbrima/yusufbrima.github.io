@@ -21,11 +21,15 @@ BSc. in Computer Science from the <a href="http://www.unimak.edu.sl/" target="_b
 
 <hr />
 <figure id="MXAI_AD">
+  <img src="http://yusufbrima.github.io/images/group_007_gradcampp.gif" style="width:95%;" alt="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on ADNI subjects.">
+  <figcaption>Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on ADNI subjects. </figcaption>
+</figure>
+<!-- <figure id="MXAI_AD">
   <img src="http://yusufbrima.github.io/images/gradcampp_grid_multimodal_cross_attn.jpg" style="width:95%;" alt="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on ADNI subjects.">
   <img src="http://yusufbrima.github.io/images/gradcampp_grid_multimodal_cross_attn_oasis3.jpg" style="width:95%;" alt="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on OASIS-3 subjects.">
   <!-- <img src="http://yusufbrima.github.io/images/tabular_shap_per_class_cross_attn.png" style="width:45%;"  alt="SHAP feature importance visualization for a trained multimodal deep learning model for Alzheimer's prediction."> -->
   <figcaption>Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on ADNI (top) and OASIS-3 (bottom) subjects. </figcaption>
-</figure>
+</figure> -->
 
 
 
