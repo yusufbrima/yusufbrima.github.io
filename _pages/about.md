@@ -100,6 +100,7 @@ BSc. in Computer Science from the <a href="http://www.unimak.edu.sl/" target="_b
 </figure>
 
 # Recent News
+* **September 02, 2026**; Our manuscript titled "From Visual Saliency to Anatomical Explanation: Generating Textual Diagnostic Reports from Brain MRIs with Saliency-Grounded LLMs" got accepted for publication in [Springer Nature BioData Mining](https://doi.org/10.48550/arXiv.2605.06197).
 * **August 07, 2026**; I am excited to be serving at the program chair at  the <a href="https://paaiss.com/" target="_blank">Pan-African Artificial Intelligence and Smart Systems Conference ( PA-AISS 2026)</a> taking place atUniversity of Technology, Kingston, Jamaica October 13-16, 2026.
 * **July 21, 2026**; My research project was awarded a  <a href="https://edu.google.com/programs/credits/research/" target="_blank">Google Cloud Research Grant</a> to fully fund our high-performance academic computing, storage, and data analytics infrastructure for the next year.
 * **May 26, 2026**; Our Tabular Foundation Model manuscript titled "Few-shot Learning with Cross-country Generalization of Tabular Machine Learning and Foundation Models for Childhood Anemia Prediction under Distribution Shift" submitted to _BioData Mining_.
