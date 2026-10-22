@@ -100,6 +100,7 @@ BSc. in Computer Science from the <a href="http://www.unimak.edu.sl/" target="_b
 </figure>
 
 # Recent News
+* **October 07, 2026**; Received the <a href="https://lambda.ai/research" target="_blank">Lambda AI Research Grant</a> for supporting large-scale multimodal biomedical AI research for infectious diseases.
 * **September 14, 2026**; Our manuscript titled "A Multimodal Explainable Deep Learning Framework for Alzheimer's Disease Diagnosis using 3D Magnetic Resonance Imaging and Clinical Data" got accepted for publication in [Springer Nature Cognitive Computation](https://doi.org/10.48550/arXiv.2609.12410).
 * **September 02, 2026**; Our manuscript titled "From Visual Saliency to Anatomical Explanation: Generating Textual Diagnostic Reports from Brain MRIs with Saliency-Grounded LLMs" got accepted for publication in [Springer Nature BioData Mining](https://doi.org/10.48550/arXiv.2605.06197).
 * **August 07, 2026**; I am excited to be serving at the program chair at  the <a href="https://paaiss.com/" target="_blank">Pan-African Artificial Intelligence and Smart Systems Conference ( PA-AISS 2026)</a> taking place atUniversity of Technology, Kingston, Jamaica October 13-16, 2026.
