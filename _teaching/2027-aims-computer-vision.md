@@ -2,9 +2,9 @@
 title: "Introduction to Computer Vision"
 collection: teaching
 type: "Graduate course, Structured Master's in Data Science"
-permalink: /teaching/2026-aims-computer-vision
+permalink: /teaching/2027-aims-computer-vision
 venue: "African Institute for Mathematical Sciences (AIMS) Cameroon"
-date: 2026-11-02
+date: 2027-01-04
 location: "Limbe, Cameroon"
 ---
 
@@ -12,7 +12,7 @@ Course Overview
 ==================
 A three-week course on how computers interpret images, from the physics of image formation and classical image processing to the deep networks used today for classification, detection and segmentation, and on to generative models, vision&ndash;language models and responsible deployment. The course is built around intuition and real examples: results in the lectures come from code run for the course on real photographs and public datasets.
 
-**[Course website: slides, notebooks, assignments and project brief](/teaching/aims-computer-vision-2026/)**
+**[Course website: slides, notebooks, assignments and project brief](/teaching/aims-computer-vision-2027/)**
 
 ### Course Structure
 Fifteen two-hour lectures, one per weekday, with tutorials and labs run separately by the tutors.

@@ -25,9 +25,13 @@ h1,h2,h3,h4{margin:0;font-weight:600;letter-spacing:-.015em}
 .nav{position:fixed;inset:0 0 auto;z-index:10;transition:background .2s,border-color .2s;border-bottom:1px solid transparent}
 .nav.solid{background:rgba(11,15,23,.92);backdrop-filter:blur(8px);border-color:var(--line)}
 .nav .wrap{display:flex;align-items:center;height:60px;gap:24px}
-.brand{color:var(--text);font-weight:600;white-space:nowrap}
-.brand:hover{text-decoration:none}
-.nav ul{display:flex;gap:22px;list-style:none;margin:0 0 0 auto;padding:0;overflow-x:auto;scrollbar-width:none}
+.crumbs{display:flex;align-items:center;gap:8px;flex:none;font-size:.93rem;white-space:nowrap}
+.crumbs a{color:var(--muted)}
+.crumbs a:hover{color:var(--text);text-decoration:none}
+.crumbs span{color:var(--faint)}
+.crumbs .here{color:var(--text);font-weight:600;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:640px){.crumbs .last{display:none}}
+.nav ul{display:flex;gap:22px;list-style:none;margin:0 0 0 auto;padding:0;min-width:0;overflow-x:auto;scrollbar-width:none}
 .nav ul::-webkit-scrollbar{display:none}
 .nav ul a{color:var(--muted);font-size:.93rem;white-space:nowrap}
 .nav ul a:hover{color:var(--text);text-decoration:none}
@@ -119,7 +123,7 @@ footer ul{margin:8px 0 0;padding-left:18px}
 </head>
 <body>
 <nav class="nav" id="nav"><div class="wrap">
-  <a class="brand" href="#top">Introduction to Computer Vision</a>
+  <div class="crumbs"><a href="https://yusufbrima.github.io/">Yusuf Brima</a><span>/</span><a href="https://yusufbrima.github.io/teaching/">Teaching</a><span class="last">/</span><a class="here last" href="#top">Introduction to Computer Vision</a></div>
   <ul><li><a href="#overview">Overview</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#assessment">Assessment</a></li><li><a href="#faq">FAQ</a></li><li><a href="#contact">Contact</a></li></ul>
 </div></nav>
 
@@ -174,7 +178,7 @@ footer ul{margin:8px 0 0;padding-left:18px}
             <p class="lec-meta">Lecture 1 &middot; Week 1, Day 1</p>
             <h3><a href="materials/week1/Day1_Motivation_and_Human_Vision.pdf">Motivation and human vision</a></h3>
             <p>Course logistics and how to get help; what computer vision is and how it relates to image processing, graphics, AI and psychology; why seeing is hard; tasks and applications; history to today&#x27;s foundation models; the human visual system.</p>
-            <ul class="links"><li><a href="materials/week1/Day1_Motivation_and_Human_Vision.pdf">Slides</a> <span class="meta">PDF, 14.2 MB</span></li><li><a href="materials/week1/notebooks/W1D1_Images_as_Arrays.ipynb">Notebook</a> <span class="meta">Jupyter, 13 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2026/materials/week1/notebooks/W1D1_Images_as_Arrays.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+            <ul class="links"><li><a href="materials/week1/Day1_Motivation_and_Human_Vision.pdf">Slides</a> <span class="meta">PDF, 14.2 MB</span></li><li><a href="materials/week1/notebooks/W1D1_Images_as_Arrays.ipynb">Notebook</a> <span class="meta">Jupyter, 13 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D1_Images_as_Arrays.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
           </div>
         </article>
         <article class="lec">
@@ -183,7 +187,7 @@ footer ul{margin:8px 0 0;padding-left:18px}
             <p class="lec-meta">Lecture 2 &middot; Week 1, Day 2</p>
             <h3><a href="materials/week1/Day2_Visual_Data_Representation.pdf">Visual data representation</a></h3>
             <p>Light and cameras, sensors and demosaicing; sampling, aliasing and resizing; quantisation, gamma and file formats; colour spaces from RGB to Lab and NDVI; images in code.</p>
-            <ul class="links"><li><a href="materials/week1/Day2_Visual_Data_Representation.pdf">Slides</a> <span class="meta">PDF, 9.4 MB</span></li><li><a href="materials/week1/notebooks/W1D2_Representation_and_Colour.ipynb">Notebook</a> <span class="meta">Jupyter, 12 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2026/materials/week1/notebooks/W1D2_Representation_and_Colour.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+            <ul class="links"><li><a href="materials/week1/Day2_Visual_Data_Representation.pdf">Slides</a> <span class="meta">PDF, 9.4 MB</span></li><li><a href="materials/week1/notebooks/W1D2_Representation_and_Colour.ipynb">Notebook</a> <span class="meta">Jupyter, 12 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D2_Representation_and_Colour.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
           </div>
         </article>
         <article class="lec">
@@ -192,7 +196,7 @@ footer ul{margin:8px 0 0;padding-left:18px}
             <p class="lec-meta">Lecture 3 &middot; Week 1, Day 3</p>
             <h3><a href="materials/week1/Day3_Image_Processing_Fundamentals.pdf">Image processing fundamentals</a></h3>
             <p>Noise and PSNR; convolution, padding and stride; Gaussian, median and bilateral filters; the Fourier view; histograms, equalisation and CLAHE; thresholding and morphology.</p>
-            <ul class="links"><li><a href="materials/week1/Day3_Image_Processing_Fundamentals.pdf">Slides</a> <span class="meta">PDF, 8.5 MB</span></li><li><a href="materials/week1/notebooks/W1D3_Filtering_and_Histograms.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2026/materials/week1/notebooks/W1D3_Filtering_and_Histograms.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+            <ul class="links"><li><a href="materials/week1/Day3_Image_Processing_Fundamentals.pdf">Slides</a> <span class="meta">PDF, 8.5 MB</span></li><li><a href="materials/week1/notebooks/W1D3_Filtering_and_Histograms.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D3_Filtering_and_Histograms.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
           </div>
         </article>
         <article class="lec">
@@ -201,7 +205,7 @@ footer ul{margin:8px 0 0;padding-left:18px}
             <p class="lec-meta">Lecture 4 &middot; Week 1, Day 4</p>
             <h3><a href="materials/week1/Day4_Classical_Feature_Extraction.pdf">Classical feature extraction</a></h3>
             <p>Gradients and edges, Canny and Hough; Harris corners; scale space, SIFT, RANSAC panoramas and ORB; HOG.</p>
-            <ul class="links"><li><a href="materials/week1/Day4_Classical_Feature_Extraction.pdf">Slides</a> <span class="meta">PDF, 7.0 MB</span></li><li><a href="materials/week1/notebooks/W1D4_Edges_Corners_Descriptors.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2026/materials/week1/notebooks/W1D4_Edges_Corners_Descriptors.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+            <ul class="links"><li><a href="materials/week1/Day4_Classical_Feature_Extraction.pdf">Slides</a> <span class="meta">PDF, 7.0 MB</span></li><li><a href="materials/week1/notebooks/W1D4_Edges_Corners_Descriptors.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D4_Edges_Corners_Descriptors.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
           </div>
         </article>
         <article class="lec">
@@ -210,7 +214,7 @@ footer ul{margin:8px 0 0;padding-left:18px}
             <p class="lec-meta">Lecture 5 &middot; Week 1, Day 5</p>
             <h3><a href="materials/week1/Day5_From_Engineered_to_Learned_Features.pdf">From engineered to learned features</a></h3>
             <p>Classic detection pipelines (Viola–Jones, HOG + SVM, bag of visual words); learning a filter by gradient descent; from neurons to convolutional layers; what real CNN filters see.</p>
-            <ul class="links"><li><a href="materials/week1/Day5_From_Engineered_to_Learned_Features.pdf">Slides</a> <span class="meta">PDF, 3.2 MB</span></li><li><a href="materials/week1/notebooks/W1D5_Engineered_vs_Learned.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2026/materials/week1/notebooks/W1D5_Engineered_vs_Learned.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+            <ul class="links"><li><a href="materials/week1/Day5_From_Engineered_to_Learned_Features.pdf">Slides</a> <span class="meta">PDF, 3.2 MB</span></li><li><a href="materials/week1/notebooks/W1D5_Engineered_vs_Learned.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D5_Engineered_vs_Learned.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
           </div>
         </article>
       <div class="week-assess"><h4>Coursework</h4><ul class="links"><li><a href="materials/week1/Assignment1.pdf">Assignment 1</a> <span class="meta">PDF, 210 KB; due start of Week 2, Day 3</span></li><li class="off">Quiz 1 <span class="meta">posted after the quiz</span></li></ul></div>
@@ -345,6 +349,7 @@ footer ul{margin:8px 0 0;padding-left:18px}
 
 <footer><div class="wrap">
   <p>Introduction to Computer Vision &middot; AIMS Cameroon &middot; 2026–2027</p>
+  <p>Part of <a href="https://yusufbrima.github.io/">Yusuf Brima&rsquo;s website</a> &middot; <a href="https://yusufbrima.github.io/teaching/">All teaching</a></p>
   <details><summary>Image credits</summary><ul><li><a href="https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg">Shibuya Scramble Crossing, Tokyo</a>, Benh LIEU SONG, CC BY-SA 2.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Ministry_of_Tourism_Yaound%C3%A9_2014.JPG">yaounde taxis</a>, Bdx, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg">pcb</a>, Ashley Pomeroy, CC BY 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Late_blight_on_tomato_leaf_(7871756748).jpg">tomato blight</a>, Dwight Sipler from Stow, MA, USA, CC BY 2.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Douala-traffic-2014.jpg">douala 2014</a>, Guaka, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Embouteilles_dans_le_quartier_de_Deido_%C3%A0_Douala.jpg">douala deido</a>, Happiraphael, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Juvenile_Siberian_Husky.jpg">husky</a>, MrPanyGoff, CC BY-SA 3.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Moto_taxi_%C3%A0_Mbouda.jpg">moto mbouda</a>, Photokadaffi, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Lake_Chad_from_Apollo_7.jpg">lake chad apollo7</a>, NASA, Public domain</li><li><a href="https://commons.wikimedia.org/wiki/File:Micrograph-thin-blood-smear-with-parasites.jpg">malaria smear</a>, OpenFlexure Project, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Northern_corn_leaf_blight.JPG">maize blight</a>, Chroanch, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Road_in_Nairobi,_Kenya_with_large_pothole_Aug_10,_2025_04-27-36_PM.jpeg">pothole nairobi</a>, Brihaspati, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Chest_radiograph_of_miliary_tuberculosis_1.jpg">xray tb</a>, Benjamín Herreros, Isabel Plaza, Rebeca García, Marta Chichón, Carmen Guerrero a, CC BY 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Carrefour_Ndokoti_%C3%A0_Douala.jpg">douala ndokoti</a>, Minette Lontsie, CC BY-SA 4.0</li><li>Fashion-MNIST, Zalando Research (MIT licence); iBean, Makerere AI Lab (MIT licence). Full credits are on the last slide of each lecture.</li></ul></details>
 </div></footer>
 
