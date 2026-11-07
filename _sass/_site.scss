@@ -10,3 +10,15 @@
 video.lazy-video { display: block; max-width: 100%; border-radius: 0.375rem; }
 .talk-list li { line-height: 1.45; }
 .research-highlights { margin-top: 2.5rem; padding-top: 2rem; border-top: 1px solid var(--global-divider-color); }
+
+// Profile photo: smaller, with rounded corners.
+.profile img { border-radius: 14px; }
+.profile { max-width: 60%; float: none; margin: 0 auto 1rem; }
+@media (min-width: 576px) {
+  .profile { width: 22%; max-width: 220px; margin: 0 0 1rem 1.5rem; }
+  .profile.float-right { float: right; }
+}
+@media (max-width: 575.98px) {
+  .profile.float-right, .profile.float-left { float: none !important; margin: 0 auto 1rem; }
+  .profile .more-info { text-align: center; }
+}
