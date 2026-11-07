@@ -1,0 +1,445 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Introduction to Computer Vision &middot; AIMS Cameroon 2026–2027</title>
+<meta name="description" content="Lecture slides, notebooks, assignments and project briefs for Introduction to Computer Vision at AIMS Cameroon, 2026–2027.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230b0f17'/%3E%3Crect x='7' y='9' width='18' height='14' fill='none' stroke='%2363b3ed' stroke-width='2.5'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b0f17;--surface:#111723;--line:#222a38;--text:#e4e8ee;--muted:#98a2b3;--faint:#6b7585;--accent:#63b3ed}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline;text-underline-offset:3px}
+img{display:block;max-width:100%;height:auto}
+h1,h2,h3,h4{margin:0;font-weight:600;letter-spacing:-.015em}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+.meta{color:var(--faint);font-size:.85em}
+
+/* navigation */
+.nav{position:fixed;inset:0 0 auto;z-index:10;transition:background .2s,border-color .2s;border-bottom:1px solid transparent}
+.nav.solid{background:rgba(11,15,23,.92);backdrop-filter:blur(8px);border-color:var(--line)}
+.nav .wrap{display:flex;align-items:center;height:60px;gap:24px}
+.crumbs{display:flex;align-items:center;gap:8px;flex:none;font-size:.93rem;white-space:nowrap}
+.crumbs a{color:var(--muted)}
+.crumbs a:hover{color:var(--text);text-decoration:none}
+.crumbs span{color:var(--faint)}
+.crumbs .here{color:var(--text);font-weight:600;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:640px){.crumbs .last{display:none}}
+.nav ul{display:flex;gap:22px;list-style:none;margin:0 0 0 auto;padding:0;min-width:0;overflow-x:auto;scrollbar-width:none}
+.nav ul::-webkit-scrollbar{display:none}
+.nav ul a{color:var(--muted);font-size:.93rem;white-space:nowrap}
+.nav ul a:hover{color:var(--text);text-decoration:none}
+
+/* hero */
+.hero{position:relative;min-height:min(88vh,860px);display:flex;align-items:flex-end;background:#05070c;overflow:hidden}
+#vision{position:absolute;inset:0;width:100%;height:100%}
+.hero::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(5,7,12,.92) 0%,rgba(5,7,12,.7) 40%,rgba(5,7,12,.05) 75%),linear-gradient(0deg,var(--bg) 0%,rgba(11,15,23,0) 28%)}
+.hero-inner{position:relative;z-index:1;width:100%;padding:140px 24px 48px}
+.hero-sub{color:var(--muted);margin:0 0 6px;font-size:.95rem}
+.hero h1{font-size:clamp(2.4rem,6vw,4.4rem);line-height:1.05;letter-spacing:-.03em;font-weight:700;max-width:11ch;margin-bottom:20px}
+.hero p.lede{color:#c3cad5;max-width:44ch;margin:0 0 28px;font-size:1.08rem}
+.actions{display:flex;gap:12px;flex-wrap:wrap}
+.button{display:inline-block;padding:10px 18px;border-radius:6px;font-weight:600;font-size:.95rem;border:1px solid #3a4558;color:var(--text)}
+.button:hover{text-decoration:none;border-color:var(--muted)}
+.button.primary{background:var(--text);border-color:var(--text);color:#0b0f17}
+.button.primary:hover{background:#fff}
+.hero-foot{display:flex;flex-direction:column;gap:12px;margin-top:56px}
+.stages{display:flex;gap:22px;list-style:none;margin:0;padding:0;font-size:.85rem;color:var(--faint)}
+.stages li{position:relative;padding-bottom:6px;transition:color .3s}
+.stages li.on{color:var(--text)}
+.stages li i{position:absolute;left:0;bottom:0;height:2px;width:0;background:var(--accent)}
+.hero-credit{font-size:.75rem;color:var(--faint);max-width:52ch;margin:0}
+.hero-credit a{color:var(--muted)}
+
+/* sections */
+section.block{padding:88px 0 0}
+section.block>h2{font-size:1.75rem;margin-bottom:24px}
+.note{border-left:3px solid var(--accent);padding:2px 0 2px 16px;color:#c3cad5;margin:56px 0 0}
+.overview{display:grid;grid-template-columns:1.25fr 1fr;gap:56px}
+.overview p{margin:0 0 16px;color:#c3cad5}
+dl{margin:0;display:grid;grid-template-columns:max-content 1fr;gap:12px 24px;font-size:.95rem}
+dt{color:var(--faint)}
+dd{margin:0}
+@media (max-width:800px){.overview{grid-template-columns:1fr;gap:32px}}
+
+/* schedule */
+.tabs{display:flex;gap:32px;border-bottom:1px solid var(--line);margin-bottom:8px;overflow-x:auto;scrollbar-width:none}
+.tab{background:none;border:0;border-bottom:2px solid transparent;margin-bottom:-1px;padding:0 0 14px;color:var(--muted);font:inherit;font-weight:600;cursor:pointer;text-align:left;white-space:nowrap}
+.tab span{display:block;font-weight:400;font-size:.85rem;color:var(--faint)}
+.tab:hover{color:var(--text)}
+.tab[aria-selected=true]{color:var(--text);border-bottom-color:var(--accent)}
+.js .week:not(.active){display:none}
+.js .week-title{display:none}
+.week-title{font-size:1.2rem;margin:40px 0 0}
+.lec{display:grid;grid-template-columns:240px 1fr;gap:28px;padding:28px 0;border-bottom:1px solid var(--line)}
+.lec-img{display:block;aspect-ratio:16/10;overflow:hidden;border-radius:4px;background:#000}
+.lec-img img{width:100%;height:100%;object-fit:cover}
+.lec-meta{margin:0 0 4px;font-size:.85rem;color:var(--faint)}
+.lec h3{font-size:1.2rem;margin-bottom:8px}
+.lec h3 a{color:var(--text)}
+.lec p{margin:0 0 12px;color:var(--muted);font-size:.95rem;max-width:68ch}
+.links{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:6px 24px;font-size:.93rem}
+.links a{font-weight:500}
+.links .off{color:var(--faint)}
+.week-assess{padding:24px 0 0}
+.week-assess h4{font-size:.95rem;margin-bottom:8px}
+@media (max-width:700px){.lec{grid-template-columns:1fr;gap:16px}}
+
+/* assessment table */
+table{width:100%;border-collapse:collapse;font-size:.95rem}
+th,td{text-align:left;vertical-align:top;padding:14px 16px 14px 0;border-bottom:1px solid var(--line)}
+th{color:var(--faint);font-weight:500;font-size:.85rem}
+td:first-child{font-weight:600;white-space:nowrap}
+td{color:#c3cad5}
+.table-scroll{overflow-x:auto}
+
+/* faq */
+details{border-bottom:1px solid var(--line)}
+details:first-of-type{border-top:1px solid var(--line)}
+summary{cursor:pointer;list-style:none;padding:16px 32px 16px 0;font-weight:500;position:relative}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"";position:absolute;right:4px;top:23px;width:8px;height:8px;border-right:1.5px solid var(--muted);border-bottom:1.5px solid var(--muted);transform:rotate(45deg);transition:transform .2s}
+details[open] summary::after{transform:rotate(-135deg);top:27px}
+details p{margin:0 0 18px;color:var(--muted);max-width:70ch}
+
+.people{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(300px,100%),1fr));gap:32px}
+.people h3{font-size:1.05rem;margin-bottom:4px}
+.people p{margin:0;color:var(--muted);font-size:.95rem}
+
+footer{margin-top:104px;border-top:1px solid var(--line);padding:28px 0 40px;color:var(--faint);font-size:.85rem}
+footer p{margin:0 0 8px}
+footer summary{padding:0;font-weight:400;color:var(--muted);display:inline}
+footer summary::after{display:none}
+footer details,footer details:first-of-type{border:0}
+footer ul{margin:8px 0 0;padding-left:18px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<nav class="nav" id="nav"><div class="wrap">
+  <div class="crumbs"><a href="https://yusufbrima.github.io/">Yusuf Brima</a><span>/</span><a href="https://yusufbrima.github.io/teaching/">Teaching</a><span class="last">/</span><a class="here last" href="#top">Introduction to Computer Vision</a></div>
+  <ul><li><a href="#overview">Overview</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#assessment">Assessment</a></li><li><a href="#faq">FAQ</a></li><li><a href="#contact">Contact</a></li></ul>
+</div></nav>
+
+<header class="hero" id="top">
+  <canvas id="vision" aria-hidden="true"></canvas>
+  <div class="wrap hero-inner">
+    <p class="hero-sub">AIMS Cameroon &middot; Structured Master&#x27;s in Data Science &middot; 2026–2027</p>
+    <h1>Introduction to Computer Vision</h1>
+    <p class="lede">A three-week course on how computers interpret images, from pixels and filters to modern detection, segmentation and generative models.</p>
+    <div class="actions">
+      <a class="button primary" href="#schedule">Schedule and materials</a>
+      <a class="button" href="materials/course-outline.pdf">Course outline</a>
+    </div>
+    <div class="hero-foot">
+      <ol class="stages" id="stages"><li>Pixels<i></i></li><li>Edges<i></i></li><li>Objects<i></i></li><li>Regions<i></i></li></ol>
+      <p class="hero-credit">Canny edges, YOLOv12 detections and instance masks computed on a photograph of Shibuya Crossing, Tokyo. Photo: <a href="https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg">Benh LIEU SONG, CC BY-SA 2.0</a>.</p>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="note">Welcome to Introduction to Computer Vision. Lecture slides appear here before each lecture; notebooks are for the tutorials with the tutors.</p>
+
+  <section class="block" id="overview">
+    <h2>Overview</h2>
+    <div class="overview">
+      <div>
+        <p>The course follows one question from start to finish: how does a machine turn light into an understanding of a scene? We begin with human vision and the digital image, work through classical image processing and hand-designed features, and then cover the deep networks used today for classification, detection and segmentation.</p>
+        <p>The final week turns to generative models, vision&ndash;language models such as CLIP, applications across domains, and the questions of robustness and fairness that come with deployment. Results in the lectures come from code run for the course on real photographs and public datasets.</p>
+      </div>
+      <dl>
+        <dt>Format</dt><dd>15 lectures of two hours, one each weekday</dd>
+        <dt>Tutorials</dt><dd>With the tutors, outside lecture hours</dd>
+        <dt>Prerequisites</dt><dd>Python, linear algebra, calculus, basic probability</dd>
+        <dt>Computing</dt><dd>A laptop with 8&nbsp;GB of RAM; <a href="https://colab.research.google.com/">Colab</a> or <a href="https://www.kaggle.com/code">Kaggle</a> for GPU work</dd>
+        <dt>Textbook</dt><dd>R. Szeliski, <a href="https://szeliski.org/Book/"><em>Computer Vision: Algorithms and Applications</em></a>, 2nd ed.</dd>
+        <dt>Documents</dt><dd><a href="materials/course-outline.pdf">Course outline and setup</a> <span class="meta">PDF, 166 KB</span><br><a href="materials/course-notes.pdf">Course notes</a> <span class="meta">PDF, 542 KB</span></dd>
+      </dl>
+    </div>
+  </section>
+
+  <section class="block" id="schedule">
+    <h2>Schedule</h2>
+    <div class="tabs" role="tablist"><button class="tab" role="tab" data-week="1" aria-controls="week1">Week 1<span>Foundations</span></button><button class="tab" role="tab" data-week="2" aria-controls="week2">Week 2<span>The deep learning era</span></button><button class="tab" role="tab" data-week="3" aria-controls="week3">Week 3<span>Generative vision and the road ahead</span></button></div>
+    
+    <section class="week" id="week1" role="tabpanel" data-week="1">
+      <h3 class="week-title">Week 1: Foundations</h3>
+      
+        <article class="lec">
+          <a class="lec-img" href="materials/week1/Day1_Motivation_and_Human_Vision.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w1d1.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 1 &middot; Week 1, Day 1</p>
+            <h3><a href="materials/week1/Day1_Motivation_and_Human_Vision.pdf">Motivation and human vision</a></h3>
+            <p>Course logistics and how to get help; what computer vision is and how it relates to image processing, graphics, AI and psychology; why seeing is hard; tasks and applications; history to today&#x27;s foundation models; the human visual system.</p>
+            <ul class="links"><li><a href="materials/week1/Day1_Motivation_and_Human_Vision.pdf">Slides</a> <span class="meta">PDF, 14.2 MB</span></li><li><a href="materials/week1/notebooks/W1D1_Images_as_Arrays.ipynb">Notebook</a> <span class="meta">Jupyter, 13 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D1_Images_as_Arrays.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week1/Day2_Visual_Data_Representation.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w1d2.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 2 &middot; Week 1, Day 2</p>
+            <h3><a href="materials/week1/Day2_Visual_Data_Representation.pdf">Visual data representation</a></h3>
+            <p>Light and cameras, sensors and demosaicing; sampling, aliasing and resizing; quantisation, gamma and file formats; colour spaces from RGB to Lab and NDVI; images in code.</p>
+            <ul class="links"><li><a href="materials/week1/Day2_Visual_Data_Representation.pdf">Slides</a> <span class="meta">PDF, 9.4 MB</span></li><li><a href="materials/week1/notebooks/W1D2_Representation_and_Colour.ipynb">Notebook</a> <span class="meta">Jupyter, 12 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D2_Representation_and_Colour.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week1/Day3_Image_Processing_Fundamentals.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w1d3.jpg?v=1794004341" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 3 &middot; Week 1, Day 3</p>
+            <h3><a href="materials/week1/Day3_Image_Processing_Fundamentals.pdf">Image processing fundamentals</a></h3>
+            <p>Noise and PSNR; convolution, padding and stride; Gaussian, median and bilateral filters; the Fourier view; histograms, equalisation and CLAHE; thresholding and morphology.</p>
+            <ul class="links"><li><a href="materials/week1/Day3_Image_Processing_Fundamentals.pdf">Slides</a> <span class="meta">PDF, 8.5 MB</span></li><li><a href="materials/week1/notebooks/W1D3_Filtering_and_Histograms.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D3_Filtering_and_Histograms.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week1/Day4_Classical_Feature_Extraction.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w1d4.jpg?v=1794004342" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 4 &middot; Week 1, Day 4</p>
+            <h3><a href="materials/week1/Day4_Classical_Feature_Extraction.pdf">Classical feature extraction</a></h3>
+            <p>Gradients and edges, Canny and Hough; Harris corners; scale space, SIFT, RANSAC panoramas and ORB; HOG.</p>
+            <ul class="links"><li><a href="materials/week1/Day4_Classical_Feature_Extraction.pdf">Slides</a> <span class="meta">PDF, 7.0 MB</span></li><li><a href="materials/week1/notebooks/W1D4_Edges_Corners_Descriptors.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D4_Edges_Corners_Descriptors.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week1/Day5_From_Engineered_to_Learned_Features.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w1d5.jpg?v=1794004346" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 5 &middot; Week 1, Day 5</p>
+            <h3><a href="materials/week1/Day5_From_Engineered_to_Learned_Features.pdf">From engineered to learned features</a></h3>
+            <p>Classic detection pipelines (Viola–Jones, HOG + SVM, bag of visual words); learning a filter by gradient descent; from neurons to convolutional layers; what real CNN filters see.</p>
+            <ul class="links"><li><a href="materials/week1/Day5_From_Engineered_to_Learned_Features.pdf">Slides</a> <span class="meta">PDF, 3.2 MB</span></li><li><a href="materials/week1/notebooks/W1D5_Engineered_vs_Learned.ipynb">Notebook</a> <span class="meta">Jupyter, 11 KB</span></li><li><a href="https://colab.research.google.com/github/yusufbrima/yusufbrima.github.io/blob/master/teaching/aims-computer-vision-2027/materials/week1/notebooks/W1D5_Engineered_vs_Learned.ipynb">Open in Colab</a> <span class="meta"></span></li></ul>
+          </div>
+        </article>
+      <div class="week-assess"><h4>Coursework</h4><ul class="links"><li><a href="materials/week1/Assignment1.pdf">Assignment 1</a> <span class="meta">PDF, 210 KB; due start of Week 2, Day 3</span></li><li class="off">Quiz 1 <span class="meta">posted after the quiz</span></li></ul></div>
+    </section>
+    <section class="week" id="week2" role="tabpanel" data-week="2">
+      <h3 class="week-title">Week 2: The deep learning era</h3>
+      
+        <article class="lec">
+          <a class="lec-img" href="materials/week2/W2D1_CNN_Building_Blocks_and_Training.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w2d1.jpg?v=1794004346" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 6 &middot; Week 2, Day 1</p>
+            <h3><a href="materials/week2/W2D1_CNN_Building_Blocks_and_Training.pdf">CNN building blocks and training</a></h3>
+            <p>Convolutional layers, activations and pooling; softmax and cross-entropy; backpropagation; optimisers and learning rates; overfitting, regularisation and batch norm, all shown with networks trained for the course.</p>
+            <ul class="links"><li><a href="materials/week2/W2D1_CNN_Building_Blocks_and_Training.pdf">Slides</a> <span class="meta">PDF, 2.3 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week2/W2D2_Architectures_and_Transfer_Learning.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w2d2.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 7 &middot; Week 2, Day 2</p>
+            <h3><a href="materials/week2/W2D2_Architectures_and_Transfer_Learning.pdf">Architectures and transfer learning</a></h3>
+            <p>From LeNet and AlexNet to ResNet, MobileNet and ConvNeXt; receptive fields; Grad-CAM; transfer learning, with a bean-disease case study from Uganda.</p>
+            <ul class="links"><li><a href="materials/week2/W2D2_Architectures_and_Transfer_Learning.pdf">Slides</a> <span class="meta">PDF, 3.7 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week2/W2D3_Object_Detection.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w2d3.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 8 &middot; Week 2, Day 3</p>
+            <h3><a href="materials/week2/W2D3_Object_Detection.pdf">Object detection</a></h3>
+            <p>IoU and non-maximum suppression; the R-CNN family; YOLO and one-stage detectors; DETR; precision, recall and average precision; a real evaluation of three detectors on street pedestrians.</p>
+            <ul class="links"><li><a href="materials/week2/W2D3_Object_Detection.pdf">Slides</a> <span class="meta">PDF, 4.9 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week2/W2D4_Segmentation.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w2d4.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 9 &middot; Week 2, Day 4</p>
+            <h3><a href="materials/week2/W2D4_Segmentation.pdf">Segmentation</a></h3>
+            <p>Semantic, instance and panoptic segmentation; FCN, U-Net and DeepLab; Mask R-CNN; Segment Anything; metrics, losses and practical pipelines.</p>
+            <ul class="links"><li><a href="materials/week2/W2D4_Segmentation.pdf">Slides</a> <span class="meta">PDF, 3.3 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week2/W2D5_Transformers_Localisation_Captioning.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w2d5.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 10 &middot; Week 2, Day 5</p>
+            <h3><a href="materials/week2/W2D5_Transformers_Localisation_Captioning.pdf">Transformers, localisation and captioning</a></h3>
+            <p>Attention and the Vision Transformer; self-supervised features (MAE, DINO); open-vocabulary detection; image captioning and its failures; capstone project briefing.</p>
+            <ul class="links"><li><a href="materials/week2/W2D5_Transformers_Localisation_Captioning.pdf">Slides</a> <span class="meta">PDF, 2.9 MB</span></li></ul>
+          </div>
+        </article>
+      <div class="week-assess"><h4>Coursework</h4><ul class="links"><li><a href="materials/week2/Assignment2.pdf">Assignment 2</a> <span class="meta">PDF, 223 KB; due start of Week 3, Day 3</span></li><li class="off">Quiz 2 <span class="meta">posted after the quiz</span></li><li><a href="materials/week2/Capstone_Projects.pdf">Capstone project brief</a> <span class="meta">PDF, 217 KB</span></li></ul></div>
+    </section>
+    <section class="week" id="week3" role="tabpanel" data-week="3">
+      <h3 class="week-title">Week 3: Generative vision and the road ahead</h3>
+      
+        <article class="lec">
+          <a class="lec-img" href="materials/week3/W3D1_Autoencoders_and_VAEs.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w3d1.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 11 &middot; Week 3, Day 1</p>
+            <h3><a href="materials/week3/W3D1_Autoencoders_and_VAEs.pdf">Autoencoders and VAEs</a></h3>
+            <p>Generative modelling; autoencoders, denoising and anomaly detection; variational autoencoders, the KL term and the reparameterisation trick; a glimpse of GANs.</p>
+            <ul class="links"><li><a href="materials/week3/W3D1_Autoencoders_and_VAEs.pdf">Slides</a> <span class="meta">PDF, 1.6 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week3/W3D2_Diffusion_Models.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w3d2.jpg?v=1794004346" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 12 &middot; Week 3, Day 2</p>
+            <h3><a href="materials/week3/W3D2_Diffusion_Models.pdf">Diffusion models</a></h3>
+            <p>Adding and removing noise step by step; training and sampling; a diffusion model trained on a laptop; classifier-free guidance; Stable Diffusion, editing, uses and risks.</p>
+            <ul class="links"><li><a href="materials/week3/W3D2_Diffusion_Models.pdf">Slides</a> <span class="meta">PDF, 2.2 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week3/W3D3_Vision_Language_and_Applications.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w3d3.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 13 &middot; Week 3, Day 3</p>
+            <h3><a href="materials/week3/W3D3_Vision_Language_and_Applications.pdf">Vision–language models and applications</a></h3>
+            <p>CLIP and contrastive learning; zero-shot classification tested on real crop images; search and failure modes; multimodal assistants; applications in health, agriculture, earth observation, industry, robotics and conservation.</p>
+            <ul class="links"><li><a href="materials/week3/W3D3_Vision_Language_and_Applications.pdf">Slides</a> <span class="meta">PDF, 5.9 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week3/W3D4_Responsible_Vision_and_the_Road_Ahead.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w3d4.jpg?v=1794004339" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 14 &middot; Week 3, Day 4</p>
+            <h3><a href="materials/week3/W3D4_Responsible_Vision_and_the_Road_Ahead.pdf">Responsible vision and the road ahead</a></h3>
+            <p>Distribution shift and robustness; adversarial examples; calibration and uncertainty; fairness; privacy, surveillance and deepfakes; model cards and regulation; open problems.</p>
+            <ul class="links"><li><a href="materials/week3/W3D4_Responsible_Vision_and_the_Road_Ahead.pdf">Slides</a> <span class="meta">PDF, 1.4 MB</span></li></ul>
+          </div>
+        </article>
+        <article class="lec">
+          <a class="lec-img" href="materials/week3/W3D5_Capstone_Presentations.pdf" tabindex="-1" aria-hidden="true"><img src="assets/thumbs/w3d5.jpg?v=1794004346" alt="" loading="lazy" width="640" height="400"></a>
+          <div>
+            <p class="lec-meta">Lecture 15 &middot; Week 3, Day 5</p>
+            <h3><a href="materials/week3/W3D5_Capstone_Presentations.pdf">Capstone presentations</a></h3>
+            <p>Team presentations of the capstone projects, assessment criteria, and course wrap-up.</p>
+            <ul class="links"><li><a href="materials/week3/W3D5_Capstone_Presentations.pdf">Slides</a> <span class="meta">PDF, 180 KB</span></li></ul>
+          </div>
+        </article>
+      <div class="week-assess"><h4>Coursework</h4><ul class="links"><li class="off">Quiz 3 <span class="meta">posted after the quiz</span></li></ul></div>
+    </section>
+  </section>
+
+  <section class="block" id="assessment">
+    <h2>Assessment</h2>
+    <div class="table-scroll"><table>
+      <thead><tr><th>Component</th><th>Details</th><th>When</th></tr></thead>
+      <tbody>
+        <tr><td>Quizzes</td><td>One per week; 60 minutes, closed book; one handwritten A4 sheet and a non-programmable calculator allowed</td><td>Tutorial slot, each week</td></tr>
+        <tr><td>Assignments</td><td>Individual, typed in LaTeX; theory and practice</td><td>Due start of Week 2, Day 3 (Assignment 1) and start of Week 3, Day 3 (Assignment 2)</td></tr>
+        <tr><td>Capstone project</td><td>Teams of 2&ndash;3 apply the course to a real problem; topics in the project brief, or your own with a one-page synopsis</td><td>Topics released Week 2, Day 5; presentations on the last day of Week 3</td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <section class="block" id="faq">
+    <h2>Frequently asked questions</h2>
+    <details><summary>What do I need to know before the course?</summary><p>Python, basic linear algebra (vectors, matrices, dot products), calculus up to the chain rule, and basic probability. Week 1 builds everything about images from scratch.</p></details><details><summary>Do I need a GPU?</summary><p>No. Every lecture example was run on an ordinary laptop CPU. For heavier tutorial work, use a free Google Colab or Kaggle Notebooks account.</p></details><details><summary>Where do the labs happen?</summary><p>Lectures are two hours each day. Tutorials and labs run separately with the tutors; that is where you work through the notebooks and get help with code.</p></details><details><summary>How am I assessed?</summary><p>A one-hour quiz each week, individual LaTeX-typed assignments in Weeks 1 and 2, and a team capstone project presented on the last day of Week 3.</p></details><details><summary>How does the capstone work?</summary><p>Teams of 2–3 choose one of twelve topics (or propose their own with a one-page synopsis) at the end of Week 2, build and evaluate a system in Week 3, and present it on the final day. See the capstone brief in Week 2.</p></details><details><summary>Can I use AI tools?</summary><p>Yes, as a tutor to help you understand, not as a ghost-writer. If you cannot explain your submission without the tool, it is not yet your work.</p></details><details><summary>I&#x27;m stuck. Who do I ask?</summary><p>Stuck on a bug for 30 minutes: ask a tutor or a classmate. Stuck on a concept for a day: ask the instructor after class or by email.</p></details>
+  </section>
+
+  <section class="block" id="contact">
+    <h2>Contact</h2>
+    <div class="people">
+      <div><h3>Yusuf Brima, Ph.D.</h3><p>Lecturer &middot; <a href="mailto:ybrima@uos.de">ybrima@uos.de</a></p><p>Questions after class, by email, and in project consultations during Week 3.</p></div>
+      <div><h3>Tutors</h3><p>Run the tutorials and labs and help with code. Introduced in the first lecture.</p></div>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap">
+  <p>Introduction to Computer Vision &middot; AIMS Cameroon &middot; 2026–2027</p>
+  <p>Part of <a href="https://yusufbrima.github.io/">Yusuf Brima&rsquo;s website</a> &middot; <a href="https://yusufbrima.github.io/teaching/">All teaching</a></p>
+  <details><summary>Image credits</summary><ul><li><a href="https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg">Shibuya Scramble Crossing, Tokyo</a>, Benh LIEU SONG, CC BY-SA 2.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Ministry_of_Tourism_Yaound%C3%A9_2014.JPG">yaounde taxis</a>, Bdx, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg">pcb</a>, Ashley Pomeroy, CC BY 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Late_blight_on_tomato_leaf_(7871756748).jpg">tomato blight</a>, Dwight Sipler from Stow, MA, USA, CC BY 2.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Douala-traffic-2014.jpg">douala 2014</a>, Guaka, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Embouteilles_dans_le_quartier_de_Deido_%C3%A0_Douala.jpg">douala deido</a>, Happiraphael, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Juvenile_Siberian_Husky.jpg">husky</a>, MrPanyGoff, CC BY-SA 3.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Moto_taxi_%C3%A0_Mbouda.jpg">moto mbouda</a>, Photokadaffi, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Lake_Chad_from_Apollo_7.jpg">lake chad apollo7</a>, NASA, Public domain</li><li><a href="https://commons.wikimedia.org/wiki/File:Micrograph-thin-blood-smear-with-parasites.jpg">malaria smear</a>, OpenFlexure Project, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Northern_corn_leaf_blight.JPG">maize blight</a>, Chroanch, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Road_in_Nairobi,_Kenya_with_large_pothole_Aug_10,_2025_04-27-36_PM.jpeg">pothole nairobi</a>, Brihaspati, CC BY-SA 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Chest_radiograph_of_miliary_tuberculosis_1.jpg">xray tb</a>, Benjamín Herreros, Isabel Plaza, Rebeca García, Marta Chichón, Carmen Guerrero a, CC BY 4.0</li><li><a href="https://commons.wikimedia.org/wiki/File:Carrefour_Ndokoti_%C3%A0_Douala.jpg">douala ndokoti</a>, Minette Lontsie, CC BY-SA 4.0</li><li>Fashion-MNIST, Zalando Research (MIT licence); iBean, Makerere AI Lab (MIT licence). Full credits are on the last slide of each lecture.</li></ul></details>
+</div></footer>
+
+<script>
+document.documentElement.classList.add("js");
+(() => {
+  const nav = document.getElementById("nav");
+  const onScroll = () => nav.classList.toggle("solid", scrollY > 40);
+  addEventListener("scroll", onScroll, {passive: true}); onScroll();
+
+  // Week tabs. Without JavaScript every week is shown in order.
+  const tabs = [...document.querySelectorAll(".tab")], weeks = [...document.querySelectorAll(".week")];
+  const show = n => {
+    tabs.forEach(t => t.setAttribute("aria-selected", t.dataset.week === String(n)));
+    weeks.forEach(w => w.classList.toggle("active", w.dataset.week === String(n)));
+  };
+  tabs.forEach(t => t.addEventListener("click", () => { show(t.dataset.week); history.replaceState(null, "", "#week" + t.dataset.week); }));
+  const fromHash = () => { const m = location.hash.match(/^#week(\d)$/); if (m) { show(m[1]); document.getElementById("schedule").scrollIntoView(); } };
+  show(1); fromHash(); addEventListener("hashchange", fromHash);
+
+  // Hero: the same street seen as pixels, edges, detections and instance masks.
+  const cv = document.getElementById("vision"), ctx = cv.getContext("2d");
+  const BOXES = [{"x": 0.0001, "y": 0.817, "w": 0.0576, "h": 0.1787, "label": "person", "conf": 0.49}, {"x": 0.0975, "y": 0.7795, "w": 0.0688, "h": 0.1393, "label": "person", "conf": 0.42}, {"x": 0.0985, "y": 0.271, "w": 0.0388, "h": 0.0474, "label": "traffic light", "conf": 0.41}, {"x": 0.1755, "y": 0.7844, "w": 0.0909, "h": 0.0453, "label": "car", "conf": 0.52}, {"x": 0.219, "y": 0.7943, "w": 0.0349, "h": 0.177, "label": "person", "conf": 0.32}, {"x": 0.2382, "y": 0.7752, "w": 0.0481, "h": 0.2174, "label": "person", "conf": 0.85}, {"x": 0.2801, "y": 0.7741, "w": 0.0553, "h": 0.2245, "label": "person", "conf": 0.87}, {"x": 0.3459, "y": 0.7791, "w": 0.0361, "h": 0.1717, "label": "person", "conf": 0.82}, {"x": 0.38, "y": 0.7989, "w": 0.0479, "h": 0.1992, "label": "person", "conf": 0.61}, {"x": 0.4256, "y": 0.7976, "w": 0.0339, "h": 0.2024, "label": "person", "conf": 0.59}, {"x": 0.4465, "y": 0.7779, "w": 0.0513, "h": 0.2221, "label": "person", "conf": 0.75}, {"x": 0.5135, "y": 0.7812, "w": 0.0226, "h": 0.174, "label": "person", "conf": 0.64}, {"x": 0.5339, "y": 0.7748, "w": 0.0149, "h": 0.0708, "label": "person", "conf": 0.36}, {"x": 0.5379, "y": 0.7757, "w": 0.011, "h": 0.072, "label": "person", "conf": 0.41}, {"x": 0.5549, "y": 0.7713, "w": 0.0135, "h": 0.0669, "label": "person", "conf": 0.69}, {"x": 0.5557, "y": 0.7934, "w": 0.0475, "h": 0.2055, "label": "person", "conf": 0.74}, {"x": 0.6235, "y": 0.7755, "w": 0.0326, "h": 0.1832, "label": "person", "conf": 0.37}, {"x": 0.6368, "y": 0.8038, "w": 0.0499, "h": 0.1962, "label": "person", "conf": 0.68}, {"x": 0.6943, "y": 0.7795, "w": 0.0629, "h": 0.2205, "label": "person", "conf": 0.9}, {"x": 0.7231, "y": 0.815, "w": 0.034, "h": 0.1193, "label": "handbag", "conf": 0.39}, {"x": 0.744, "y": 0.8789, "w": 0.0137, "h": 0.055, "label": "handbag", "conf": 0.31}, {"x": 0.7736, "y": 0.804, "w": 0.0602, "h": 0.196, "label": "person", "conf": 0.8}, {"x": 0.8093, "y": 0.7881, "w": 0.0322, "h": 0.0964, "label": "person", "conf": 0.36}, {"x": 0.8446, "y": 0.7394, "w": 0.0785, "h": 0.0742, "label": "bus", "conf": 0.49}, {"x": 0.8943, "y": 0.7897, "w": 0.0328, "h": 0.14, "label": "person", "conf": 0.63}];
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const srcs = {photo: "assets/hero_photo.jpg?v=1794004253", pixels: "assets/hero_pixels.jpg?v=1794004253", edges: "assets/hero_edges.jpg?v=1794004253", regions: "assets/hero_regions.jpg?v=1794004253"};
+  const ORDER = ["pixels", "edges", "objects", "regions"], SWEEP = 1600, HOLD = 2800;
+  const stages = [...document.querySelectorAll("#stages li")];
+  const img = {};
+  let W = 0, H = 0, cur = 0, phaseStart = 0, sweeping = true;
+
+  function resize() {
+    const dpr = Math.min(devicePixelRatio || 1, 2);
+    W = cv.clientWidth; H = cv.clientHeight; cv.width = W * dpr; cv.height = H * dpr; ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+  function geom() {   // object-fit: cover, weighted to the right where the text is not
+    const s = Math.max(W / 1600, H / 900), w = 1600 * s, h = 900 * s;
+    return {x: (W - w) * 0.75, y: (H - h) / 2, w, h};
+  }
+  function drawLayer(name, g, t) {
+    if (name !== "objects") { ctx.drawImage(img[name], g.x, g.y, g.w, g.h); return; }
+    ctx.drawImage(img.photo, g.x, g.y, g.w, g.h);
+    ctx.font = "500 11px Inter, system-ui, sans-serif"; ctx.textBaseline = "top"; ctx.lineWidth = 1.5;
+    BOXES.forEach((b, i) => {
+      const k = Math.max(0, Math.min(1, t * 1.6 - i / BOXES.length * 0.6));
+      if (!k) return;
+      const x = g.x + b.x * g.w, y = g.y + b.y * g.h, w = b.w * g.w, h = b.h * g.h;
+      const c = b.label === "person" ? "#f6ad55" : "#63b3ed";
+      ctx.globalAlpha = k; ctx.strokeStyle = c; ctx.strokeRect(x, y, w, h);
+      if (w > 26) {
+        const txt = b.label + " " + b.conf.toFixed(2), tw = ctx.measureText(txt).width + 8;
+        ctx.fillStyle = c; ctx.fillRect(x - .75, y - 15, tw, 15); ctx.fillStyle = "#0b0f17"; ctx.fillText(txt, x + 3, y - 13);
+      }
+      ctx.globalAlpha = 1;
+    });
+  }
+  const setStage = () => stages.forEach((s, i) => s.classList.toggle("on", i === cur));
+  const bar = v => { stages[cur].querySelector("i").style.width = v; };
+  function sweep(from, to, k) {
+    const g = geom(), e = k < .5 ? 2 * k * k : 1 - Math.pow(-2 * k + 2, 2) / 2, sx = e * W;
+    from === "photo" ? ctx.drawImage(img.photo, g.x, g.y, g.w, g.h) : drawLayer(from, g, 1);
+    ctx.save(); ctx.beginPath(); ctx.rect(0, 0, sx, H); ctx.clip(); drawLayer(to, g, e); ctx.restore();
+    ctx.fillStyle = "rgba(255,255,255,.8)"; ctx.fillRect(sx - .5, 0, 1, H);
+    bar(e * 100 + "%");
+  }
+  function frame(now) {
+    const el = now - phaseStart;
+    if (sweeping) {
+      const first = phaseStart === startedAt && cur === 0;
+      sweep(first ? "photo" : ORDER[(cur + 3) % 4], ORDER[cur], Math.min(1, el / SWEEP));
+      if (el >= SWEEP) { sweeping = false; phaseStart = now; }
+    } else {
+      drawLayer(ORDER[cur], geom(), 1);
+      if (el > HOLD) { bar("0"); cur = (cur + 1) % 4; setStage(); sweeping = true; phaseStart = now; }
+    }
+    requestAnimationFrame(frame);
+  }
+  let startedAt = 0;
+  function start() {
+    const still = new URLSearchParams(location.search).get("stage");   // ?stage=0..3 freezes one stage
+    if (still !== null || reduce) {
+      cur = still !== null ? +still : 2; setStage();
+      const paint = () => { resize(); drawLayer(ORDER[cur], geom(), 1); };
+      paint(); addEventListener("resize", paint); return;
+    }
+    resize(); addEventListener("resize", resize);
+    setStage(); startedAt = phaseStart = performance.now(); requestAnimationFrame(frame);
+  }
+  let loaded = 0;
+  Object.entries(srcs).forEach(([k, s]) => { const im = new Image(); im.onload = () => { if (++loaded === 4) start(); }; im.src = s; img[k] = im; });
+})();
+</script>
+</body>
+</html>
