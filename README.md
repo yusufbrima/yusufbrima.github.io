@@ -10,7 +10,7 @@ On every push to `master`, GitHub Actions (`.github/workflows/deploy.yml`) build
 | News items (newest six on the homepage) | `_news/YYYY-MM-DD-NN.md`, one short item per file |
 | Publications | `_bibliography/papers.bib` (`selected={true}` puts a paper on the homepage) |
 | Talks | `_data/talks.yml` |
-| Teaching | `_teaching/*.md`; the AIMS course website is the static folder `teaching/aims-computer-vision-2027/` |
+| Teaching | `_teaching/*.md`; the AIMS 2027 course (`_teaching/2027-aims-computer-vision.md`, `published: false`) is paused: to go live, set `published: true` and run `build_site.py --deploy` from the course materials to restore `teaching/aims-computer-vision-2027/` |
 | Mentorship guides | `_mentorship/*.md` (PDF resources in `files/`) |
 | Blog posts | `_posts/*.md` |
 | Research gallery | `_pages/research.md`, media in `assets/media/` (videos as MP4, images ≤ 1400 px) |

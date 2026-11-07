@@ -1,4 +1,5 @@
 ---
+published: false   # paused until the course goes live; set to true and redeploy the course site to restore
 title: Introduction to Computer Vision
 type: Graduate course, Structured Master's in Data Science
 permalink: /teaching/2027-aims-computer-vision
