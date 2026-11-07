@@ -441,11 +441,6 @@ ninja.data = [{
           description: "Graduate/Undergraduate Seminar · University of Osnabrück, Institute of Cognitive Science · Osnabrück, Germany · 2023",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2023-deep-representation-learning";
-            },},{id: "teaching-introduction-to-computer-vision",
-          title: 'Introduction to Computer Vision',
-          description: "Graduate course, Structured Master&#39;s in Data Science · African Institute for Mathematical Sciences (AIMS) Cameroon · Limbe, Cameroon · 2027",
-          section: "Teaching",handler: () => {
-              window.location.href = "/teaching/2027-aims-computer-vision";
             },},{
         id: 'social-email',
         title: 'email',
