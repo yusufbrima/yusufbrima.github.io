@@ -1,13 +1,13 @@
 ---
-title: "Server-side programming with PHP"
-collection: teaching
-type: "Undergraduate courses"
+title: Server-side programming with PHP
+type: Undergraduate courses
 permalink: /teaching/2017-php
-venue: "University of Makeni, Department of Computer Science"
+venue: University of Makeni, Department of Computer Science
 date: 2017-03-01
-location: "Makeni, Sierra Leone"
+location: Makeni, Sierra Leone
+layout: page
+description: Undergraduate courses · University of Makeni, Department of Computer Science · Makeni, Sierra Leone · 2017
 ---
-
 
 Unit-1
 ======

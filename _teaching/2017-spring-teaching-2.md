@@ -1,11 +1,12 @@
 ---
-title: "Data Mining and Warehousing"
-collection: teaching
-type: "Undergraduate courses"
+title: Data Mining and Warehousing
+type: Undergraduate courses
 permalink: /teaching/2017-dmw
-venue: "University of Makeni, Department of Computer Science"
+venue: University of Makeni, Department of Computer Science
 date: 2017-03-01
-location: "Makeni, Sierra Leone"
+location: Makeni, Sierra Leone
+layout: page
+description: Undergraduate courses · University of Makeni, Department of Computer Science · Makeni, Sierra Leone · 2017
 ---
 
 Unit I

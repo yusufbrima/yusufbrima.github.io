@@ -1,0 +1,112 @@
+- date: '2026-05-06'
+  title: Multimodal Representation for Robustness and Generalization in Biomedical Applications
+  type: Talk
+  venue: Max Delbrück Center for Molecular Medicine (MDC)
+  location: Berlin, Germany
+- date: '2026'
+  title: Building Trustworthy and Translational Biomedical AI for Low-Resource Settings
+  type: Talk
+  venue: University of South Africa (UNISA)
+  location: South Africa
+- date: '2025-08-28'
+  title: Artificial Intelligence and Its Role in Shaping Our Future
+  type: Talk
+  venue: Computer Science Alumni Forum, University of Makeni
+  location: Makeni, Sierra Leone
+  slides: https://www.slideshare.net/slideshow/artificial-intelligence-and-its-role-in-shaping-our-future/283646571
+- date: '2025-02-19'
+  title: Multimodal Federated Learning for Robust Lung Cancer Prognosis
+  type: Talk
+  venue: Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)
+  location: Bonn, Germany
+  slides: https://www.slideshare.net/slideshow/multimodal-federated-learning-for-robust-lung-cancer-prognosis/276050973
+- date: '2024-12-16'
+  title: Assessing Explainability in Deep Learning for Medical Image Analysis
+  type: Talk
+  venue: Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)
+  location: Bonn, Germany
+  slides: https://www.slideshare.net/slideshow/assessing-explainability-in-deep-learning-for-medical-image-analysis/275311589
+- date: '2024-12-10'
+  title: Trustworthy Healthcare AI for Mental Health Risk Prediction
+  type: Talk
+  venue: Neurobiology Research Unit, Copenhagen University Hospital
+  location: Copenhagen, Denmark
+  slides: https://www.slideshare.net/slideshow/trustworthy-healthcare-ai-for-mental-health-risk-prediction/275311658
+- date: '2024-07-10'
+  title: Assessing Fusarium Oxysporum Disease Severity in Cotton Using Unmanned Aerial System Images and a Hybrid Domain Adaptation Deep Learning Time Series Model
+  type: Talk
+  venue: Leibniz Institute for Agricultural Engineering and Bioeconomy
+  location: Potsdam, Germany
+  slides: https://www.slideshare.net/slideshow/assessing-fusarium-oxysporum-disease-severity-in-cotton-using-unmanned-aerial-system-images-and-a-hybrid-domain-adaptation-deep-learning-time-series-model/275313608
+- date: '2024-03-13'
+  title: Causal Representation Learning
+  type: Talk
+  venue: Computer Vision Colloquium, Osnabrueck University
+  location: Osnabrück, Germany
+  slides: https://www.slideshare.net/slideshow/a-talk-on-deep-causal-representation-learning/270011604
+- date: '2023-12-10'
+  title: Disentangled Speech Representation Learning via Self-Supervision
+  type: Poster Presentation
+  venue: NeurIPS 2023
+  location: New Orleans, USA
+  event: https://neurips.cc/Conferences/2023
+- date: '2023-07-26'
+  title: Self-Supervised Learning of Speech Representation via Redundancy Reduction
+  type: Oral Presentation
+  venue: KI 2023 – 46th German Conference on Artificial Intelligence
+  location: Berlin, Germany
+  event: https://ki2023.gi.de/
+- date: '2022-11-16'
+  title: Supervised Contrastive Representation Learning for Individual Recognition in the Wild
+  type: Talk
+  venue: Language and Communication colloquium, Institute of Cognitive Science, Osnabrueck University, Germany
+  location: Building 50, Room 50/E07, Wachsbleiche 27, Osnabrueck, Germany
+  poster: /assets/media/IR_Framework.svg
+- date: '2022-08-08'
+  title: Supervised Contrastive Deep Learning for Individual Recognition in Chimpanzees in the Wild
+  type: Talk
+  venue: Department of Comparative Cultural Psychology, Max Planck Institute for Evolutionary Anthropology, Germany
+  location: Virtual
+- date: '2022-07-31'
+  title: Supervised Contrastive Deep Learning for Individual Recognition in Chimpanzees in the Wild
+  type: Talk
+  venue: Language and Communication colloquium, Institute of Cognitive Science, Osnabrueck University, Germany
+  location: Building 50, Room 50/E07, Wachsbleiche 27, Osnabrueck, Germany
+  poster: /assets/media/Poster_Primate_Cognition.jpg
+  event: https://www.primate-cognition.eu/de/veranstaltungen/bridging-the-technological-gap-workshop.html
+- date: '2021-06-27'
+  title: Transfer Learning for the Detection and Classification of traditional pneumonia and pneumonia induced by the COVID-19 from Chest X-ray Images
+  type: Talk
+  venue: African Institute of Mathematical Sciences (AIMS), Rwanda
+  location: AIMS Centre Remera, Kigali, Rwanda
+  slides: https://www.slideshare.net/YusufBrima/transfer-learning-for-the-detection-and-classification-of-traditional-pneumonia-and-pneumonia-induced-by-the-covid19-from-chest-xray-images
+- date: '2021-05-05'
+  title: Big Data for Healthcare Analytics
+  type: Talk
+  venue: African Institute of Mathematical Sciences (AIMS), Rwanda
+  location: AIMS Centre Remera, Kigali, Rwanda
+  slides: https://www.slideshare.net/YusufBrima/aims-block-presentationdeep-transfer-learning-for-magnetic-resonance-image-multiclass-classification
+- date: '2021-02-09'
+  title: 'African Accents International (AAI-SL): Engaging youths, transforming lives'
+  type: Talk
+  venue: African Institute of Mathematical Sciences (AIMS)
+  location: AIMS Centre Remera, Kigali, Rwanda
+  slides: https://www.slideshare.net/YusufBrima/african-accents-international-institute-aaiisl-work-overview
+- date: '2019-07-16'
+  title: Big Data for Healthcare Analytics
+  type: Talk
+  venue: University of Dhaka, Department of Computer Science and Engineering
+  location: Bangabandhu International Conference Center, Dhaka, Bangladesh
+  slides: https://www.slideshare.net/YusufBrima/big-data-for-healthcare-analytics-final-v03-miz
+- date: '2019-05-15'
+  title: Detecting malaria using a deep convolutional neural network
+  type: Talk
+  venue: University of Dhaka, Department of Computer Science and Engineering
+  location: Department of Computer Science and Engineering, Dhaka, Bangladesh
+  slides: https://www.slideshare.net/YusufBrima/detecting-malaria-using-a-deep-convolutional-neural-network
+- date: '2017-06-12'
+  title: Introduction to the Internet
+  type: Talk
+  venue: University of Makeni, Department of Computer Science
+  location: Sylvanus Koroma Campus Yoni, Makeni, Sierra Leone
+  slides: https://www.slideshare.net/YusufBrima/introduction-to-internet-226928415

@@ -1,13 +1,13 @@
 ---
-title: "Relational Database Management Systems"
-collection: teaching
-type: "Undergraduate courses"
+title: Relational Database Management Systems
+type: Undergraduate courses
 permalink: /teaching/2017-rdbms
-venue: "University of Makeni, Department of Computer Science"
+venue: University of Makeni, Department of Computer Science
 date: 2017-03-01
-location: "Makeni, Sierra Leone"
+location: Makeni, Sierra Leone
+layout: page
+description: Undergraduate courses · University of Makeni, Department of Computer Science · Makeni, Sierra Leone · 2017
 ---
-
 
 Unit-1: Introduction To Database Systems
 ========================================

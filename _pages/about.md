@@ -1,156 +1,84 @@
 ---
+layout: about
+title: about
 permalink: /
-title: " "
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+subtitle: Biomedical AI Researcher · Osnabrück, Germany
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: <p><a href="mailto:ybrima@uos.de">ybrima@uos.de</a></p>
+selected_papers: true
+social: true
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 6
+latest_posts:
+  enabled: false
 ---
 
-Highly motivated AI/ML Researcher with over 6 years of experience in digital signal processing, machine learning, and deep learning with a strong track record of impactful research contributions in top-tier conferences and journals. Passionate about interdisciplinary research with strong socio-technical impact. <a href="http://yusufbrima.github.io/files/Curriculum_Vitae_Yusuf_Brima.pdf" target="_blank">Curriculum Vitae</a>
-<!-- * Biomedical Data Scientist at the <a href="https://www.scai.fraunhofer.de/en.html" target="_blank">Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)</a> in St. Augustin, Germany, focusing on "Federated Learning for Lung Cancer Prognosis" under the supervision of <a href="https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html" target="_blank">Prof. Holger Fröhlich</a>. -->
+I am a biomedical AI researcher. I build trustworthy machine learning for medicine: models that learn robust, multimodal representations of imaging and clinical data, explain their decisions, and generalise to the settings where they are used, including low-resource health systems.
 
-<a href="https://www.comco.uni-osnabrueck.de/projekte/yusuf_brima.html" target="_blank">Ph.D. in Cognitive Science</a> at <a href="https://cognition.uni-osnabrueck.de/2018-05-07/" target="_blank">Osnabrück University</a>, advised by <a href="https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/heidemann_gunther.html" target="_blank">Prof. Gunther Heidemann</a> and <a href="https://www.uni-osnabrueck.de/fb8/en/ikw/forschen/forschungsgruppen/comparative-cognitive-biology" target="_blank">Prof. Simone Pika</a>.
+Since January 2025 I have been a **Biomedical AI Research Fellow** in a research collaboration with [Rhodes University](https://www.ru.ac.za/) and global academic partners, working on multimodal learning for early diagnosis and prognosis, and co-supervising students in medical imaging and clinical AI. I received my **Ph.D. in Cognitive Science** from [Osnabrück University](https://www.uni-osnabrueck.de/) in 2025 (advisors: Prof. Gunther Heidemann and Prof. Simone Pika), with a thesis on disentangled representation learning in speech and vocalization. Before that I studied at [AIMS Rwanda](https://aims.ac.rw/) (M.Sc. Mathematical Sciences), the [University of Dhaka](https://du.ac.bd/) (M.Sc. Computer Science and Engineering) and the [University of Makeni](https://unimak.edu.sl/) (B.Sc. Computer Science).
 
-MSc. in <a href="https://cs.du.ac.bd/" target="_blank">Mathematical Sciences</a> at <a href="https://www.aims.ac.rw/" target="_blank">The African Institute of Mathematical Sciences (AIMS)</a>, advised by <a href="https://www.ru.ac.za/mathematics/people/staff/marcelatemkeng/#d.en.232420" target="_blank">Prof. Marcellin Atemkeng</a>.
+**Research interests:** medical image analysis · multimodal clinical AI · trustworthy and explainable AI · robustness and generalisation · representation learning · AI for global health.
 
-MSc. student in the <a href="https://www.du.ac.bd/body/CSE" target="_blank">Computer Science and Engineering Department</a> at <a href="https://www.du.ac.bd/body/CSE" target="_blank">University of Dhaka</a>, advised by <a href="https://du.ac.bd/body/faculty_details/CSE/1764" target="_blank">Prof. Mosaddek Hossain Kamal</a>.
+<div class="research-highlights">
 
-BSc. in Computer Science from the <a href="http://www.unimak.edu.sl/" target="_blank">University of Makeni</a>.
+<div class="research-item">
+<div class="row"><div class="col-sm"><video class="lazy-video" src="/assets/media/group_007_gradcampp.mp4" data-poster="/assets/media/group_007_gradcampp-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer&#x27;s prediction on ADNI subjects."></video></div></div>
+<div class="caption">Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on ADNI subjects.</div>
+</div>
 
-<hr />
-<figure id="MXAI_AD">
-  <img src="http://yusufbrima.github.io/images/group_007_gradcampp.gif" style="width:95%;" alt="Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on ADNI subjects.">
-  <figcaption>Multimodal cross-attention visualization of Grad-CAM++ for a trained multimodal deep learning model for Alzheimer's prediction on ADNI subjects. </figcaption>
-</figure>
+<div class="research-item">
+<div class="row"><div class="col-sm"><img src="/assets/media/sankey_funding_disease_affiliations_compressed.jpg" alt="Sankey diagram of research funding sources, disease areas, and institutional affiliations for AI in Neglected Tropical Diseases (NTDs)." loading="lazy" class="img-fluid rounded"></div></div>
+<div class="caption">Sankey diagram of research funding sources, disease areas, and institutional affiliations AI in Neglected Tropical Diseases (NTDs) between 2015 to 2025.</div>
+</div>
 
-<hr />
-<figure id="sankey_funding_disease_affiliations_compressed">
-  <img src="http://yusufbrima.github.io/images/sankey_funding_disease_affiliations_compressed.png" style="width:95%;" alt="Sankey diagram of research funding sources, disease areas, and institutional affiliations for AI in Neglected Tropical Diseases (NTDs).">
-  <figcaption>Sankey diagram of research funding sources, disease areas, and institutional affiliations AI in Neglected Tropical Diseases (NTDs) between 2015 to 2025.</figcaption>
-</figure>
+<div class="research-item">
+<div class="row"><div class="col-sm"><img src="/assets/media/app_preview.jpg" alt="Kullback–Leibler divergence between two probability distributions." loading="lazy" class="img-fluid rounded"></div><div class="col-sm mt-2 mt-sm-0"><video class="lazy-video" src="/assets/media/output.mp4" data-poster="/assets/media/output-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Jensen–Shannon divergence between two probability distributions."></video></div></div>
+<div class="caption">A web-based DICOM viewer enabling medical image visualization and basic manipulations, such as contrast adjustment, export to png and video (for multiple uploaded files).For more details, visit the project repository: <a href="https://github.com/yusufbrima/DICOMViewer">DICOMViewer</a></div>
+</div>
 
-<hr />
-<figure id="DICOM_Viewer">
-  <img src="http://yusufbrima.github.io/images/app_preview.png" style="width:45%;" alt="Kullback–Leibler divergence between two probability distributions.">
-  <img src="http://yusufbrima.github.io/images/output.gif" style="width:45%;"  alt="Jensen–Shannon divergence between two probability distributions.">
-  <figcaption>A web-based DICOM viewer enabling medical image visualization and basic manipulations, such as contrast adjustment, export to png and video (for multiple uploaded files).For more details, visit the project repository: <a href="https://github.com/yusufbrima/DICOMViewer" target="_blank">DICOMViewer</a></figcaption>
-</figure>
+<div class="research-item">
+<div class="row"><div class="col-sm"><img src="/assets/media/Original_vs_Reconstructed.gif" alt="Time-domain, frequency-domain and time-frequency representations of a sine waveform across different frequencies sampled at 16KHz for 1 seconds." loading="lazy" class="img-fluid rounded"></div></div>
+<div class="caption">Time-domain, frequency-domain and time-frequency representations of a sine waveform across different frequencies sampled at 16KHz for 1 seconds. The top row is the original signal and the bottom row is the reconstructed version for the disentangled Variational Auto Encoder.</div>
+</div>
 
-<hr />
+<div class="research-item">
+<div class="row"><div class="col-sm"><video class="lazy-video" src="/assets/media/sawtooth.mp4" data-poster="/assets/media/sawtooth-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Time-domain, time-frequency and frequency-domain representations of a sawtooth waveform across different frequencies sampled at 16KHz for 2 seconds."></video></div></div>
+<div class="caption">Time-domain, time-frequency and frequency-domain representations of a sawtooth waveform across different frequencies sampled at 16KHz for 2 seconds each.</div>
+</div>
 
-<figure id="Original_vs_Reconstructed">
-  <img src="http://yusufbrima.github.io/images/Original_vs_Reconstructed.gif" style="width:90%;" alt="Time-domain, frequency-domain and time-frequency representations of a sine waveform across different frequencies sampled at 16KHz for 1 seconds.">
-  <figcaption>Time-domain, frequency-domain and time-frequency representations of a sine waveform across different frequencies sampled at 16KHz for 1 seconds. The top row is the original signal and the bottom row is the reconstructed version for the disentangled Variational Auto Encoder.</figcaption>
-</figure>
+<div class="research-item">
+<div class="row"><div class="col-sm"><video class="lazy-video" src="/assets/media/mnist_tripplet_animation_advanced.mp4" data-poster="/assets/media/mnist_tripplet_animation_advanced-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Triplet-based contrastive representation learning of MNIST validation set."></video></div></div>
+<div class="caption">Visualizing the convergence of clusters of classes in the MNIST validation set using both Triplet (Left) and Supervised Contrastive Representation Learning</div>
+</div>
 
-<hr />
+<div class="research-item">
+<div class="row"><div class="col-sm"><video class="lazy-video" src="/assets/media/bt_small_train_modified_BN.mp4" data-poster="/assets/media/bt_small_train_modified_BN-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="128-dimensional latent representation of modified Barlow Twins."></video></div><div class="col-sm mt-2 mt-sm-0"><video class="lazy-video" src="/assets/media/bt_small_train_original.mp4" data-poster="/assets/media/bt_small_train_original-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="128-dimensional latent representation of modified Barlow Twins."></video></div></div>
+<div class="caption">Visualizing the convergence of latent representations over training iterations for modified Barlow Twins model: decorrelated audio representations (left) and original small training data (right). The 128-dimensional latent space reveals the progression of learned features and their alignment throughout the training process.</div>
+</div>
 
-<figure id="sawtooth">
-  <img src="http://yusufbrima.github.io/images/sawtooth.gif" style="width:90%;" alt="Time-domain, time-frequency and frequency-domain representations of a sawtooth waveform across different frequencies sampled at 16KHz for 2 seconds.">
-  <figcaption>Time-domain, time-frequency and frequency-domain representations of a sawtooth waveform across different frequencies sampled at 16KHz for 2 seconds each.</figcaption>
-</figure>
+<div class="research-item">
+<div class="row"><div class="col-sm"><video class="lazy-video" src="/assets/media/KL_Divergence.mp4" data-poster="/assets/media/KL_Divergence-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Kullback–Leibler divergence between two probability distributions."></video></div><div class="col-sm mt-2 mt-sm-0"><video class="lazy-video" src="/assets/media/JSD_Divergence.mp4" data-poster="/assets/media/JSD_Divergence-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Jensen–Shannon divergence between two probability distributions."></video></div></div>
+<div class="caption">A visual illustration of two divergence measures: the Kullback–Leibler (KL) and Jensen–Shannon (JS) divergences between two probability distributions $P_x $ and $Q_x$.</div>
+</div>
 
-<hr />
+<div class="research-item">
+<div class="row"><div class="col-sm"><img src="/assets/media/BrainTumor_Saliency_Maps_inception_resnet_v2.jpg" alt="Explainable AI in Medical Image Analysis" loading="lazy" class="img-fluid rounded"></div></div>
+<div class="caption">Explainable AI in Medical Image Analysis using Visual Saliency Maps. Feature attribution was done with a trained InceptionResNetv2 model.</div>
+</div>
 
-<figure id="contrastive_representation_learning">
-  <img src="http://yusufbrima.github.io/images/mnist_tripplet_animation_advanced.gif" style="width:90%;" alt="Triplet-based contrastive representation learning of MNIST validation set.">
-  <!-- <img src="http://yusufbrima.github.io/images/mnist_scl_animation.gif" style="width:45%;"  alt="Supervised Contrastive Learned-based evaluation of MNIST validation set."> -->
-  <figcaption>Visualizing the convergce of clusters of classes in the MNIST validation set using both Triplet (Left) and Supervised Contrastive Representation Learning</figcaption>
-</figure>
+<div class="research-item">
+<div class="row"><div class="col-sm"><img src="/assets/media/0.png" alt="Workshop Poster Presentation" loading="lazy" class="img-fluid rounded"></div><div class="col-sm mt-2 mt-sm-0"><video class="lazy-video" src="/assets/media/1.mp4" data-poster="/assets/media/1-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Workshop Poster Presentation"></video></div></div>
+<div class="caption">Learnt 2D and 3D principal component latent representations of both human and non-human primates.</div>
+</div>
 
-<hr />
+<div class="research-item">
+<div class="row"><div class="col-sm"><img src="/assets/media/2.png" alt="Workshop Poster Presentation" loading="lazy" class="img-fluid rounded"></div><div class="col-sm mt-2 mt-sm-0"><video class="lazy-video" src="/assets/media/3.mp4" data-poster="/assets/media/3-poster.jpg" muted loop playsinline preload="none" style="width:100%;" aria-label="Workshop Poster Presentation"></video></div></div>
+<div class="caption">Learnt 2D and 3D principal component latent representations of speeches at the United States Congress by five world leaders.</div>
+</div>
 
-<figure id="decorrelated_audio_representations">
-  <img src="http://yusufbrima.github.io/images/bt_small_train_modified_BN.gif" style="width:45%;" alt="128-dimensional latent representation of modified Barlow Twins.">
-  <img src="http://yusufbrima.github.io/images/bt_small_train_original.gif" style="width:45%;"  alt="128-dimensional latent representation of modified Barlow Twins.">
-  <figcaption>Visualizing the convergence of latent representations over training iterations for modified Barlow Twins model: decorrelated audio representations (left) and original small training data (right). The 128-dimensional latent space reveals the progression of learned features and their alignment throughout the training process.</figcaption>
-</figure>
-
-<hr />
-
-<figure id="divergence_measures">
-  <img src="http://yusufbrima.github.io/images/KL_Divergence.gif" style="width:45%;" alt="Kullback–Leibler divergence between two probability distributions.">
-  <img src="http://yusufbrima.github.io/images/JSD_Divergence.gif" style="width:45%;"  alt="Jensen–Shannon divergence between two probability distributions.">
-  <figcaption>A visual illustration of two divergence measure: the Kullback–Leibler (KL) and Jensen–Shannon (JS) divergences between two probability distributions $P_x $ and $Q_x$.</figcaption>
-</figure>
-
-<hr />
-
-<figure id="Test_set_densenet121">
-  <!-- <img src="http://yusufbrima.github.io/images/Test_set_densenet121.svg" style="width:45%;" alt="Explainable AI in Medical Image Analysis"> -->
-  <img src="http://yusufbrima.github.io/images/BrainTumor_Saliency_Maps_inception_resnet_v2.png" style="width:100%;"  alt="Explainable AI in Medical Image Analysis">
-  <figcaption>Explainable AI in Medical Image Analysis using Visual Saliency Maps. Feature attribution was done with a trained InceptionResNetv2 model.</figcaption>
-</figure>
-
-<hr />
-
-<figure id="0">
-  <img src="http://yusufbrima.github.io/images/0.png" style="width:45%;" alt="Workshop Poster Presentation">
-  <img src="http://yusufbrima.github.io/images/1.gif" style="width:45%;" alt="Workshop Poster Presentation">
-  <figcaption>Learnt 2D and 3D principal component latent representations of both human and non-human primates.</figcaption>
-</figure>
-
-
-<figure id="2">
-  <img src="http://yusufbrima.github.io/images/2.png" style="width:45%;" alt="Workshop Poster Presentation">
-  <img src="http://yusufbrima.github.io/images/3.gif" style="width:45%;" alt="Workshop Poster Presentation">
-  <figcaption>Learnt 2D and 3D principal component latent representations of speeches at the United States Congress by five world leaders.</figcaption>
-</figure>
-
-# Recent News
-* **October 07, 2026**; Received the <a href="https://lambda.ai/research" target="_blank">Lambda AI Research Grant</a> for supporting large-scale multimodal biomedical AI research for infectious diseases.
-* **September 14, 2026**; Our manuscript titled "A Multimodal Explainable Deep Learning Framework for Alzheimer's Disease Diagnosis using 3D Magnetic Resonance Imaging and Clinical Data" got accepted for publication in [Springer Nature Cognitive Computation](https://doi.org/10.48550/arXiv.2609.12410).
-* **September 02, 2026**; Our manuscript titled "From Visual Saliency to Anatomical Explanation: Generating Textual Diagnostic Reports from Brain MRIs with Saliency-Grounded LLMs" got accepted for publication in [Springer Nature BioData Mining](https://doi.org/10.48550/arXiv.2605.06197).
-* **August 07, 2026**; I am excited to be serving at the program chair at  the <a href="https://paaiss.com/" target="_blank">Pan-African Artificial Intelligence and Smart Systems Conference ( PA-AISS 2026)</a> taking place atUniversity of Technology, Kingston, Jamaica October 13-16, 2026.
-* **July 21, 2026**; My research project was awarded a  <a href="https://edu.google.com/programs/credits/research/" target="_blank">Google Cloud Research Grant</a> to fully fund our high-performance academic computing, storage, and data analytics infrastructure for the next year.
-* **May 26, 2026**; Our Tabular Foundation Model manuscript titled "Few-shot Learning with Cross-country Generalization of Tabular Machine Learning and Foundation Models for Childhood Anemia Prediction under Distribution Shift" submitted to _BioData Mining_.
-* **April 20, 2026**; Our LLM-Guided XAI for Medical Image Diagnostics manuscript titled "Bridging Visual Saliency and Large Language Models for Self-explainable Deep Learning in Medical Imaging" submitted to _BioData Mining_.
-* **May 19, 2026**; Our systematic review title "Transformers for 3D Medical Image Analysis: A Systematic Review of Architectural Innovations, Performance, and Clinical Applications," got accepted at _Artificial Intelligence Review_.  
-* **April 16, 2026**; Our AI in NTD Consortium manuscript titled "Artificial Intelligence in Neglected Tropical Diseases: Current Applications, Challenges, and Opportunities" submitted to _npj Digital Medicine_.
-* **December 24, 2025**; Completed " AI Applications in Healthcare Specialization by Stanford Online" with a focus on AI techniques and their applications in biomedicine. Certificate available at <a href="https://coursera.org/share/8e92d2103797053a11f2967dd6857edf" target="_blank">here</a>.
-* **December 24, 2025**; Completed " Evaluations of AI Applications in Healthcare by Stanford Online" with a focus on AI techniques and their applications in medical diagnosis. Certificate available at <a href="https://coursera.org/share/905eaf677332a622a10ac50222038393" target="_blank">here</a>.
-* **December 18, 2025**; Completed "Fundamentals of Machine Learning for Healthcare by Stanford Online" with a focus on machine learning techniques and their applications in healthcare. Certificate available at <a href="https://coursera.org/share/d80621b479d393d7cd961fa7991fd0c2" target="_blank">here</a>.
-* **December 17, 2025**; Completed "Introduction to Clinical Data by Stanford Online" with a focus on clinical data types, sources, and applications in healthcare. Certificate available at <a href="https://coursera.org/share/46b08e64671194b512eedcc4d84835ea" target="_blank">here</a>.
-* **December 06, 2025**; Completed "Introduction to Healthcare by Stanford Online" with a focus on healthcare systems, quality improvement, and patient safety. Certificate available at <a href="https://coursera.org/share/96f83ee9c0a846ac735aa69bb6792ef8" target="_blank">here</a>.
-* **November 19, 2025**; PhD Thesis Published in the collection: FB08 - E-Dissertations: "Disentangled Representation Learning in Speech and Vocalization
-" available at [Osnabrück University Repositorium osnaDocs](https://doi.org/10.48693/798).
-* **August 28, 2025**; Gave a talk on <a href="https://www.slideshare.net/slideshow/artificial-intelligence-and-its-role-in-shaping-our-future/283646571" target="_blank">Artificial Intelligence and Its Role in Shaping Our Future</a> at the University of Makeni Computer Science Alumni Forum.
-* **June 27, 2025**; Successfully <a href="https://www.slideshare.net/slideshow/disentangled-representation-learning-in-speech-and-vocalization/281070120" target="_blank">defended my PhD thesis</a> at the Institute of Cognitive Science, Osnabrück University.
-<!-- * **May 01, 2025**; Started a Biomedical Research Fellow at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.scai.fraunhofer.de/en.html) in St. Augustin, Germany, focusing on "Federated Learning for Lung Cancer Prognosis" under the supervision of [Prof. Dr. rer. nat. Holger Fröhlich](https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics/fields-of-research/AI-DAS.html). -->
-* **March 30, 2025**; Made a first commit to a [Pytorch-based XAI for Dementia using 3D CNN and NIFTI Data](https://github.com/yusufbrima/xai_mri_dementia)
-* **March 04, 2025**; "A systematic review of low-rank and local low-rank matrix approximation in big data medical imaging" published for publication in [Springer Nature Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-025-11055-2).
-* **February 19, 2025**; Talk on "Multimodal Federated Learning for Robust Lung Cancer Prognosis" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.slideshare.net/slideshow/multimodal-federated-learning-for-robust-lung-cancer-prognosis/276050973).
-* **January 31, 2025**; Completed the MUST Deep Learning Bootcamp, North-West University, South Africa [MUST Deep Learning Bootcamp 2025](https://mailchi.mp/nithecs/must-bootcamp).
-* **January 22, 2025**; PhD Dissertation Submitted and approved for examination and graduation: "Disentangled Representation Learning in Speech and Vocalization".
-* **January 20, 2025**; The Association of Commonwealth Universities Case Study on "Advancing artificial intelligence for healthcare and developing human capital in low-resource settings" published in [ACU Research](https://www.acu.ac.uk/publications/case-studies/scholars-fellows-and-grantees-case-studies/advancing-artificial-intelligence-for-healthcare-and-developing-human-capital-in-low-resource-settings/).
-* **January 11, 2025**; "Learning Disentangled Speech Representations" preprint published in [arXiv:2311.03389v4](https://arxiv.org/html/2311.03389v4).
-* **December 16, 2024**; Talk on "Trustworthy Healthcare AI for Mental Health Risk Prediction" at the [Neurobiology Research Unit,Copenhagen University Hospital](https://www.slideshare.net/slideshow/trustworthy-healthcare-ai-for-mental-health-risk-prediction/275311658)
-* **December 10, 2024**; Talk on "Assessing Explainability in Deep Learning for Medical Image Analysis" at the [Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)](https://www.slideshare.net/slideshow/assessing-explainability-in-deep-learning-for-medical-image-analysis/275311589).
-* **November 11, 2024**; Launched SyncSpeech Datasets: A large-scale collection of synthetic speech datasets for speech representation learning. Available at [SyncSpeech Datasets](https://synspeech.github.io/).
-* **July 10, 2024**; Talk on "Assessing fusarium oxysporum disease severity in cotton using unmanned aerial system images and a hybrid domain adaptation deep learning time series model" at the [Leibniz Institute for Agricultural Engineering and Bioeconomy](https://www.slideshare.net/slideshow/assessing-fusarium-oxysporum-disease-severity-in-cotton-using-unmanned-aerial-system-images-and-a-hybrid-domain-adaptation-deep-learning-time-series-model/275313608)
-* **June 22, 2024**; "Saliency-driven explainable deep learning in medical imaging: bridging visual explainability and statistical quantitative analysis" published in [BioData Mining 17, 18](https://doi.org/10.1186/s13040-024-00370-4).
-* **March 27, 2024**; "Bridging the Gap: Exploring Interpretability in Deep Learning Models for Brain Tumor Detection and Diagnosis from MRI Images" published in [MDPI Information 2024, 15(4), 182](https://doi.org/10.3390/info15040182).  
-* **March 21, 2024**; "Got accepted to attend in-person the [Deep Learning + Reinforcement Learning (DLRL) Summer School](https://dlrl.ca/) 2024 by CIFAR and the Vector Institute in Toronto, Canada.".
-* **March 13, 2024**; Talk on "Causal Representation Learning" at the [Computer Vision Colloquium, Osnabrueck University](https://www.slideshare.net/slideshow/a-talk-on-deep-causal-representation-learning/270011604).
-* **February 16, 2024**; "Learning Disentangled Audio Representations through Controlled Synthesis" accepted for oral presentation at [ICLR Tiny Papers 2024](https://iclr.cc/Conferences/2024/CallForTinyPapers/).
-* **February 15, 2024**; "Understanding Self-Supervised Learning of Speech Representation via Invariance and Redundancy Reduction" accepted for oral presentation at [MDPI Information 2024, 15(2), 114](https://doi.org/10.3390/info15020114).
-* **February 12, 2024**; "Bridging the Gap: Exploring Interpretability in Deep Learning Models for Brain Tumor Classification from MRI Images" submitted to [MDPI Information Special Issue: Deep Learning in Medical Image Analysis: Foundations, Techniques, and Applications](https://www.mdpi.com/journal/information/special_issues/4VT8EQCTON).
-* **December 10, 2023**; Attended [NeurIPS 2023](https://neurips.cc/Conferences/2023) in New Orleans, USA where Presented research poster on disentangled speech representation learning via self-supervision. Sharing novel techniques for learning interpretable and robust speech representations.
-* **November 1, 2023**; "Learning Disentangled Speech Representations" accepted for poster presentation at [New in ML, NeurIPS 2023](https://newinml.github.io/).
-* **October 17, 2023**; Co-organizing with [Ulf Krumnack](https://www.ikw.uni-osnabrueck.de/en/research_groups/computer_vision/people/krumnack_ulf.html) and Lukas Niehaus a [Seminar: Deep Representation Learning](https://studip.uni-osnabrueck.de/dispatch.php/course/details?sem_id=fc0b31d4ea24744a9e0bacb16c1f9987) (Winter 2023/24) at [Osnabrück University](https://www.comco.uni-osnabrueck.de/).
-* **September 23, 2023**; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" extended abstract published at [Gesellschaft für Informatik e.V.](https://doi.org/10.18420/ki2023-dc-02).
-* **August 1, 2023**; "Visual Interpretable and Explainable Deep Learning Models for Brain Tumor MRI and COVID-19 Chest X-ray Images" published in [arXiv preprint arXiv:2208.00953](https://arxiv.org/abs/2208.00953).
-* **July 26, 2023**; "Self-Supervised Learning of Speech Representation via Redundancy Reduction" accepted for oral presentation at [KI 2023 – 46th German Conference on Artificial Intelligence, Berlin, Germany](https://ki2023.gi.de/).
-* **June 13, 2023**; submitted a manuscript to PLOS One [A Mathematical Framework for Understanding Recognition Systems](https://doi.org/10.1101/2023.06.08.544240).
-* **September 16, 2022**; [Launched](https://www.eventbrite.de/e/welcome-to-the-graduate-assistance-initiative-network-gain-launching-tickets-409856942147) the [Graduate Assistance Initiative Network (GAIN)](https://gain.uos.de/) globally with 130+ attendees.
-* **September 11-16, 2022**; Attended [Mediterranean Machine Learning school](https://www.m2lschool.org/past-editions/m2l-2022), Università Milano Bicocca, Milan, Italy.
-* **August 6-7, 2022**; Co-organized with [Viktoria Zemliak](https://www.comco.uni-osnabrueck.de/projekte/viktoria_zemliak.html) the ["Bridging the Gap between Biological and Artificial Neural Networks" at the (Research Training Group (RTG) in Computational Cognition)](https://www.comco.uni-osnabrueck.de/workshop_2022.html).
-* **July 29-August 6, 2022**; Attended and presented a poster at the [Bridging the technological gap – spreading technological innovations in the study of the human and non-human mind](https://www.primate-cognition.eu/de/veranstaltungen/bridging-the-technological-gap-workshop.html) at the German Primate Center in Göttingen, Germany.
-* **July 11-29, 2022**; Participated in the [Neuromatch Academy: Deep Learning](https://academy.neuromatch.io/) intensive hands-on training.
-* **August 16, 2021**; "Transfer Learning for the Detection and Diagnosis of Types of Pneumonia Including Pneumonia Induced by the COVID-19 from Chest X-Ray Images" published in [MDPI Special Issue on Machine Learning Applications for COVID-19 and Its Complications: Screening, Diagnosis, Treatment, and Prognosis](https://doi.org/10.3390/diagnostics11081480).
-* **June 15, 2021**; Published a dataset that was curated in collaboration between the Computer Science and Engineering Department, University of Dhaka and the National Institute of Neuroscience, Bangladesh. It comprises 5,285 T1-weighted contrast-enhanced brain MRI images belonging to 38 categories. Available here [Brain MRI Dataset](https://doi.org/10.6084/m9.figshare.14778750.v2).
- <center>
- <iframe src="https://widgets.figshare.com/articles/14778750/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
- </center>
+</div>

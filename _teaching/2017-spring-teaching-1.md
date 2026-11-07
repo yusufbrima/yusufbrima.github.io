@@ -1,11 +1,12 @@
 ---
-title: "Principles of Programming Languages"
-collection: teaching
-type: "Undergraduate courses"
+title: Principles of Programming Languages
+type: Undergraduate courses
 permalink: /teaching/2017-ppp
-venue: "University of Makeni, Department of Computer Science"
+venue: University of Makeni, Department of Computer Science
 date: 2017-03-01
-location: "Makeni, Sierra Leone"
+location: Makeni, Sierra Leone
+layout: page
+description: Undergraduate courses · University of Makeni, Department of Computer Science · Makeni, Sierra Leone · 2017
 ---
 
 Course objectives: 
@@ -67,4 +68,4 @@ REFERENCES:
 * R. Kent Dybvig, "The Scheme programming language", Fourth Edition, MIT Press, 2009.
 * Jeffrey D. Ullman, "Elements of ML programming", Second Edition, Prentice Hall, 1998.
 * Richard A. O'Keefe, "The craft of Prolog", MIT Press, 2009. 
- 4. W. F. Clocksin and C. S. Mellish, "Programming in Prolog: Using the ISO Standard", Fifth Edition, Springer, 2003 
+ 4. W. F. Clocksin and C. S. Mellish, "Programming in Prolog: Using the ISO Standard", Fifth Edition, Springer, 2003

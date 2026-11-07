@@ -1,11 +1,12 @@
 ---
-title: "Guides to Securing Scholarships Overseas"
-collection: talks
-type: "Mentorship"
+title: Guides to Securing Scholarships Overseas
+type: Mentorship
 permalink: /mentorship/2022-03-18
-venue: "Virtual Event"
+venue: Virtual Event
 date: 2022-03-18
-location: "Anywhere on Earth (AoE)"
+location: Anywhere on Earth (AoE)
+layout: page
+description: Mentorship · Virtual Event · Anywhere on Earth (AoE) · 2022
 ---
 
 Objectives
@@ -28,7 +29,7 @@ Event Structure
 - Sharing of rating form on the program by Abubakarr
 
 <figure id="flyer">
-  <img src="http://yusufbrima.github.io/images/scholarship_flyer.jpg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+  <img src="/assets/media/scholarship_flyer.jpg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
   <figcaption>Figure (1) Presents the first event of this nature to be organized to help disseminate information on the best practices for securing opportunities to study abroad. Our goal is not to make a one-off event but to build a community that seeks to help other young people in the professional development path.</figcaption>
 </figure>
 
@@ -43,16 +44,16 @@ Having gotten flyers out in getting the minds of the people prepared for the occ
 4. About 50% responded to the post-attendance survery amid technological challenges and that was very exciting and inspiring.
 
 <figure id="participation">
-  <img src="http://yusufbrima.github.io/images/participation.svg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+  <img src="/assets/media/participation.svg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
   <figcaption>Figure(2) A chart of registered 42 participants for the webinar. Overall, the majority of the registrants were students either in their penultimate or final year of bachelor's degree programs. The primary motivation for this demographic to participate in an event of this nature is to enable them to seek better opportunities for capacity building in middle-income and developed countries notably due to the lack of skilled labor and institutional capacities to promote quality and affordable tertiary and vocational education in the Global South. The second major category indicates early-career and middle-career employees seeking social and economic mobility through leadership and professional skills training programs abroad. These are people in their mid-30s and early 40s looking for capacity strengthening opportunities abroad to return to help in public and private sector development in their home countries. Thus, this compelling evidence lays bare the necessity for organizing an event of this nature to help other young people in their quest for career growth.</figcaption>
 </figure>
 <figure id="screenshot">
-  <img src="http://yusufbrima.github.io/images/screenshot.svg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
+  <img src="/assets/media/screenshot.svg" alt="Webinar Flyer showing the key speaker and moderators as well as event attendance link.">
   <figcaption>Figure (3) A Zoom screenshot of the closing section of Yusuf's presentation during the webinar. It shows a cross-section of the presenter, moderators, and participants in an interactive session. Participants were given the platform to air their questions which were responded to accordingly and their feedback showed an overwhelming satisfaction with the structure and content of the event remarking they have learned very invaluable insights about the do's and don'ts to be aware of when searching for and apply to any scholarship.</figcaption>
 </figure>
 
 <figure id="institution">
- <img src="http://yusufbrima.github.io/images/institution.svg" />
+ <img src="/assets/media/institution.svg" />
 <figcaption>Figure (4) A chart of post-event responses based on participants' current affiliation. The figure shows a majority of the webinar's participants were from Nigeria and Nigerian universities. Sierra Leone is the second-highest represented country of origin in this Webinar. The reason the two countries have two-thirds of the participants is primarily because of the information dissemination means that was used viz-a-viz, the organizers are from these respective countries thus their social media reach has a major impact on people from these places. Nonetheless, there were participants from outside of West Africa and Asia as well some of whom could not complete the post-attendance survey form.  Nonetheless, the event was a major success as reported by attendees.</figcaption>
 </figure>
 
@@ -60,7 +61,7 @@ Having gotten flyers out in getting the minds of the people prepared for the occ
 Useful Materials
 ======
 The slides for this webinar have been uploaded and can be accessed from the following link.
-[Slides](http://yusufbrima.github.io/files/slide_deck.pdf)
+[Slides](/files/slide_deck.pdf)
 
 
 Links
@@ -78,7 +79,7 @@ To help bootstrap the search for scholarships, we have created a non-exhaustive 
 [Government of Ireland – International Education Scholarships 2022](https://hea.ie/2021/12/02/government-of-ireland-international-education-scholarships-2022/) <br />
 [DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/) <br />
 [Chinese Government Scholarships](https://www.chinesescholarshipcouncil.com/) <br />
-[Global Korea Scholarship](https://www.studyinkorea.go.kr/ko/scholarshipmain.do) <br />
+[Global Korea Scholarship](https://www.studyinkorea.go.kr/) <br />
 [Japanese Government (MEXT)](https://www.studyinjapan.go.jp/en/planning/scholarship/) <br />
 
 
@@ -91,6 +92,3 @@ To help bootstrap the search for scholarships, we have created a non-exhaustive 
 [Scholarshipset](https://www.scholarshipset.com/) <br />
 [Scholars4Dev](https://www.scholars4dev.com/category/target-group/africans-scholarships/)<br />
 [AfterschoolAfrica](https://www.afterschoolafrica.com/scholarship/by-country/africa/)
-
-
-

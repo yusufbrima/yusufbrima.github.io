@@ -1,11 +1,12 @@
 ---
-title: "Introduction to Computer Vision"
-collection: teaching
-type: "Graduate course, Structured Master's in Data Science"
+title: Introduction to Computer Vision
+type: Graduate course, Structured Master's in Data Science
 permalink: /teaching/2027-aims-computer-vision
-venue: "African Institute for Mathematical Sciences (AIMS) Cameroon"
+venue: African Institute for Mathematical Sciences (AIMS) Cameroon
 date: 2027-01-04
-location: "Limbe, Cameroon"
+location: Limbe, Cameroon
+layout: page
+description: Graduate course, Structured Master's in Data Science · African Institute for Mathematical Sciences (AIMS) Cameroon · Limbe, Cameroon · 2027
 ---
 
 Course Overview

@@ -1,11 +1,12 @@
 ---
-title: "PRINCIPLES OF PROGRAMMING LOGIC AND DESIGN"
-collection: teaching
-type: "Undergraduate courses"
+title: Principles of Programming Logic and Design
+type: Undergraduate courses
 permalink: /teaching/2018-ppp
-venue: "Limkokwing University of Creative Technology, Faculty of Information and Communication Technology"
+venue: Limkokwing University of Creative Technology, Faculty of Information and Communication Technology
 date: 2018-02-01
-location: "Freetown, Sierra Leone"
+location: Freetown, Sierra Leone
+layout: page
+description: Undergraduate courses · Limkokwing University of Creative Technology, Faculty of Information and Communication Technology · Freetown, Sierra Leone · 2018
 ---
 
 Course objectives: 
@@ -72,4 +73,4 @@ REFERENCES:
 * R. Kent Dybvig, "The Scheme programming language", Fourth Edition, MIT Press, 2009.
 * Jeffrey D. Ullman, "Elements of ML programming", Second Edition, Prentice Hall, 1998.
 * Richard A. O'Keefe, "The craft of Prolog", MIT Press, 2009. 
- 4. W. F. Clocksin and C. S. Mellish, "Programming in Prolog: Using the ISO Standard", Fifth Edition, Springer, 2003 
+ 4. W. F. Clocksin and C. S. Mellish, "Programming in Prolog: Using the ISO Standard", Fifth Edition, Springer, 2003

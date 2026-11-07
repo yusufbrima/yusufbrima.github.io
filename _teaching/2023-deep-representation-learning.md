@@ -1,11 +1,12 @@
 ---
-title: "Deep Representation Learning Seminar"
-collection: teaching
-type: "Graduate/Undergraduate Seminar"
+title: Deep Representation Learning Seminar
+type: Graduate/Undergraduate Seminar
 permalink: /teaching/2023-deep-representation-learning
-venue: "University of Osnabrück, Institute of Cognitive Science"
+venue: University of Osnabrück, Institute of Cognitive Science
 date: 2023-10-17
-location: "Osnabrück, Germany"
+location: Osnabrück, Germany
+layout: page
+description: Graduate/Undergraduate Seminar · University of Osnabrück, Institute of Cognitive Science · Osnabrück, Germany · 2023
 ---
 
 Course Overview
