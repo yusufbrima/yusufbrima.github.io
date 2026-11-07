@@ -1,7 +1,7 @@
 # yusufbrima.github.io
 
 Personal academic website of Yusuf Brima, built with Jekyll and the [al-folio](https://github.com/alshedivat/al-folio) theme (v0.16.3).
-On every push to `master`, GitHub Actions (`.github/workflows/deploy.yml`) builds the site and publishes it directly to GitHub Pages (Settings → Pages → Source: **GitHub Actions**).
+On every push to `master`, GitHub Actions (`.github/workflows/deploy.yml`) builds the site and publishes it to the `gh-pages` branch, which GitHub Pages serves (Settings → Pages → Deploy from a branch: `gh-pages` / root). Never edit `gh-pages` by hand.
 
 ## Where things live
 | What | File(s) |

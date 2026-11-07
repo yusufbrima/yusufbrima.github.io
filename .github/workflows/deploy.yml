@@ -1,5 +1,6 @@
-# Build the al-folio site and publish it to GitHub Pages on every push to master.
-# Repository setting required: Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
+# Build the al-folio site on every push to master and publish the result to the gh-pages branch.
+# Repository setting required: Settings -> Pages -> Build and deployment ->
+#   Source: "Deploy from a branch", Branch: gh-pages, folder: / (root).
 name: Deploy site
 
 on:
@@ -9,16 +10,14 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
-  group: pages
+  group: deploy-site
   cancel-in-progress: true
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -43,18 +42,8 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
-      - name: Upload site
-        uses: actions/upload-pages-artifact@v4
+      - name: Publish to gh-pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          path: _site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+          folder: _site
+          branch: gh-pages
