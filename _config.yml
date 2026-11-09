@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yusuf Brima
+title: Yusuf Brima, Ph.D.
 first_name: Yusuf
 middle_name:
 last_name: Brima
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Yusuf Brima, biomedical AI researcher: trustworthy and explainable deep learning for medical imaging and clinical data.
+  Dr. Yusuf Brima, biomedical AI researcher: trustworthy and explainable deep learning for medical imaging and clinical data.
 footer_text: >
   Built with <a href="https://jekyllrb.com/">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme; hosted on GitHub Pages.
 keywords: biomedical AI, medical imaging, explainable AI, representation learning, deep learning, global health
