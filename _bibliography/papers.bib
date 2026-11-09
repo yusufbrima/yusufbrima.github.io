@@ -36,7 +36,8 @@
   abbr = {Diagnostics},
   abstract = {This study explores the use of transfer learning for detecting and diagnosing different types of pneumonia, including COVID-19-induced pneumonia, from chest X-ray images. The work evaluates the performance of various deep learning models in assisting medical professionals with automated diagnostics.},
   html = {https://doi.org/10.3390/diagnostics11081480},
-  bibtex_show = {true}
+  bibtex_show = {true},
+  selected = {true}
 }
 
 @article{brima2022transferbrainmri,
@@ -156,9 +157,10 @@
   doi = {10.3390/info15040182},
   url = {https://www.mdpi.com/2078-2489/15/4/182},
   abbr = {Information},
-  abstract = {Deep learning shows great promise for medical image analysis but often lacks explainability, hindering its adoption in healthcare. Attribution techniques that explain model reasoning can potentially increase trust in deep learning among clinical stakeholders. In the literature, much of the research on attribution in medical imaging focuses on visual inspection rather than statistical quantitative analysis.},
+  abstract = {The advent of deep learning (DL) has revolutionized medical imaging, offering unprecedented avenues for accurate disease classification and diagnosis. DL models have shown remarkable promise for classifying brain tumors from Magnetic Resonance Imaging (MRI) scans. However, despite their impressive performance, the opaque nature of DL models poses challenges in understanding their decision-making mechanisms, particularly crucial in medical contexts where interpretability is essential. This paper explores the intersection of medical image analysis and DL interpretability, aiming to elucidate the decision-making rationale of DL models in brain tumor classification. Leveraging ten state-of-the-art DL frameworks with transfer learning, we conducted a comprehensive evaluation encompassing both classification accuracy and interpretability. These models underwent thorough training, testing, and fine-tuning, resulting in EfficientNetB0, DenseNet121, and Xception outperforming the other models. These top-performing models were examined using adaptive path-based techniques to understand the underlying decision-making mechanisms. Grad-CAM and Grad-CAM++ highlighted critical image regions where the models identified patterns and features associated with each class of the brain tumor. The regions where the models identified patterns and features correspond visually to the regions where the tumors are located in the images. This result shows that DL models learn important features and patterns in the regions where tumors are located for decision-making.},
   html = {https://doi.org/10.3390/info15040182},
-  bibtex_show = {true}
+  bibtex_show = {true},
+  selected = {true}
 }
 
 @article{brima2024saliency,
@@ -177,7 +179,8 @@
   abbr = {BioData Min.},
   abstract = {Deep learning shows great promise for medical image analysis but often lacks explainability, hindering its adoption in healthcare. Attribution techniques that explain model reasoning can potentially increase trust in deep learning among clinical stakeholders. In the literature, much of the research on attribution in medical imaging focuses on visual inspection rather than statistical quantitative analysis.},
   html = {https://doi.org/10.1186/s13040-024-00370-4},
-  bibtex_show = {true}
+  bibtex_show = {true},
+  selected = {true}
 }
 
 @article{hamlomo2025lowrank,
@@ -263,7 +266,8 @@
   abbr = {Sci. Rep.},
   abstract = {Explainable Artificial Intelligence (XAI) methods enhance the diagnostic efficiency of clinical decision support systems by making the predictions of a convolutional neural network’s (CNN) on brain imaging more transparent and trustworthy. However, their clinical adoption is limited due to limited validation of the explanation quality. Our study introduces a framework that evaluates XAI methods by integrating neuroanatomical morphological features with CNN-generated relevance maps for disease classification. We trained a CNN using brain MRI scans from six cohorts: ADNI, AIBL, DELCODE, DESCRIBE, EDSD, and NIFD (N = 3253), including participants that were cognitively normal, with amnestic mild cognitive impairment, dementia due to Alzheimer’s disease and frontotemporal dementia. Clustering analysis benchmarked different explanation space configurations by using morphological features as proxy-ground truth. We implemented three post-hoc explanations methods: (i) by simplifying model decisions, (ii) explanation-by-example, and (iii) textual explanations. A qualitative evaluation by clinicians (N = 6) was performed to assess their clinical validity. Clustering performance improved in morphology enriched explanation spaces, improving both homogeneity and completeness of the clusters. Post hoc explanations by model simplification largely delineated converters and stable participants, while explanation-by-example presented possible cognition trajectories. Textual explanations gave rule-based summarization of pathological findings. Clinicians’ qualitative evaluation highlighted challenges and opportunities of XAI for different clinical applications. Our study refines XAI explanation spaces and applies various approaches for generating explanations. Within the context of AI-based decision support system in dementia research we found the explanations methods to be promising towards enhancing diagnostic efficiency, backed up by the clinical assessments.},
   html = {https://doi.org/10.1038/s41598-025-26227-2},
-  bibtex_show = {true}
+  bibtex_show = {true},
+  selected = {true}
 }
 
 @phdthesis{brima2025thesis,
@@ -334,7 +338,8 @@
   abbr = {BioData Min.},
   abstract = {The opaque nature of deep learning models remains a significant barrier to their clinical adoption in medical imaging. This paper presents a systematic empirical benchmark of visual saliency attribution, atlas-based visualisation, and LLM-based reporting for brain tumour MRI classification, integrated into a unified pipeline, leveraging large language models (LLMs) to deliver human-interpretable diagnostic narratives. The proposed framework operates through three coupled stages. First, nine CNN architectures are extended with a dual-output hybrid formulation that simultaneously optimises a classification head and a segmentation head, enabling spatially richer feature learning. Second, visual saliency attribution methods, namely Grad-CAM, Grad-CAM++, and ScoreCAM, are applied to generate class-discriminative heatmaps, which are subsequently refined into coarse binary masks via an adaptive percentile thresholding pipeline. Third, the resulting masks are projected onto the Harvard–Oxford cortical atlas as an illustrative anatomical overlay, offering an approximate visual reference for the tumour’s cortical neighbourhood, and the extracted findings are encoded into a structured JSON file that conditions three LLMs (Grok3, Mistral, and LLaMA) to generate coherent, radiological-style diagnostic reports. Evaluated on a dataset of 4,834 contrast-enhanced T1-weighted brain MRI images spanning three tumour classes, InceptionResNetV2 achieved the highest classification performance, and Grad-CAM++ yielded the best segmentation overlap. Among the language models, Grok3 led in lexical diversity and coherence, while LLaMA achieved the highest readability score. By integrating visual, anatomical, and linguistic modalities into a unified pipeline, the framework attempts to produce technically grounded and meaningfully interpretable explanations, offering a step toward more transparent artificial intelligence-assisted brain tumour diagnosis.},
   html = {https://doi.org/10.1186/s13040-026-00601-w},
-  bibtex_show = {true}
+  bibtex_show = {true},
+  selected = {true}
 }
 
 @unpublished{brima2026multimodal,
