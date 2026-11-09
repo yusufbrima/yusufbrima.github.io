@@ -13,7 +13,9 @@ Highly motivated AI/ML Researcher with over 6 years of experience in digital sig
 
 ## Research Interests
 
-My research interests include: Medical Image Analysis; Multimodal Clinical AI; Trustworthy and Explainable AI; Robustness and Generalization; Representation Learning; Clinical Decision Support; Low-resource Health AI.
+My research interests include:: medical image analysis · multimodal clinical AI · trustworthy and explainable AI · robustness and generalisation · representation learning · AI for global health.
+
+<!-- My research interests include: Medical Image Analysis; Multimodal Clinical AI; Trustworthy and Explainable AI; Robustness and Generalization; Representation Learning; Clinical Decision Support; Low-resource Health AI. -->
 
 ## Technical Skills
 - **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, transformers, multimodal learning
@@ -25,7 +27,7 @@ My research interests include: Medical Image Analysis; Multimodal Clinical AI; T
 - **Explainable, Fair, and Trustworthy AI:** SHAP, Captum, Fairlearn, AIF360, LIME, TorchCAM, iNNvestigate
 
 ## Languages
-English (Bilingual Proficiency); German (Good); French (Elementary); Krio (Native); Kono (Native)
+English (Bilingual Proficiency); German (B1); French (Elementary); Krio (Native); Kono (Native)
 
 ##  Education
 
@@ -65,7 +67,7 @@ Research Collaboration with Rhodes University and Global Academic Partners
 **Jan 2025 – Present**
 
 * Conduct research in multimodal representation learning for biomedical data, focusing on early disease diagnosis and prognosis, with emphasis on robustness, explainability, fairness, and generalization. 
-* Co-supervise students on projects in medical imaging and clinical AI, including transformer-based 3D medical image analysis and explainable/fair AI for low-resource healthcare settings. 
+* Co-supervise students on projects in medical imaging and clinical AI, including transformer-based 3D medical image analysis and explainable/fair AI. 
 * Participate in conferences, workshops, and seminars; publish research output in top-tier conferences and journals including MICCAI, npj Digital Medical, IEEE, etc.
 
 ---
@@ -102,6 +104,7 @@ Limkokwing University of Creative Technology, Freetown, Sierra Leone
   See the [publications page](/publications/) for the full, up-to-date list.
 
 ## Competitive Scholarships and Awards
+* Lambda AI Research Grant (2026)
 * Google Cloud Academic Research Grant (2026)
 * CIFAR Deep Learning and Reinforcement Learning (DLRL) Summer School Inclusive AI Scholarship, Canada, 2024
 * Deep Learning Indaba Scholarship, 2023
