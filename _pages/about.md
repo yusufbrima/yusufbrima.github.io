@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a biomedical AI researcher. I build trustworthy machine learning for medicine: models that learn robust, multimodal representations of imaging and clinical data, explain their decisions, and generalise to the settings where they are used, including low-resource health systems.
+I am passionate about building trustworthy machine learning systems for healthcare: models that learn robust (multimodal) representations, provide faithful and clinically grounded explanations of their decisions, and generalize reliably across the settings in which they are deployed, including low-resource health systems, ultimately contributing to improved patient outcomes.
 
 Since January 2025 I have been conducting research collaboration with [Rhodes University](https://www.ru.ac.za/) and global academic partners, working on multimodal learning for early diagnosis and prognosis, and co-supervising students in medical imaging and clinical AI. I received my **Ph.D. in Cognitive Science** from [Osnabrück University](https://www.uni-osnabrueck.de/) in 2025 (advisors: Prof. Gunther Heidemann and Prof. Simone Pika), with a thesis on disentangled neural representation learning. Before that I studied at [AIMS Rwanda](https://aims.ac.rw/) (M.Sc. Mathematical Sciences), the [University of Dhaka](https://du.ac.bd/) (M.Sc. Computer Science and Engineering) and the [University of Makeni](https://unimak.edu.sl/) (B.Sc. Computer Science).
 

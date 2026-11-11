@@ -9,13 +9,11 @@ description: Curriculum vitae
 
 ## Research Profile
 
-Highly motivated AI/ML Researcher with over 6 years of experience in digital signal processing, machine learning, and deep learning with a strong track record of impactful research contributions in top-tier conferences and journals. Passionate about interdisciplinary research.
+I am passionate about building trustworthy machine learning systems for healthcare: models that learn robust (multimodal) representations, provide faithful and clinically grounded explanations of their decisions, and generalize reliably across the settings in which they are deployed, including low-resource health systems, ultimately contributing to improved patient outcomes.
 
 ## Research Interests
 
 My research interests include:: medical image analysis · multimodal clinical AI · trustworthy and explainable AI · robustness and generalisation · representation learning · AI for global health.
-
-<!-- My research interests include: Medical Image Analysis; Multimodal Clinical AI; Trustworthy and Explainable AI; Robustness and Generalization; Representation Learning; Clinical Decision Support; Low-resource Health AI. -->
 
 ## Technical Skills
 - **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, transformers, multimodal learning
@@ -33,9 +31,9 @@ English (Bilingual Proficiency); German (B1); French (Elementary); Krio (Native)
 
 ### Ph.D. in Cognitive Science
 <a href="https://www.uni-osnabrueck.de">Universität Osnabrück</a>, Germany 
-**(Nov 2021 -- Nov 2025)**
+**(Nov 2021 -- Jun 2025)**
 
-* Research focus: Deep Neural Representation Learning
+* Research focus: Disentangled Neural Representation Learning
 * Advisors: Prof. Günther Heidemann and Prof. Simone Pika
 * Funded by the <a href="https://www.uni-osnabrueck.de/en/research/research-profile-and-institutes/research-training-groups">DFG Research Training Group in Computational Cognition</a>
 
@@ -59,12 +57,12 @@ English (Bilingual Proficiency); German (B1); French (Elementary); Krio (Native)
 **(Sept 2012 -- Feb 2017)**
 
 * Undergraduate Merit Scholarship
-
+* Award: Undergraduate Merit Scholarship
 ## Professional Experience
 
-### Biomedical AI Researcher Fellow
+### Biomedical AI Research Fellow
 Research Collaboration with Rhodes University and Global Academic Partners  
-**Jan 2025 – Present**
+**Nov 2025 – Present**
 
 * Conduct research in multimodal representation learning for biomedical data, focusing on early disease diagnosis and prognosis, with emphasis on robustness, explainability, fairness, and generalization. 
 * Co-supervise students on projects in medical imaging and clinical AI, including transformer-based 3D medical image analysis and explainable/fair AI. 
