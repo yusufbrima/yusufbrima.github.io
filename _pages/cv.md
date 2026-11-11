@@ -58,6 +58,7 @@ English (Bilingual Proficiency); German (B1); French (Elementary); Krio (Native)
 
 * Undergraduate Merit Scholarship
 * Award: Undergraduate Merit Scholarship
+
 ## Professional Experience
 
 ### Biomedical AI Research Fellow
