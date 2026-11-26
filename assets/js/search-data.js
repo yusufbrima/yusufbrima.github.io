@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mentorship/";
           },
-        },{id: "post-the-pursuit-of-abstraction",
+        },{id: "post-from-machine-instructions-to-vibe-coding-the-evolution-of-computational-abstraction",
+        
+          title: "From Machine Instructions to Vibe Coding: The Evolution of Computational Abstraction",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/posts/2026/11/from-machine-instructions-to-vibe-coding/";
+          
+        },
+      },{id: "post-the-pursuit-of-abstraction",
         
           title: "The Pursuit of Abstraction",
         
@@ -410,6 +421,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-received-the-lambda-ai-research-grant-for-supporting-large-scale-multimodal-biomedical-ai-research-for-infectious-diseases",
           title: 'Received the Lambda AI Research Grant for supporting large-scale multimodal biomedical AI research...',
+          description: "",
+          section: "News",},{id: "news-our-abstract-from-benchmark-to-bedside-a-roadmap-for-trustworthy-artificial-intelligence-across-african-healthcare-contexts-has-been-accepted-for-the-inaugural-africa-regional-special-section-of-communications-of-the-acm-cacm-with-an-invitation-to-submit-the-full-manuscript",
+          title: 'Our abstract, “From Benchmark to Bedside: A Roadmap for Trustworthy Artificial Intelligence Across...',
           description: "",
           section: "News",},{id: "teaching-principles-of-programming-languages",
           title: 'Principles of Programming Languages',
